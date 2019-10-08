@@ -1,3 +1,0 @@
-%WINDIR%\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe D:\SeleniumFramework-SA\AutomationFramework\AutomationFramework.sln /t:rebuild /p:Configuration=Debug /p:Platform="any cpu"
-D:\SeleniumFramework-SA\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "D:\SeleniumFramework-SA\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll"  --testlist="D:\SeleniumFramework-SA\TestCaseFiles\MEABT.txt"  --result="D:\AutomationReports\LiveOn_SA%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=env="sa";clientname="MEABT";reportpath="D:\Reports"
-pause
