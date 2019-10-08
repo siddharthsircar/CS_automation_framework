@@ -1,0 +1,177 @@
+ClientName,ClassName,Category,ElementName,LocatorName,ExpectedText,InputVariable1,InputVariable2
+Common,Dashboard,menuitems,Dashboard MenuItem,leftmenu_menuoptiontxt,true,Dashboard,novalue
+Common,Dashboard,menuitems,Courses MenuItem,leftmenu_menuoptiontxt,true,Courses,novalue
+Common,Dashboard,menuitems,Trackers MenuItem,leftmenu_menuoptiontxt,true,Trackers,novalue
+Common,Dashboard,menuitems,ProgressCheckIn MenuItem,leftmenu_menuoptiontxt,true,Progress Check-in,novalue
+Common,Dashboard,menuitems,Resources MenuItem,leftmenu_menuoptiontxt,true,Resources,novalue
+
+hcsc,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,true,Challenges,novalue
+hcsc,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+hcsc,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+
+arrow ford,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+arrow ford,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+arrow ford,Dashboard,menuitems,Fitness Program MenuItem,leftmenu_menuoptiontxt,true,Fitness Program,novalue
+arrow ford,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,true,Challenges,novalue
+arrow ford,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+arrow ford,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,true,Coaching,novalue
+arrow ford,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue
+
+meabt,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,true,Coaching,novalue
+meabt,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+meabt,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+meabt,Dashboard,menuitems,MyHealth MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+meabt,Dashboard,menuitems,MEABT Info MenuItem,leftmenu_menuoptiontxt,true,MEABT and Onlife Health Info,novalue
+meabt,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,true,Challenges,novalue
+meabt,Dashboard,menuitems,Connection MenuItem,leftmenu_menuoptiontxt,false,Connection,novalue
+
+nucor,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,true,Coaching,novalue
+nucor,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+nucor,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+nucor,Dashboard,menuitems,My Company MenuItem,leftmenu_menuoptiontxt,true,My Company,novalue
+nucor,Dashboard,menuitems,My Challenges MenuItem,leftmenu_menuoptiontxt,true,My Challenges,novalue
+nucor,Dashboard,nomenuitems,Connection MenuItem,leftmenu_menuoptiontxt,false,Connection,novalue
+
+dollar general,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,true,Coaching,novalue
+dollar general,Dashboard,menuitems,My Company MenuItem,leftmenu_menuoptiontxt,true,My Company,novalue
+
+onlife health,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+onlife health,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+onlife health,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,true,Challenges,novalue
+onlife health,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+onlife health,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,true,Connections,novalue
+onlife health,Dashboard,menuitems,My Company MenuItem,leftmenu_menuoptiontxt,true,My Company,novalue
+onlife health,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+
+health trust,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,true,Challenges,novalue
+health trust,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,true,Coaching,novalue
+health trust,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+health trust,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+health trust,Dashboard,menuitems,MyHealth MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+health trust,Dashboard,menuitems,HealthTrust MenuItem,leftmenu_menuoptiontxt,true,HealthTrust,novalue
+health trust,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,true,Connections,novalue
+
+medicare advantage,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,false,Challenges,novalue
+medicare advantage,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+medicare advantage,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+medicare advantage,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+medicare advantage,Dashboard,menuitems,MyHealthPlan MenuItem,leftmenu_menuoptiontxt,true,My Health Plan,novalue
+medicare advantage,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue
+
+group 44,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+group 44,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,false,Financial Well-being,novalue
+group 44,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,true,Challenges,novalue
+group 44,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+group 44,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,true,Connections,novalue
+group 44,Dashboard,menuitems,My Company MenuItem,leftmenu_menuoptiontxt,true,My Company,novalue
+group 44,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+
+arc,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+arc,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+arc,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,true,Challenges,novalue
+arc,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+arc,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,true,Connections,novalue
+arc,Dashboard,menuitems,My ARC MenuItem,leftmenu_menuoptiontxt,true,My ARC,novalue
+arc,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+arc,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+
+first fleet,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+first fleet,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+first fleet,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,false,Challenges,novalue
+first fleet,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+first fleet,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+first fleet,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+first fleet,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue
+
+nissan,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+nissan,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+nissan,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,false,Challenges,novalue
+nissan,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+nissan,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,false,Certificates,novalue
+nissan,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+nissan,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue
+
+tva,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+tva,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+tva,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+tva,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,false,Challenges,novalue
+tva,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,false,Certificates,novalue
+tva,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+tva,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue
+
+comprehensive coaching,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+comprehensive coaching,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+comprehensive coaching,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+comprehensive coaching,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,false,Challenges,novalue
+comprehensive coaching,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+comprehensive coaching,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+comprehensive coaching,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue
+
+physical activity,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+physical activity,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+physical activity,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+physical activity,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,false,Challenges,novalue
+physical activity,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+physical activity,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+physical activity,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue
+
+spouses,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+spouses,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+spouses,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+spouses,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,true,Challenges,novalue
+spouses,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+spouses,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+spouses,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,true,Connections,novalue
+
+self directed,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+self directed,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+self directed,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+self directed,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,false,Challenges,novalue
+self directed,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+self directed,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+self directed,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue
+
+weight management,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+weight management,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+weight management,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+weight management,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,false,Challenges,novalue
+weight management,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+weight management,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+weight management,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue
+
+fully insured,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoptiontxt,true,Devices And Apps,novalue
+fully insured,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoptiontxt,true,Financial Well-being,novalue
+fully insured,Dashboard,menuitems,My Health MenuItem,leftmenu_menuoptiontxt,true,My Health,novalue
+fully insured,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoptiontxt,false,Challenges,novalue
+fully insured,Dashboard,menuitems,Certificate MenuItem,leftmenu_menuoptiontxt,true,Certificates,novalue
+fully insured,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoptiontxt,false,Coaching,novalue
+fully insured,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoptiontxt,false,Connections,novalue 	
+
+ 	
+
+;health trust,Dashboard,menuitems,Dashboard MenuItem,leftmenu_menuoption,Dashboard,1,novalue
+;health trust,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoption,Challenges,2,novalue
+;health trust,Dashboard,menuitems,Courses MenuItem,leftmenu_menuoption,Courses,3,novalue
+;health trust,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoption,Coaching,4,novalue
+;health trust,Dashboard,menuitems,Trackers MenuItem,leftmenu_menuoption,Trackers,5,novalue
+;health trust,Dashboard,menuitems,ProgressCheckIn MenuItem,leftmenu_menuoption,Progress Check-in,6,novalue
+;health trust,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoption,Devices And Apps,7,novalue
+;health trust,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoption,Financial Well-being,8,novalue
+;health trust,Dashboard,menuitems,Resources MenuItem,leftmenu_menuoption,Resources,9,novalue
+;health trust,Dashboard,menuitems,MyHealth MenuItem,leftmenu_menuoption,My Health,10,novalue
+;health trust,Dashboard,menuitems,HealthTrust MenuItem,leftmenu_menuoption,HealthTrust,11,novalue
+;health trust,Dashboard,menuitems,Connections MenuItem,leftmenu_menuoption,Connections,12,novalue
+;
+;Meabt,Dashboard,menuitems,Dashboard MenuItem,leftmenu_menuoption,Dashboard,1,novalue
+;Meabt,Dashboard,menuitems,Courses MenuItem,leftmenu_menuoption,Courses,2,novalue
+;Meabt,Dashboard,menuitems,Coaching MenuItem,leftmenu_menuoption,Coaching,3,novalue
+;Meabt,Dashboard,menuitems,Trackers MenuItem,leftmenu_menuoption,Trackers,5,novalue
+;Meabt,Dashboard,menuitems,ProgressCheckIn MenuItem,leftmenu_menuoption,Progress Check-in,6,novalue
+;Meabt,Dashboard,menuitems,DevicesAndApps MenuItem,leftmenu_menuoption,Devices And Apps,4,novalue
+;Meabt,Dashboard,menuitems,FinancialWellBeing MenuItem,leftmenu_menuoption,Financial Well-being,7,novalue
+;Meabt,Dashboard,menuitems,Resources MenuItem,leftmenu_menuoption,Resources,8,novalue
+;Meabt,Dashboard,menuitems,MyHealth MenuItem,leftmenu_menuoption,My Health,9,novalue
+;Meabt,Dashboard,menuitems,HealthTrust MenuItem,leftmenu_menuoption,MEABT and Onlife Health Info,10,novalue
+;Meabt,Dashboard,menuitems,Challenges MenuItem,leftmenu_menuoption,Challenges,11,novalue
+;Meabt,Dashboard,nomenuitems,Connection MenuItem,leftmenu_menuoption,Connection,11,novalue
+

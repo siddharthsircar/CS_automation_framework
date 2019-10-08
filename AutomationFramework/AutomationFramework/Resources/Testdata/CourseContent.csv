@@ -1,0 +1,595 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText
+Page_QuitTobaccoCourse,coursedata,Quit Tobacco Header,quittobaccocourseheader,Quit Tobacco
+
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 LinkText,firstlessontext,Beginning with Basics
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 Page-2 text,quittobacco_pagesheader,WELCOME!
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 Page-3 text,quittobacco_pagesheader,TOBACCO AND YOUR HEALTH
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 Page-4 text,quittobacco_pagesheader,IT'S NOT JUST A HABIT...IT'S AN ADDICTION
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 Page-5 text,quittobacco_pagesheader,IS NOW THE RIGHT TIME? HOW READY ARE YOU?
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 Page-6 text,quittobacco_pagesheader,GOAL: "THE RESULT OR ACHIEVEMENT TOWARD WHICH EFFORT IS DIRECTED"
+Page_QuitTobaccoCourse,courselesson1data,Lesson-1 Page-7 text,quittobacco_pagesheader,WRAPPING UP...LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson2data,Lesson-2 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson2data,Lesson-2 LinkText,secondlessontext,Setting the Stage
+Page_QuitTobaccoCourse,courselesson2data,Lesson-2 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson2data,Lesson-2 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson2data,Lesson-2 Page-2 text,quittobacco_pagesheader,HERE ARE FOUR QUIT METHODS. WHICH SOUNDS BEST FOR YOU?
+Page_QuitTobaccoCourse,courselesson2data,Lesson-2 Page-3 text,quittobacco_pagesheader,SETTING UP YOUR ENVIRONMENT FOR SUCCESS
+Page_QuitTobaccoCourse,courselesson2data,Lesson-2 Page-4 text,quittobacco_pagesheader,YOUR SURROUNDINGS AND OTHER PEOPLE
+Page_QuitTobaccoCourse,courselesson2data,Lesson-2 Page-5 text,quittobacco_pagesheader,USING "S.T.A.R.T" TO STOP
+Page_QuitTobaccoCourse,courselesson2data,Lesson-2 Page-6 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+
+Page_QuitTobaccoCourse,courselesson3data,Lesson-3 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson3data,Lesson-3 LinkText,thirdlessontext,Dorothy's Story
+Page_QuitTobaccoCourse,courselesson3data,Lesson-3 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson3data,Lesson-3 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson3data,Lesson-3 Page-2 text,quittobacco_pagesheader,DOROTHY AND THE THREE-LINK CHAIN
+Page_QuitTobaccoCourse,courselesson3data,Lesson-3 Page-3 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson3data,Lesson-3 Page-4 text,quittobacco_pagesheader,THINKING POINTS
+Page_QuitTobaccoCourse,courselesson3data,Lesson-3 Page-5 text,quittobacco_pagesheader,DON'T GO IT ALONE: GETTING ON TRACK WITH OTHERS
+Page_QuitTobaccoCourse,courselesson3data,Lesson-3 Page-6 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson4data,Lesson-4 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson4data,Lesson-4 LinkText,fourthlessontext,What's Your Motivation Situation?
+Page_QuitTobaccoCourse,courselesson4data,Lesson-4 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson4data,Lesson-4 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson4data,Lesson-4 Page-2 text,quittobacco_pagesheader,MOTIVATION
+Page_QuitTobaccoCourse,courselesson4data,Lesson-4 Page-3 text,quittobacco_pagesheader,MY POSITIVE MOTIVATORS
+Page_QuitTobaccoCourse,courselesson4data,Lesson-4 Page-4 text,quittobacco_pagesheader,MY NEGATIVE MOTIVATORS: "WHY DO I USE TOBACCO?"
+Page_QuitTobaccoCourse,courselesson4data,Lesson-4 Page-5 text,quittobacco_pagesheader,IS IT TOO LATE FOR SOME PEOPLE?
+Page_QuitTobaccoCourse,courselesson4data,Lesson-4 Page-6 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 LinkText,fifthlessontext,Time for Action
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Page-2 text,quittobacco_pagesheader,NO SHORTCUTS!
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Page-3 text,quittobacco_pagesheader,RETURNING TO S.T.A.R.T.
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Page-4 text,quittobacco_pagesheader,START: SET A QUIT DATE
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Page-5 text,quittobacco_pagesheader,START: TELL OTHERS ABOUT YOUR PLAN TO QUIT
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Page-6 text,quittobacco_pagesheader,ST
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Page-7 text,quittobacco_pagesheader,STA
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Page-8 text,quittobacco_pagesheader,START: TALK TO YOUR DOCTOR ABOUT GETTING HELP TO QUIT
+Page_QuitTobaccoCourse,courselesson5data,Lesson-5 Page-9 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson6data,Lesson-6 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson6data,Lesson-6 LinkText,sixthlessontext,Physical Withdrawal and Medications
+Page_QuitTobaccoCourse,courselesson6data,Lesson-6 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson6data,Lesson-6 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson6data,Lesson-6 Page-2 text,quittobacco_pagesheader,MEDICATION FOR PHYSICAL WITHDRAWAL
+Page_QuitTobaccoCourse,courselesson6data,Lesson-6 Page-3 text,quittobacco_pagesheader,NICOTINE REPLACEMENT THERAPY (NRT)
+Page_QuitTobaccoCourse,courselesson6data,Lesson-6 Page-4 text,quittobacco_pagesheader,OTHER MEDICATIONS (NON-NICOTINE)
+Page_QuitTobaccoCourse,courselesson6data,Lesson-6 Page-5 text,quittobacco_pagesheader,DECIDING ON MEDICATIONS
+Page_QuitTobaccoCourse,courselesson6data,Lesson-6 Page-6 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson7data,Lesson-7 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson7data,Lesson-7 LinkText,seventhlessontext,Supporting the Facts
+Page_QuitTobaccoCourse,courselesson7data,Lesson-7 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson7data,Lesson-7 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson7data,Lesson-7 Page-2 text,quittobacco_pagesheader,MYTH OR TRUTH?
+Page_QuitTobaccoCourse,courselesson7data,Lesson-7 Page-3 text,quittobacco_pagesheader,SUPPORT AND BEING A ROLE MODEL
+Page_QuitTobaccoCourse,courselesson7data,Lesson-7 Page-4 text,quittobacco_pagesheader,SUGGESTIONS FOR SUPPORT
+Page_QuitTobaccoCourse,courselesson7data,Lesson-7 Page-5 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson8data,Lesson-8 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson8data,Lesson-8 LinkText,eighthlessontext,Build Your Arsenal
+Page_QuitTobaccoCourse,courselesson8data,Lesson-8 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson8data,Lesson-8 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson8data,Lesson-8 Page-2 text,quittobacco_pagesheader,ACTION STEPS WORTH TRYING
+Page_QuitTobaccoCourse,courselesson8data,Lesson-8 Page-3 text,quittobacco_pagesheader,ACTION STEPS WORTH TRYING
+Page_QuitTobaccoCourse,courselesson8data,Lesson-8 Page-4 text,quittobacco_pagesheader,STRESS AND TOBACCO USE
+Page_QuitTobaccoCourse,courselesson8data,Lesson-8 Page-5 text,quittobacco_pagesheader,WHAT DO I DO NOW?
+Page_QuitTobaccoCourse,courselesson8data,Lesson-8 Page-6 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson9data,Lesson-9 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson9data,Lesson-9 LinkText,ninthlessontext,Men
+Page_QuitTobaccoCourse,courselesson9data,Lesson-9 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson9data,Lesson-9 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson9data,Lesson-9 Page-2 text,quittobacco_pagesheader,WOMEN AND TOBACCO
+Page_QuitTobaccoCourse,courselesson9data,Lesson-9 Page-3 text,quittobacco_pagesheader,MEN AND TOBACCO
+Page_QuitTobaccoCourse,courselesson9data,Lesson-9 Page-4 text,quittobacco_pagesheader,VALUES INVENTORY
+Page_QuitTobaccoCourse,courselesson9data,Lesson-9 Page-5 text,quittobacco_pagesheader,POSITIVE THINKING
+Page_QuitTobaccoCourse,courselesson9data,Lesson-9 Page-6 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson10data,Lesson-10 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson10data,Lesson-10 LinkText,tenthlessontext,Celebrating Success
+Page_QuitTobaccoCourse,courselesson10data,Lesson-10 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson10data,Lesson-10 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson10data,Lesson-10 Page-2 text,quittobacco_pagesheader,THE IMPORTANCE OF REWARDS
+Page_QuitTobaccoCourse,courselesson10data,Lesson-10 Page-3 text,quittobacco_pagesheader,TYPES OF REWARDS
+Page_QuitTobaccoCourse,courselesson10data,Lesson-10 Page-4 text,quittobacco_pagesheader,EXAMPLES OF REWARDS
+Page_QuitTobaccoCourse,courselesson10data,Lesson-10 Page-5 text,quittobacco_pagesheader,CELEBRATING SUCCESS
+Page_QuitTobaccoCourse,courselesson10data,Lesson-10 Page-6 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson11data,Lesson-11 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson11data,Lesson-11 LinkText,eleventhlessontext,The Future Looks Bright!
+Page_QuitTobaccoCourse,courselesson11data,Lesson-11 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson11data,Lesson-11 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson11data,Lesson-11 Page-2 text,quittobacco_pagesheader,IDENTIFYING WHO NEEDS HELP
+Page_QuitTobaccoCourse,courselesson11data,Lesson-11 Page-3 text,quittobacco_pagesheader,YOUR POSSIBLE ROLE
+Page_QuitTobaccoCourse,courselesson11data,Lesson-11 Page-4 text,quittobacco_pagesheader,IDENTIFYING OPPORTUNITIES
+Page_QuitTobaccoCourse,courselesson11data,Lesson-11 Page-5 text,quittobacco_pagesheader,MAKING A DIFFERENCE
+Page_QuitTobaccoCourse,courselesson11data,Lesson-11 Page-6 text,quittobacco_pagesheader,WRAPPING UP AND LOOKING AHEAD
+
+Page_QuitTobaccoCourse,courselesson12data,Lesson-12 Course Overview Header,courseoverviewheader,Course Overview
+Page_QuitTobaccoCourse,courselesson12data,Lesson-12 LinkText,twelvethlessontext,How to Avoid Relapse
+Page_QuitTobaccoCourse,courselesson12data,Lesson-12 Overview Text,quittobacco_overviewheader,Overview
+Page_QuitTobaccoCourse,courselesson12data,Lesson-12 Page-1 text,quittobacco_pagesheader,no_element
+Page_QuitTobaccoCourse,courselesson12data,Lesson-12 Page-2 text,quittobacco_pagesheader,RELAPSE! WHAT TO DO...
+Page_QuitTobaccoCourse,courselesson12data,Lesson-12 Page-3 text,quittobacco_pagesheader,RELAPSE PREVENTION: ODAT OR
+Page_QuitTobaccoCourse,courselesson12data,Lesson-12 Page-4 text,quittobacco_pagesheader,RELAPSE PREVENTION: HALTS
+Page_QuitTobaccoCourse,courselesson12data,Lesson-12 Page-5 text,quittobacco_pagesheader,HALTS CONTINUED
+Page_QuitTobaccoCourse,courselesson12data,Lesson-12 Page-6 text,quittobacco_pagesheader,NEVER QUIT QUITTING
+
+Page_ImprovingNutritionCourse,coursedata,Improving Nutrition Header,improvingnutritionheader,Improving Nutrition
+
+Page_ImprovingNutritionCourse,courselesson1data,Lesson-1 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson1data,Lesson-1 LinkText,firstlessontext,Setting the Stage
+Page_ImprovingNutritionCourse,courselesson1data,Lesson-1 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson1data,Lesson-1 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson1data,Lesson-1 Page-2 text,improvingnutrition_pagesheader,CONGRATULATIONS!
+Page_ImprovingNutritionCourse,courselesson1data,Lesson-1 Page-3 text,improvingnutrition_pagesheader,YOUR SOURCE OF NUTRITION INFORMATION
+Page_ImprovingNutritionCourse,courselesson1data,Lesson-1 Page-4 text,improvingnutrition_pagesheader,ASSESSING YOUR CURRENT DIET
+Page_ImprovingNutritionCourse,courselesson1data,Lesson-1 Page-5 text,improvingnutrition_pagesheader,GOAL SETTING
+Page_ImprovingNutritionCourse,courselesson1data,Lesson-1 Page-6 text,improvingnutrition_pagesheader,HELPFUL TOOLS
+
+Page_ImprovingNutritionCourse,courselesson2data,Lesson-2 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson2data,Lesson-2 LinkText,secondlessontext,Getting Started
+Page_ImprovingNutritionCourse,courselesson2data,Lesson-2 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson2data,Lesson-2 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson2data,Lesson-2 Page-2 text,improvingnutrition_pagesheader,CONSEQUENCES OF POOR NUTRITION
+Page_ImprovingNutritionCourse,courselesson2data,Lesson-2 Page-3 text,improvingnutrition_pagesheader,BENEFITS OF HEALTHY EATING
+Page_ImprovingNutritionCourse,courselesson2data,Lesson-2 Page-4 text,improvingnutrition_pagesheader,THE DIETARY GUIDELINES FOR AMERICANS
+Page_ImprovingNutritionCourse,courselesson2data,Lesson-2 Page-5 text,improvingnutrition_pagesheader,WHY DO YOU WANT TO CHANGE?
+
+Page_ImprovingNutritionCourse,courselesson3data,Lesson-3 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson3data,Lesson-3 LinkText,thirdlessontext,Nutrition 101
+Page_ImprovingNutritionCourse,courselesson3data,Lesson-3 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson3data,Lesson-3 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson3data,Lesson-3 Page-2 text,improvingnutrition_pagesheader,Types of Nutrients
+Page_ImprovingNutritionCourse,courselesson3data,Lesson-3 Page-3 text,improvingnutrition_pagesheader,Protein
+Page_ImprovingNutritionCourse,courselesson3data,Lesson-3 Page-4 text,improvingnutrition_pagesheader,Micronutrients: Vitamins and Minerals
+Page_ImprovingNutritionCourse,courselesson3data,Lesson-3 Page-5 text,improvingnutrition_pagesheader,Dietary Reference Intakes
+Page_ImprovingNutritionCourse,courselesson3data,Lesson-3 Page-6 text,improvingnutrition_pagesheader,Keeping a Food Diary
+
+Page_ImprovingNutritionCourse,courselesson4data,Lesson-4 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson4data,Lesson-4 LinkText,fourthlessontext,Feature Foods
+Page_ImprovingNutritionCourse,courselesson4data,Lesson-4 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson4data,Lesson-4 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson4data,Lesson-4 Page-2 text,improvingnutrition_pagesheader,FRUITS AND VEGETABLES
+Page_ImprovingNutritionCourse,courselesson4data,Lesson-4 Page-3 text,improvingnutrition_pagesheader,WHOLE GRAINS
+Page_ImprovingNutritionCourse,courselesson4data,Lesson-4 Page-4 text,improvingnutrition_pagesheader,DAIRY AND DAIRY ALTERNATIVES
+Page_ImprovingNutritionCourse,courselesson4data,Lesson-4 Page-5 text,improvingnutrition_pagesheader,PROTEIN
+Page_ImprovingNutritionCourse,courselesson4data,Lesson-4 Page-6 text,improvingnutrition_pagesheader,RECRUITING SUPPORT
+
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 LinkText,fifthlessontext,Nutrients to Notice
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 Page-2 text,improvingnutrition_pagesheader,LIMIT DIETARY FAT
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 Page-3 text,improvingnutrition_pagesheader,LIMIT DIETARY CHOLESTEROL?
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 Page-4 text,improvingnutrition_pagesheader,LIMIT SODIUM
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 Page-5 text,improvingnutrition_pagesheader,LIMIT ADDED SUGARS
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 Page-6 text,improvingnutrition_pagesheader,LIMIT ALCOHOL
+Page_ImprovingNutritionCourse,courselesson5data,Lesson-5 Page-7 text,improvingnutrition_pagesheader,WHAT ARE YOU TELLING YOURSELF?
+
+Page_ImprovingNutritionCourse,courselesson6data,Lesson-6 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson6data,Lesson-6 LinkText,sixthlessontext,Putting It All Together
+Page_ImprovingNutritionCourse,courselesson6data,Lesson-6 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson6data,Lesson-6 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson6data,Lesson-6 Page-2 text,improvingnutrition_pagesheader,USDA FOOD PATTERN
+Page_ImprovingNutritionCourse,courselesson6data,Lesson-6 Page-3 text,improvingnutrition_pagesheader,VEGETARIAN EATING PATTERN
+Page_ImprovingNutritionCourse,courselesson6data,Lesson-6 Page-4 text,improvingnutrition_pagesheader,PORTION SIZE VS. SERVING SIZE
+Page_ImprovingNutritionCourse,courselesson6data,Lesson-6 Page-5 text,improvingnutrition_pagesheader,EVALUATE YOUR PROGRESS
+
+Page_ImprovingNutritionCourse,courselesson7data,Lesson-7 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson7data,Lesson-7 LinkText,seventhlessontext,Planning for Success
+Page_ImprovingNutritionCourse,courselesson7data,Lesson-7 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson7data,Lesson-7 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson7data,Lesson-7 Page-2 text,improvingnutrition_pagesheader,GROCERY SHOPPING
+Page_ImprovingNutritionCourse,courselesson7data,Lesson-7 Page-3 text,improvingnutrition_pagesheader,NUTRITION FACTS LABEL
+Page_ImprovingNutritionCourse,courselesson7data,Lesson-7 Page-4 text,improvingnutrition_pagesheader,NUTRIENT CONTENT CLAIMS
+Page_ImprovingNutritionCourse,courselesson7data,Lesson-7 Page-5 text,improvingnutrition_pagesheader,PLAN TO EAT BREAKFAST
+Page_ImprovingNutritionCourse,courselesson7data,Lesson-7 Page-6 text,improvingnutrition_pagesheader,HEALTHY EATING ON A BUDGET
+
+Page_ImprovingNutritionCourse,courselesson8data,Lesson-8 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson8data,Lesson-8 LinkText,eighthlessontext,Cooking In & Eating Out
+Page_ImprovingNutritionCourse,courselesson8data,Lesson-8 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson8data,Lesson-8 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson8data,Lesson-8 Page-2 text,improvingnutrition_pagesheader,FOOD SAFETY
+Page_ImprovingNutritionCourse,courselesson8data,Lesson-8 Page-3 text,improvingnutrition_pagesheader,EATING OUT
+Page_ImprovingNutritionCourse,courselesson8data,Lesson-8 Page-4 text,improvingnutrition_pagesheader,YOUR VALUES AND PRIORITIES
+
+Page_ImprovingNutritionCourse,courselesson9data,Lesson-9 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson9data,Lesson-9 LinkText,ninthlessontext,Achieving Balance
+Page_ImprovingNutritionCourse,courselesson9data,Lesson-9 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson9data,Lesson-9 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson9data,Lesson-9 Page-2 text,improvingnutrition_pagesheader,ACHIEVING CALORIE BALANCE THROUGH DIET
+Page_ImprovingNutritionCourse,courselesson9data,Lesson-9 Page-3 text,improvingnutrition_pagesheader,ACHIEVING CALORIE BALANCE THROUGH PHYSICAL ACTIVITY
+Page_ImprovingNutritionCourse,courselesson9data,Lesson-9 Page-4 text,improvingnutrition_pagesheader,EATING RIGHT FOR EXERCISE
+Page_ImprovingNutritionCourse,courselesson9data,Lesson-9 Page-5 text,improvingnutrition_pagesheader,THE WONDERS OF WATER
+Page_ImprovingNutritionCourse,courselesson9data,Lesson-9 Page-6 text,improvingnutrition_pagesheader,OBSTACLES TO HEALTHY HABITS
+
+Page_ImprovingNutritionCourse,courselesson10data,Lesson-10 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson10data,Lesson-10 LinkText,tenthlessontext,Healthy Habits for the Entire Family
+Page_ImprovingNutritionCourse,courselesson10data,Lesson-10 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson10data,Lesson-10 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson10data,Lesson-10 Page-2 text,improvingnutrition_pagesheader,SPECIAL CONSIDERATIONS FOR WOMEN
+Page_ImprovingNutritionCourse,courselesson10data,Lesson-10 Page-3 text,improvingnutrition_pagesheader,SPECIAL CONSIDERATIONS FOR MEN
+Page_ImprovingNutritionCourse,courselesson10data,Lesson-10 Page-4 text,improvingnutrition_pagesheader,SPECIAL CONSIDERATIONS FOR CHILDREN
+Page_ImprovingNutritionCourse,courselesson10data,Lesson-10 Page-5 text,improvingnutrition_pagesheader,BEING A ROLE MODEL
+
+Page_ImprovingNutritionCourse,courselesson11data,Lesson-11 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson11data,Lesson-11 LinkText,eleventhlessontext,Hot Topics
+Page_ImprovingNutritionCourse,courselesson11data,Lesson-11 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson11data,Lesson-11 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson11data,Lesson-11 Page-2 text,improvingnutrition_pagesheader,EATING ORGANICALLY
+Page_ImprovingNutritionCourse,courselesson11data,Lesson-11 Page-3 text,improvingnutrition_pagesheader,SUPERFOODS
+Page_ImprovingNutritionCourse,courselesson11data,Lesson-11 Page-4 text,improvingnutrition_pagesheader,PROBIOTICS
+Page_ImprovingNutritionCourse,courselesson11data,Lesson-11 Page-5 text,improvingnutrition_pagesheader,REWARDS
+
+Page_ImprovingNutritionCourse,courselesson12data,Lesson-12 Course Overview Header,courseoverviewheader,Course Overview
+Page_ImprovingNutritionCourse,courselesson12data,Lesson-12 LinkText,twelvethlessontext,Celebrating Success
+Page_ImprovingNutritionCourse,courselesson12data,Lesson-12 Overview Text,improvingnutrition_overviewheader,Overview
+Page_ImprovingNutritionCourse,courselesson12data,Lesson-12 Page-1 text,improvingnutrition_pagesheader,no_element
+Page_ImprovingNutritionCourse,courselesson12data,Lesson-12 Page-2 text,improvingnutrition_pagesheader,LAPSE AND RELAPSE
+Page_ImprovingNutritionCourse,courselesson12data,Lesson-12 Page-3 text,improvingnutrition_pagesheader,LEARNING FROM LAPSE
+Page_ImprovingNutritionCourse,courselesson12data,Lesson-12 Page-4 text,improvingnutrition_pagesheader,CONGRATULATIONS
+Page_ImprovingNutritionCourse,courselesson12data,Lesson-12 Page-5 text,improvingnutrition_pagesheader,YOUR SUCCESS STORY
+
+Page_BloodPressureCourse,coursedata,Blood Pressure Header,bloodpressurecourseheader,Blood Pressure
+
+Page_BloodPressureCourse,courselesson1data,Lesson-1 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson1data,Lesson-1 LinkText,firstlessontext,About Hypertension
+Page_BloodPressureCourse,courselesson1data,Lesson-1 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson1data,Lesson-1 Page-1 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson1data,Lesson-1 Page-2 text,bloodpressure_pagesheader,What Is Hypertension?
+Page_BloodPressureCourse,courselesson1data,Lesson-1 Page-3 text,bloodpressure_pagesheader,What Causes Hypertension?
+Page_BloodPressureCourse,courselesson1data,Lesson-1 Page-4 text,bloodpressure_pagesheader,What Are the Risk Factors?
+Page_BloodPressureCourse,courselesson1data,Lesson-1 Page-5 text,bloodpressure_pagesheader,How Is Hypertension Treated?
+Page_BloodPressureCourse,courselesson1data,Lesson-1 Page-6 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson1data,Lesson-1 Page-7 text,bloodpressure_pagesheader,In the next lesson
+
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson2data,Lesson-2 LinkText,secondlessontext,About Blood Pressure
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Page-1 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Page-2 text,bloodpressure_pagesheader,What Factors Affect Blood Pressure?
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Page-3 text,bloodpressure_pagesheader,How Is Blood Pressure Classified?
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Page-4 text,bloodpressure_pagesheader,How Often Should I Check my Blood Pressure?
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Page-5 text,bloodpressure_pagesheader,Monitoring Your Blood Pressure
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Page-6 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Page-7 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson2data,Lesson-2 Page-8 text,bloodpressure_pagesheader,In the next lesson
+
+Page_BloodPressureCourse,courselesson3data,Lesson-3 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson3data,Lesson-3 LinkText,thirdlessontext,Taking The Hype Out Of Hypertension
+Page_BloodPressureCourse,courselesson3data,Lesson-3 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson3data,Lesson-3 Page-1 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson3data,Lesson-3 Page-2 text,bloodpressure_pagesheader,POPULAR MYTHS ABOUT BLOOD PRESSURE
+Page_BloodPressureCourse,courselesson3data,Lesson-3 Page-3 text,bloodpressure_pagesheader,Where Can I Find Accurate and Reliable Information About Blood Pressure?
+Page_BloodPressureCourse,courselesson3data,Lesson-3 Page-4 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson3data,Lesson-3 Page-5 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson3data,Lesson-3 Page-6 text,bloodpressure_pagesheader,IN THE NEXT LESSON
+
+Page_BloodPressureCourse,courselesson4data,Lesson-4 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson4data,Lesson-4 LinkText,fourthlessontext,Working With Your Doctor
+Page_BloodPressureCourse,courselesson4data,Lesson-4 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson4data,Lesson-4 Page-1 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson4data,Lesson-4 Page-2 text,bloodpressure_pagesheader,What Can I Do to Improve My Hypertension Control?
+Page_BloodPressureCourse,courselesson4data,Lesson-4 Page-3 text,bloodpressure_pagesheader,In the Doctor
+Page_BloodPressureCourse,courselesson4data,Lesson-4 Page-4 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson4data,Lesson-4 Page-5 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson4data,Lesson-4 Page-6 text,bloodpressure_pagesheader,IN THE NEXT LESSON
+
+Page_BloodPressureCourse,courselesson5data,Lesson-5 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson5data,Lesson-5 LinkText,fifthlessontext,Lifestyle Modifications
+Page_BloodPressureCourse,courselesson5data,Lesson-5 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson5data,Lesson-5 Page-1 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson5data,Lesson-5 Page-2 text,bloodpressure_pagesheader,Which Lifestyle Modifications Can Prevent and Manage Hypertension?
+Page_BloodPressureCourse,courselesson5data,Lesson-5 Page-3 text,bloodpressure_pagesheader,How Effective Are Lifestyle Modifications?
+Page_BloodPressureCourse,courselesson5data,Lesson-5 Page-4 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson5data,Lesson-5 Page-5 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson5data,Lesson-5 Page-6 text,bloodpressure_pagesheader,IN THE NEXT LESSON
+
+Page_BloodPressureCourse,courselesson6data,Lesson-6 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson6data,Lesson-6 LinkText,sixthlessontext,Eating More Potassium-Rich Foods
+Page_BloodPressureCourse,courselesson6data,Lesson-6 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson6data,Lesson-6 Page-1 text,bloodpressure_pagesheader,Potassium and Why Is it so Important?
+Page_BloodPressureCourse,courselesson6data,Lesson-6 Page-2 text,bloodpressure_pagesheader,How Much Potassium Do I Need?
+Page_BloodPressureCourse,courselesson6data,Lesson-6 Page-3 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson6data,Lesson-6 Page-4 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson6data,Lesson-6 Page-5 text,bloodpressure_pagesheader,IN THE NEXT LESSON
+
+Page_BloodPressureCourse,courselesson7data,Lesson-7 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson7data,Lesson-7 LinkText,seventhlessontext,Alcohol And Tobacco
+Page_BloodPressureCourse,courselesson7data,Lesson-7 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson7data,Lesson-7 Page-1 text,bloodpressure_pagesheader,EASY ON THE ALCOHOL
+Page_BloodPressureCourse,courselesson7data,Lesson-7 Page-2 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson7data,Lesson-7 Page-3 text,bloodpressure_pagesheader,AVOIDING TOBACCO
+Page_BloodPressureCourse,courselesson7data,Lesson-7 Page-4 text,bloodpressure_pagesheader,How Can I Quit?
+Page_BloodPressureCourse,courselesson7data,Lesson-7 Page-5 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson7data,Lesson-7 Page-6 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson7data,Lesson-7 Page-7 text,bloodpressure_pagesheader,IN THE NEXT LESSON
+
+Page_BloodPressureCourse,courselesson8data,Lesson-8 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson8data,Lesson-8 LinkText,eighthlessontext,Physical Activity
+Page_BloodPressureCourse,courselesson8data,Lesson-8 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson8data,Lesson-8 Page-1 text,bloodpressure_pagesheader,How Does Physical Activity Affect Blood Pressure?
+Page_BloodPressureCourse,courselesson8data,Lesson-8 Page-2 text,bloodpressure_pagesheader,m Exercising at Moderate-intensity?
+Page_BloodPressureCourse,courselesson8data,Lesson-8 Page-3 text,bloodpressure_pagesheader,Is There Anything I Shouldn
+Page_BloodPressureCourse,courselesson8data,Lesson-8 Page-4 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson8data,Lesson-8 Page-5 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson8data,Lesson-8 Page-6 text,bloodpressure_pagesheader,IN THE NEXT LESSON
+
+Page_BloodPressureCourse,courselesson9data,Lesson-9 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson9data,Lesson-9 LinkText,ninthlessontext,Limiting Sodium
+Page_BloodPressureCourse,courselesson9data,Lesson-9 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson9data,Lesson-9 Page-1 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson9data,Lesson-9 Page-2 text,bloodpressure_pagesheader,How Does Sodium Affect Blood Pressure?
+Page_BloodPressureCourse,courselesson9data,Lesson-9 Page-3 text,bloodpressure_pagesheader,How Do I Know how Much Sodium I
+Page_BloodPressureCourse,courselesson9data,Lesson-9 Page-4 text,bloodpressure_pagesheader,How Do I Cut Back on Sodium?
+Page_BloodPressureCourse,courselesson9data,Lesson-9 Page-5 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson9data,Lesson-9 Page-6 text,bloodpressure_pagesheader,IN THE NEXT LESSON
+
+Page_BloodPressureCourse,courselesson10data,Lesson-10 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson10data,Lesson-10 LinkText,tenthlessontext,The DASH Eating Plan
+Page_BloodPressureCourse,courselesson10data,Lesson-10 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson10data,Lesson-10 Page-1 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson10data,Lesson-10 Page-2 text,bloodpressure_pagesheader,Fruits
+Page_BloodPressureCourse,courselesson10data,Lesson-10 Page-3 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson10data,Lesson-10 Page-4 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson10data,Lesson-10 Page-5 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson10data,Lesson-10 Page-6 text,bloodpressure_pagesheader,IN THE NEXT LESSON
+
+Page_BloodPressureCourse,courselesson11data,Lesson-11 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson11data,Lesson-11 LinkText,eleventhlessontext,More About The DASH Eating Plan
+Page_BloodPressureCourse,courselesson11data,Lesson-11 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson11data,Lesson-11 Page-1 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson11data,Lesson-11 Page-2 text,bloodpressure_pagesheader,How Do I Limit my Solid Fat Intake?
+Page_BloodPressureCourse,courselesson11data,Lesson-11 Page-3 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson11data,Lesson-11 Page-4 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson11data,Lesson-11 Page-5 text,bloodpressure_pagesheader,A Well-stocked Refrigerator
+Page_BloodPressureCourse,courselesson11data,Lesson-11 Page-6 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson11data,Lesson-11 Page-7 text,bloodpressure_pagesheader,IN THE NEXT LESSON
+
+Page_BloodPressureCourse,courselesson12data,Lesson-12 Course Overview Header,courseoverviewheader,Course Overview
+Page_BloodPressureCourse,courselesson12data,Lesson-12 LinkText,twelvethlessontext,Putting It All Together
+Page_BloodPressureCourse,courselesson12data,Lesson-12 Overview Text,bloodpressure_overviewheader,Overview
+Page_BloodPressureCourse,courselesson12data,Lesson-12 Page-1 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson12data,Lesson-12 Page-2 text,bloodpressure_pagesheader,Making Healthier Protein Choices
+Page_BloodPressureCourse,courselesson12data,Lesson-12 Page-3 text,bloodpressure_pagesheader,PUTTING IT ALL TOGETHER
+Page_BloodPressureCourse,courselesson12data,Lesson-12 Page-4 text,bloodpressure_pagesheader,no_element
+Page_BloodPressureCourse,courselesson12data,Lesson-12 Page-5 text,bloodpressure_pagesheader,A TIME FOR REFLECTION
+
+Page_ManageStressCourse,coursedata,Managing Stress Header,managestresscourseheader,Managing Stress
+
+Page_ManageStressCourse,courselesson1data,Lesson-1 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson1data,Lesson-1 LinkText,firstlessontext,Building A Foundation
+Page_ManageStressCourse,courselesson1data,Lesson-1 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson1data,Lesson-1 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson1data,Lesson-1 Page-2 text,managestress_pagesheader,CONGRATULATIONS AND WELCOME!
+Page_ManageStressCourse,courselesson1data,Lesson-1 Page-3 text,managestress_pagesheader,STRESS: WHAT IS IT?
+Page_ManageStressCourse,courselesson1data,Lesson-1 Page-4 text,managestress_pagesheader,WHAT STRESS DOES TO YOUR BODY
+Page_ManageStressCourse,courselesson1data,Lesson-1 Page-5 text,managestress_pagesheader,WHY WOULD ANYONE WANT TO LEARN TO MANAGE HIS OR HER STRESS?
+Page_ManageStressCourse,courselesson1data,Lesson-1 Page-6 text,managestress_pagesheader,TAKING YOUR FIRST STEPS
+
+Page_ManageStressCourse,courselesson2data,Lesson-2 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson2data,Lesson-2 LinkText,secondlessontext,Creating Your "Toolbox"
+Page_ManageStressCourse,courselesson2data,Lesson-2 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson2data,Lesson-2 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson2data,Lesson-2 Page-2 text,managestress_pagesheader,THE IMPORTANCE OF HAVING THE RIGHT KIND OF TOOLS
+Page_ManageStressCourse,courselesson2data,Lesson-2 Page-3 text,managestress_pagesheader,ADDING TO YOUR TOOLBOX
+Page_ManageStressCourse,courselesson2data,Lesson-2 Page-4 text,managestress_pagesheader,CREATING YOUR STRESS MANAGEMENT TOOLBOX
+Page_ManageStressCourse,courselesson2data,Lesson-2 Page-5 text,managestress_pagesheader,PRACTICING WITH YOUR TOOLS
+
+Page_ManageStressCourse,courselesson3data,Lesson-3 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson3data,Lesson-3 LinkText,thirdlessontext,Your Personal Blueprint
+Page_ManageStressCourse,courselesson3data,Lesson-3 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson3data,Lesson-3 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson3data,Lesson-3 Page-2 text,managestress_pagesheader,THE DISADVANTAGES OF STRESS
+Page_ManageStressCourse,courselesson3data,Lesson-3 Page-3 text,managestress_pagesheader,THE BENEFITS OF CHANGE
+Page_ManageStressCourse,courselesson3data,Lesson-3 Page-4 text,managestress_pagesheader,BELIEVING IN CHANGE
+Page_ManageStressCourse,courselesson3data,Lesson-3 Page-5 text,managestress_pagesheader,COMMITTING TO CHANGE
+
+Page_ManageStressCourse,courselesson4data,Lesson-4 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson4data,Lesson-4 LinkText,fourthlessontext,Acting vs. Reacting
+Page_ManageStressCourse,courselesson4data,Lesson-4 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson4data,Lesson-4 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson4data,Lesson-4 Page-2 text,managestress_pagesheader,WHAT IS REACTING?
+Page_ManageStressCourse,courselesson4data,Lesson-4 Page-3 text,managestress_pagesheader,WHY IS IT IMPORTANT TO ACT?
+Page_ManageStressCourse,courselesson4data,Lesson-4 Page-4 text,managestress_pagesheader,LEARNING HOW TO ACT
+Page_ManageStressCourse,courselesson4data,Lesson-4 Page-5 text,managestress_pagesheader,THINK ABOUT THE PAST
+
+Page_ManageStressCourse,courselesson5data,Lesson-5 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson5data,Lesson-5 LinkText,fifthlessontext,Being Positive!
+Page_ManageStressCourse,courselesson5data,Lesson-5 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson5data,Lesson-5 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson5data,Lesson-5 Page-2 text,managestress_pagesheader,EXAMINING YOUR STRESSORS
+Page_ManageStressCourse,courselesson5data,Lesson-5 Page-3 text,managestress_pagesheader,REFRAMING SITUATIONS FROM NEGATIVE TO POSITIVE
+Page_ManageStressCourse,courselesson5data,Lesson-5 Page-4 text,managestress_pagesheader,RESPECTING YOUR LIMITATIONS
+Page_ManageStressCourse,courselesson5data,Lesson-5 Page-5 text,managestress_pagesheader,SENDING POSITIVE MESSAGES TO YOURSELF
+
+Page_ManageStressCourse,courselesson6data,Lesson-6 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson6data,Lesson-6 LinkText,sixthlessontext,Learning How to Relax
+Page_ManageStressCourse,courselesson6data,Lesson-6 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson6data,Lesson-6 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson6data,Lesson-6 Page-2 text,managestress_pagesheader,READING YOUR BODY: WHAT HAPPENS INSIDE WHEN YOU FEEL STRESS
+Page_ManageStressCourse,courselesson6data,Lesson-6 Page-3 text,managestress_pagesheader,PROTECTING YOURSELF FROM THE EFFECTS OF STRESS
+Page_ManageStressCourse,courselesson6data,Lesson-6 Page-4 text,managestress_pagesheader,MODIFYING YOUR RESPONSES TO STRESSFUL SITUATIONS
+Page_ManageStressCourse,courselesson6data,Lesson-6 Page-5 text,managestress_pagesheader,TAKING YOUR NEXT STEPS
+
+Page_ManageStressCourse,courselesson7data,Lesson-7 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson7data,Lesson-7 LinkText,seventhlessontext,More Tools for Your Toolbox
+Page_ManageStressCourse,courselesson7data,Lesson-7 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson7data,Lesson-7 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson7data,Lesson-7 Page-2 text,managestress_pagesheader,MYTHS ABOUT STRESS
+Page_ManageStressCourse,courselesson7data,Lesson-7 Page-3 text,managestress_pagesheader,MORE TOOLS FOR YOUR TOOLBOX
+Page_ManageStressCourse,courselesson7data,Lesson-7 Page-4 text,managestress_pagesheader,EXPANDING YOUR KNOWLEDGE
+Page_ManageStressCourse,courselesson7data,Lesson-7 Page-5 text,managestress_pagesheader,BUILDING YOUR BUILDING AND OTHERS!
+
+Page_ManageStressCourse,courselesson8data,Lesson-8 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson8data,Lesson-8 LinkText,eighthlessontext,Stress at Home and Work
+Page_ManageStressCourse,courselesson8data,Lesson-8 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson8data,Lesson-8 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson8data,Lesson-8 Page-2 text,managestress_pagesheader,WORK-LIFE BALANCE
+Page_ManageStressCourse,courselesson8data,Lesson-8 Page-3 text,managestress_pagesheader,LEAVE WORK AT WORK
+Page_ManageStressCourse,courselesson8data,Lesson-8 Page-4 text,managestress_pagesheader,THE IMPORTANCE OF REMAINING POSITIVE
+Page_ManageStressCourse,courselesson8data,Lesson-8 Page-5 text,managestress_pagesheader,BEHAVIOR CHAIN
+
+Page_ManageStressCourse,courselesson9data,Lesson-9 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson9data,Lesson-9 LinkText,ninthlessontext,Remembering What's Important 
+Page_ManageStressCourse,courselesson9data,Lesson-9 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson9data,Lesson-9 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson9data,Lesson-9 Page-2 text,managestress_pagesheader,THE LONG-TERM EFFECTS OF STRESS HORMONES
+Page_ManageStressCourse,courselesson9data,Lesson-9 Page-3 text,managestress_pagesheader,CREATIVE THINKING EXERCISE
+Page_ManageStressCourse,courselesson9data,Lesson-9 Page-4 text,managestress_pagesheader,VALUES INVENTORY
+Page_ManageStressCourse,courselesson9data,Lesson-9 Page-5 text,managestress_pagesheader,WHERE YOU'VE BEEN . . . WHERE YOU'RE GOING
+
+Page_ManageStressCourse,courselesson10data,Lesson-10 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson10data,Lesson-10 LinkText,tenthlessontext,Write It Out 
+Page_ManageStressCourse,courselesson10data,Lesson-10 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson10data,Lesson-10 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson10data,Lesson-10 Page-2 text,managestress_pagesheader,KEEPING A JOURNAL
+Page_ManageStressCourse,courselesson10data,Lesson-10 Page-3 text,managestress_pagesheader,WHY KEEPING A JOURNAL IS HELPFUL
+Page_ManageStressCourse,courselesson10data,Lesson-10 Page-4 text,managestress_pagesheader,JOURNALING FOR STRESS MANAGEMENT
+Page_ManageStressCourse,courselesson10data,Lesson-10 Page-5 text,managestress_pagesheader,REWARD YOURSELF!
+
+Page_ManageStressCourse,courselesson11data,Lesson-11 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson11data,Lesson-11 LinkText,eleventhlessontext,Helping Others Build 
+Page_ManageStressCourse,courselesson11data,Lesson-11 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson11data,Lesson-11 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson11data,Lesson-11 Page-2 text,managestress_pagesheader,THE PREVALENCE OF STRESS IN AMERICA
+Page_ManageStressCourse,courselesson11data,Lesson-11 Page-3 text,managestress_pagesheader,STRESS IN THE FAMILY
+Page_ManageStressCourse,courselesson11data,Lesson-11 Page-4 text,managestress_pagesheader,IDENTIFYING OPPORTUNITIES
+Page_ManageStressCourse,courselesson11data,Lesson-11 Page-5 text,managestress_pagesheader,MAKING A DIFFERENCE
+
+Page_ManageStressCourse,courselesson12data,Lesson-12 Course Overview Header,courseoverviewheader,Course Overview
+Page_ManageStressCourse,courselesson12data,Lesson-12 LinkText,twelvethlessontext,Maintaining Your Craftsmanship 
+Page_ManageStressCourse,courselesson12data,Lesson-12 Overview Text,managestress_overviewheader,Overview
+Page_ManageStressCourse,courselesson12data,Lesson-12 Page-1 text,managestress_pagesheader,no_element
+Page_ManageStressCourse,courselesson12data,Lesson-12 Page-2 text,managestress_pagesheader,THE IMPORTANCE OF PRACTICE
+Page_ManageStressCourse,courselesson12data,Lesson-12 Page-3 text,managestress_pagesheader,THREE FINAL TOOLS
+Page_ManageStressCourse,courselesson12data,Lesson-12 Page-4 text,managestress_pagesheader,RELAPSE PREVENTION
+Page_ManageStressCourse,courselesson12data,Lesson-12 Page-5 text,managestress_pagesheader,CONTINUING YOUR EFFORTS
+Page_ManageStressCourse,courselesson12data,Lesson-12 Page-6 text,managestress_pagesheader,YOUR FUTURE BLUEPRINT
+
+Page_WeightManagementCourse,coursedata,Weight Management Header,weightcourseheader,Weight Management
+
+Page_WeightManagementCourse,courselesson1data,Lesson-1 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson1data,Lesson-1 LinkText,firstlessontext,Why Weight?
+Page_WeightManagementCourse,courselesson1data,Lesson-1 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson1data,Lesson-1 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson1data,Lesson-1 Page-2 text,weightcourse_pagesheader,WELCOME!
+Page_WeightManagementCourse,courselesson1data,Lesson-1 Page-3 text,weightcourse_pagesheader,YOUR WEIGHT MANAGEMENT GOAL
+Page_WeightManagementCourse,courselesson1data,Lesson-1 Page-4 text,weightcourse_pagesheader,YOUR WEIGHT MANAGEMENT GOAL
+Page_WeightManagementCourse,courselesson1data,Lesson-1 Page-5 text,weightcourse_pagesheader,YOUR WEIGHT MANAGEMENT GOAL
+Page_WeightManagementCourse,courselesson1data,Lesson-1 Page-6 text,weightcourse_pagesheader,SETTING YOUR GOAL
+Page_WeightManagementCourse,courselesson1data,Lesson-1 Page-7 text,weightcourse_pagesheader,HELPFUL TOOLS
+
+Page_WeightManagementCourse,courselesson2data,Lesson-2 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson2data,Lesson-2 LinkText,secondlessontext,Calories Count
+Page_WeightManagementCourse,courselesson2data,Lesson-2 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson2data,Lesson-2 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson2data,Lesson-2 Page-2 text,weightcourse_pagesheader,CALORIES IN VS. CALORIES OUT
+Page_WeightManagementCourse,courselesson2data,Lesson-2 Page-3 text,weightcourse_pagesheader,MORE ON CALORIES
+Page_WeightManagementCourse,courselesson2data,Lesson-2 Page-4 text,weightcourse_pagesheader,BENEFITS OF WEIGHT MANAGEMENT
+Page_WeightManagementCourse,courselesson2data,Lesson-2 Page-5 text,weightcourse_pagesheader,YOUR MOTIVATION
+Page_WeightManagementCourse,courselesson2data,Lesson-2 Page-6 text,weightcourse_pagesheader,no_element
+
+Page_WeightManagementCourse,courselesson3data,Lesson-3 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson3data,Lesson-3 LinkText,thirdlessontext,Move it to Lose it!
+Page_WeightManagementCourse,courselesson3data,Lesson-3 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson3data,Lesson-3 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson3data,Lesson-3 Page-2 text,weightcourse_pagesheader,CALORIES BURNED DURING PHYSICAL ACTIVITY
+Page_WeightManagementCourse,courselesson3data,Lesson-3 Page-3 text,weightcourse_pagesheader,BALANCING PHYSICAL ACTIVITY AND FOOD
+Page_WeightManagementCourse,courselesson3data,Lesson-3 Page-4 text,weightcourse_pagesheader,IT'S NOT JUST ABOUT YOUR WEIGHT!
+Page_WeightManagementCourse,courselesson3data,Lesson-3 Page-5 text,weightcourse_pagesheader,THE PHYSICAL ACTIVITY GUIDELINES
+Page_WeightManagementCourse,courselesson3data,Lesson-3 Page-6 text,weightcourse_pagesheader,Strength Training
+Page_WeightManagementCourse,courselesson3data,Lesson-3 Page-7 text,weightcourse_pagesheader,FITTING IT IN
+
+Page_WeightManagementCourse,courselesson4data,Lesson-4 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson4data,Lesson-4 LinkText,fourthlessontext,The Building Blocks of a Healthy Diet
+Page_WeightManagementCourse,courselesson4data,Lesson-4 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson4data,Lesson-4 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson4data,Lesson-4 Page-2 text,weightcourse_pagesheader,CARBOHYDRATES
+Page_WeightManagementCourse,courselesson4data,Lesson-4 Page-3 text,weightcourse_pagesheader,PROTEINS
+Page_WeightManagementCourse,courselesson4data,Lesson-4 Page-4 text,weightcourse_pagesheader,FATS
+Page_WeightManagementCourse,courselesson4data,Lesson-4 Page-5 text,weightcourse_pagesheader,MONITORING YOUR PROGRESS
+
+Page_WeightManagementCourse,courselesson5data,Lesson-5 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson5data,Lesson-5 LinkText,fifthlessontext,Don't Follow the Fad
+Page_WeightManagementCourse,courselesson5data,Lesson-5 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson5data,Lesson-5 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson5data,Lesson-5 Page-2 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson5data,Lesson-5 Page-3 text,weightcourse_pagesheader,PORTION SIZE VS. SERVING SIZE
+Page_WeightManagementCourse,courselesson5data,Lesson-5 Page-4 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson5data,Lesson-5 Page-5 text,weightcourse_pagesheader,REWARD YOUR WAY TO SUCCESS
+
+Page_WeightManagementCourse,courselesson6data,Lesson-6 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson6data,Lesson-6 LinkText,sixthlessontext,Planning for Success
+Page_WeightManagementCourse,courselesson6data,Lesson-6 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson6data,Lesson-6 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson6data,Lesson-6 Page-2 text,weightcourse_pagesheader,GOOD DAY/BAD DAY
+Page_WeightManagementCourse,courselesson6data,Lesson-6 Page-3 text,weightcourse_pagesheader,GROCERY SHOPPING
+Page_WeightManagementCourse,courselesson6data,Lesson-6 Page-4 text,weightcourse_pagesheader,NUTRITION FACTS LABEL
+Page_WeightManagementCourse,courselesson6data,Lesson-6 Page-5 text,weightcourse_pagesheader,WHAT ARE YOUR TRIGGERS?
+Page_WeightManagementCourse,courselesson6data,Lesson-6 Page-6 text,weightcourse_pagesheader,Congratulations and Welcome!
+
+Page_WeightManagementCourse,courselesson7data,Lesson-7 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson7data,Lesson-7 LinkText,seventhlessontext,Healthy Eating In and Out
+Page_WeightManagementCourse,courselesson7data,Lesson-7 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson7data,Lesson-7 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson7data,Lesson-7 Page-2 text,weightcourse_pagesheader,EATING OUT
+Page_WeightManagementCourse,courselesson7data,Lesson-7 Page-3 text,weightcourse_pagesheader,EATING OUT
+Page_WeightManagementCourse,courselesson7data,Lesson-7 Page-4 text,weightcourse_pagesheader,PORTION DISTORTION
+Page_WeightManagementCourse,courselesson7data,Lesson-7 Page-5 text,weightcourse_pagesheader,MAKING YOUR HEALTH A PRIORITY
+
+Page_WeightManagementCourse,courselesson8data,Lesson-8 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson8data,Lesson-8 LinkText,eighthlessontext,Overcoming Obstacles
+Page_WeightManagementCourse,courselesson8data,Lesson-8 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson8data,Lesson-8 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson8data,Lesson-8 Page-2 text,weightcourse_pagesheader,SATISFY YOUR SWEET TOOTH
+Page_WeightManagementCourse,courselesson8data,Lesson-8 Page-3 text,weightcourse_pagesheader,LIMIT YOUR ALCOHOL
+Page_WeightManagementCourse,courselesson8data,Lesson-8 Page-4 text,weightcourse_pagesheader,WHAT IS METABOLISM?
+Page_WeightManagementCourse,courselesson8data,Lesson-8 Page-5 text,weightcourse_pagesheader,OVERCOMING OBSTACLES
+
+Page_WeightManagementCourse,courselesson9data,Lesson-9 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson9data,Lesson-9 LinkText,ninthlessontext,You are What You Eat & Drink
+Page_WeightManagementCourse,courselesson9data,Lesson-9 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson9data,Lesson-9 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson9data,Lesson-9 Page-2 text,weightcourse_pagesheader,EAT BREAKFAST
+Page_WeightManagementCourse,courselesson9data,Lesson-9 Page-3 text,weightcourse_pagesheader,LIMIT "EXTRAS"
+Page_WeightManagementCourse,courselesson9data,Lesson-9 Page-4 text,weightcourse_pagesheader,DON'T DRINK YOUR CALORIES
+Page_WeightManagementCourse,courselesson9data,Lesson-9 Page-5 text,weightcourse_pagesheader,WONDERFUL WATER
+Page_WeightManagementCourse,courselesson9data,Lesson-9 Page-6 text,weightcourse_pagesheader,RECRUITING SUPPORT
+
+Page_WeightManagementCourse,courselesson10data,Lesson-10 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson10data,Lesson-10 LinkText,tenthlessontext,Emotional Eating
+Page_WeightManagementCourse,courselesson10data,Lesson-10 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson10data,Lesson-10 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson10data,Lesson-10 Page-2 text,weightcourse_pagesheader,ARE YOU AN EMOTIONAL EATER?
+Page_WeightManagementCourse,courselesson10data,Lesson-10 Page-3 text,weightcourse_pagesheader,STRESS EATING
+Page_WeightManagementCourse,courselesson10data,Lesson-10 Page-4 text,weightcourse_pagesheader,THINK POSITIVELY
+
+Page_WeightManagementCourse,courselesson11data,Lesson-11 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson11data,Lesson-11 LinkText,eleventhlessontext,Preventing Relapse
+Page_WeightManagementCourse,courselesson11data,Lesson-11 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson11data,Lesson-11 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson11data,Lesson-11 Page-2 text,weightcourse_pagesheader,LAPSE VS. RELAPSE
+Page_WeightManagementCourse,courselesson11data,Lesson-11 Page-3 text,weightcourse_pagesheader,YOUR COPING PLAN
+Page_WeightManagementCourse,courselesson11data,Lesson-11 Page-4 text,weightcourse_pagesheader,GETTING BACK ON TRACK
+
+Page_WeightManagementCourse,courselesson12data,Lesson-12 Course Overview Header,courseoverviewheader,Course Overview
+Page_WeightManagementCourse,courselesson12data,Lesson-12 LinkText,twelvethlessontext,Celebrating Success
+Page_WeightManagementCourse,courselesson12data,Lesson-12 Overview Text,weightcourse_overviewheader,Overview
+Page_WeightManagementCourse,courselesson12data,Lesson-12 Page-1 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson12data,Lesson-12 Page-2 text,weightcourse_pagesheader,PARTING TIPS FOR SUCCESS
+Page_WeightManagementCourse,courselesson12data,Lesson-12 Page-3 text,weightcourse_pagesheader,no_element
+Page_WeightManagementCourse,courselesson12data,Lesson-12 Page-4 text,weightcourse_pagesheader,BEING A ROLE MODEL
+Page_WeightManagementCourse,courselesson12data,Lesson-12 Page-5 text,weightcourse_pagesheader,YOU ARE A SUCCESS STORY!
+

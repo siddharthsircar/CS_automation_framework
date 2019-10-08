@@ -1,0 +1,5 @@
+Execute base on Category: 
+nunit3-console "H:\SeleniumFramework\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where "cat==Smoke"
+
+nunit3-console "H:\SeleniumFramework\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --testlist="h:\list.txt"
+nunit3-console "H:\SeleniumFramework\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --test=AutomationFramework.tests.Login.TC_VerifyLogin

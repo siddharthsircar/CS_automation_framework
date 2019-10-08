@@ -1,0 +1,22 @@
+ClassName,Category,ElementName,QuestionText,ResponseText,InputData
+Page_NewHA,yourinfo,yourinfo_overallhealth,physical health,Excellent,radiobtn
+Page_NewHA,yourinfo,yourinfo_eatinghabits,eating habits,Healthy and well-balanced,radiobtn
+Page_NewHA,yourinfo,yourinfo_drinkhabits,alcoholic beverages,I do not drink,radiobtn
+Page_NewHA,yourinfo,yourinfo_smokehabits,cigarette smoking habits,Never smoked,radiobtn
+Page_NewHA,yourinfo,yourinfo_cigarhabits,,Never used,radiobtn
+Page_NewHA,yourinfo,yourinfo_pipeshabits,,Never used,radiobtn
+Page_NewHA,yourinfo,yourinfo_smokelesshabits,,Never used,radiobtn
+Page_NewHA,yourinfo,yourinfo_moderatehours,moderate activities,Hours,5
+Page_NewHA,yourinfo,yourinfo_moderatemins,moderate activities,Minutes,15
+Page_NewHA,yourinfo,yourinfo_vigoroushours,vigorous activities,Hours,3
+Page_NewHA,yourinfo,yourinfo_vigorousmins,vigorous activities,Minutes,15
+Page_NewHA,yourinfo,yourinfo_stresseffect,stress,Barely any or none,radiobtn
+Page_NewHA,yourinfo,yourinfo_diabeticstatus,diabetes,No,radiobtn
+Page_NewHA,yourinfo,yourinfo_heightfeet,height,Feet,5
+Page_NewHA,yourinfo,yourinfo_heightinch,height,Inches,10
+Page_NewHA,yourinfo,yourinfo_weightpound,weight,Pounds,160
+Page_NewHA,yourinfo,yourinfo_systolic_bp,blood pressure,Systolic BP,120
+Page_NewHA,yourinfo,yourinfo_diastolic_bp,blood pressure,Diastolic BP,100
+Page_NewHA,yourinfo,yourinfo_totalcholesterol,TOTAL cholesterol,Total cholesterol,100
+Page_NewHA,yourinfo,yourinfo_hdl,HDL,HDL cholesterol,75
+Page_NewHA,yourinfo,yourinfo_ldl,LDL,LDL cholesterol,100

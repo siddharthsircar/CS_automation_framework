@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\SpecFlow.Tools.MsBuild.Generation.2.3.2\build\SpecFlow.Tools.MsBuild.Generation.props" Condition="Exists('..\packages\SpecFlow.Tools.MsBuild.Generation.2.3.2\build\SpecFlow.Tools.MsBuild.Generation.props')" />
+  <Import Project="..\packages\NUnit3TestAdapter.3.10.0\build\net35\NUnit3TestAdapter.props" Condition="Exists('..\packages\NUnit3TestAdapter.3.10.0\build\net35\NUnit3TestAdapter.props')" />
+  <Import Project="..\packages\NUnit.3.10.1\build\NUnit.props" Condition="Exists('..\packages\NUnit.3.10.1\build\NUnit.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8EDF4429-251A-416D-BB68-93F227191BCF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AutomationFramework</RootNamespace>
+    <AssemblyName>AutomationFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\AutomationFramework.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="appium-dotnet-driver, Version=3.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Appium.WebDriver.3.0.0.2\lib\net45\appium-dotnet-driver.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Castle.Core.4.2.1\lib\net45\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DnsClient, Version=1.0.7.0, Culture=neutral, PublicKeyToken=4574bb5573c51424, processorArchitecture=MSIL">
+      <HintPath>..\packages\DnsClient.1.0.7\lib\net45\DnsClient.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ExtentReports, Version=3.1.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExtentReports.3.1.3\lib\ExtentReports.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FluentAssertions, Version=5.3.0.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentAssertions.5.3.0\lib\net45\FluentAssertions.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.8.0.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.8.0\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <HintPath>..\packages\SikuliIntegrator.1.1.0\lib\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MongoDB.Bson, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Bson.2.5.0\lib\net45\MongoDB.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.2.5.0\lib\net45\MongoDB.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver.Core, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.Core.2.5.0\lib\net45\MongoDB.Driver.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil, Version=0.9.6.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.Engine.3.8.0\lib\Mono.Cecil.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="nunit-agent, Version=3.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.Engine.3.8.0\lib\nunit-agent.exe</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="nunit-agent-x86, Version=3.8.0.0, Culture=neutral, processorArchitecture=x86">
+      <HintPath>..\packages\NUnit.Engine.3.8.0\lib\nunit-agent-x86.exe</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="nunit.engine, Version=3.8.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\NUnit.Engine.3.8.0\lib\nunit.engine.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="nunit.engine.api, Version=3.0.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.Engine.3.8.0\lib\nunit.engine.api.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="nunit.framework, Version=3.10.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.10.1\lib\net45\nunit.framework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RazorEngine, Version=3.10.0.0, Culture=neutral, PublicKeyToken=9ee697374c7e744a, processorArchitecture=MSIL">
+      <HintPath>..\packages\RazorEngine.3.10.0\lib\net45\RazorEngine.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RestSharp, Version=105.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.105.2.2\lib\net451\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SeleniumExtras.WaitHelpers, Version=3.11.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotNetSeleniumExtras.WaitHelpers.3.11.0\lib\net45\SeleniumExtras.WaitHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpAvi, Version=2.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpAvi.2.1.1\lib\net45\SharpAvi.dll</HintPath>
+    </Reference>
+    <Reference Include="Sikuli4Net, Version=1.0.5319.36348, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Sikuli4Net.1.0.6\lib\Sikuli4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="SikuliModule, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SikuliIntegrator.1.1.0\lib\SikuliModule.dll</HintPath>
+    </Reference>
+    <Reference Include="SikuliSharp, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SikuliSharp.1.4.0\lib\net45\SikuliSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SpecRun.SpecFlowPlugin, Version=1.7.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpecRun.SpecFlow.2-3-0.1.7.2\lib\net45\SpecRun.SpecFlowPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard1.1\System.Buffers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing">
+      <HintPath>..\packages\SikuliIntegrator.1.1.0\lib\System.Drawing.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.4\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="TechTalk.SpecFlow, Version=2.3.2.0, Culture=neutral, PublicKeyToken=0778194805d6db41, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpecFlow.2.3.2\lib\net45\TechTalk.SpecFlow.dll</HintPath>
+    </Reference>
+    <Reference Include="TechTalk.SpecRun, Version=1.7.2.0, Culture=neutral, PublicKeyToken=d0fc5cc18b3b389b, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpecRun.SpecFlow.2-3-0.1.7.2\lib\net45\TechTalk.SpecRun.dll</HintPath>
+    </Reference>
+    <Reference Include="TechTalk.SpecRun.Common, Version=1.7.2.0, Culture=neutral, PublicKeyToken=d0fc5cc18b3b389b, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpecRun.SpecFlow.2-3-0.1.7.2\lib\net45\TechTalk.SpecRun.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver, Version=3.12.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.WebDriver.3.12.0\lib\net45\WebDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver.Support, Version=3.12.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.Support.3.12.0\lib\net45\WebDriver.Support.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FeatureFiles\LiveOn.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LiveOn.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Framework\BaseAPI.cs" />
+    <Compile Include="Framework\ReadConfig.cs" />
+    <Compile Include="Framework\SpecBase.cs" />
+    <Compile Include="Framework\Base.cs" />
+    <Compile Include="Framework\CSVReader.cs" />
+    <Compile Include="Framework\CSVReaderDataTable.cs" />
+    <Compile Include="Framework\DriverFactory.cs" />
+    <Compile Include="Framework\ElementLocator.cs" />
+    <Compile Include="Framework\ExtentManager.cs" />
+    <Compile Include="Framework\ExtentTestManager.cs" />
+    <Compile Include="Framework\GlobalVariables.cs" />
+    <Compile Include="Framework\Log4net.cs" />
+    <Compile Include="Framework\PDFReaderUtility.cs" />
+    <Compile Include="Framework\SoftAssertions.cs" />
+    <Compile Include="Framework\SQLConnect.cs" />
+    <Compile Include="Framework\Utilities.cs" />
+    <Compile Include="Framework\VideoRecorder.cs" />
+    <Compile Include="Framework\XmlParser.cs" />
+    <Compile Include="Keywords\ApiKeywords.cs" />
+    <Compile Include="Keywords\AppiumKeywords.cs" />
+    <Compile Include="Keywords\CommonUtilityKeywords.cs" />
+    <Compile Include="Keywords\JavaScriptKeywords.cs" />
+    <Compile Include="Keywords\JiraCon.cs" />
+    <Compile Include="Keywords\SeleniumKeywords.cs" />
+    <Compile Include="Keywords\SikuliKeywords.cs" />
+    <Compile Include="Pages\AndroidPages\Challenges\Page_AndroidChallenges.cs" />
+    <Compile Include="Pages\AndroidPages\Common\Page_AndroidMessageToCoach.cs" />
+    <Compile Include="Pages\AndroidPages\Trackers\Page_AndroidQuickTracker.cs" />
+    <Compile Include="Pages\IOSPages\Common\Common.cs" />
+    <Compile Include="Pages\IOSPages\Dashboard\Page_IDashboard.cs" />
+    <Compile Include="Pages\IOSPages\HealthAssessment\Page_IHA.cs" />
+    <Compile Include="Pages\IOSPages\Login\Page_ILogin.cs" />
+    <Compile Include="Pages\IOSPages\Login\Page_ISkipIntro.cs" />
+    <Compile Include="Pages\IOSPages\MyProfile\Page_IProfile.cs" />
+    <Compile Include="Pages\IOSPages\Settings\Page_ISettings.cs" />
+    <Compile Include="Pages\IOSPages\Trackers\CommonTrackers.cs" />
+    <Compile Include="Pages\IOSPages\Trackers\Page_IBPTracker.cs" />
+    <Compile Include="Pages\IOSPages\Trackers\Page_IWeightTracker.cs" />
+    <Compile Include="Pages\AndroidPages\Common\Common.cs" />
+    <Compile Include="Pages\AndroidPages\HealthAssessment\Page_MHA.cs" />
+    <Compile Include="Pages\AndroidPages\MyProfile\Page_MProfile.cs" />
+    <Compile Include="Pages\AndroidPages\Settings\Page_MSettings.cs" />
+    <Compile Include="Pages\AndroidPages\Trackers\CommonTrackers.cs" />
+    <Compile Include="Pages\AndroidPages\Trackers\Page_MBPTracker.cs" />
+    <Compile Include="Pages\AndroidPages\Trackers\Page_MWeightTracker.cs" />
+    <Compile Include="Pages\MobileAPIs\MAPI_Trackers.cs" />
+    <Compile Include="Pages\MobileAPIs\MAPI_Dashboard.cs" />
+    <Compile Include="Pages\MobileAPIs\MAPI_Login.cs" />
+    <Compile Include="Pages\WebPages\Challenges\Page_Challenges.cs" />
+    <Compile Include="Pages\WebPages\Coaching\CommonGoals.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_ImproveCholesterolGoal.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_DecreaseWeightGoal.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_ImproveBloodPressureGoal.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_ImproveFitnessLevel.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_ManageStressGoal.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_ImproveDietaryHabitsGoal.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_MaintainTobaccoFreeStatusGoal.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_CoachingLearnMore.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_ImproveFitnessLevelGoal.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_QuitTobaccoGoal.cs" />
+    <Compile Include="Pages\WebPages\Common\Common.cs" />
+    <Compile Include="Pages\WebPages\Common\CommonApi.cs" />
+    <Compile Include="Pages\WebPages\Common\CreateNewUser.cs" />
+    <Compile Include="Pages\AndroidPages\Dashboard\Page_MDashboard.cs" />
+    <Compile Include="Pages\AndroidPages\Login\Page_MLogin.cs" />
+    <Compile Include="Pages\AndroidPages\Login\Page_SkipIntro.cs" />
+    <Compile Include="Pages\WebPages\Connections\Page_Connections.cs" />
+    <Compile Include="Pages\WebPages\Courses\CommonCourses.cs" />
+    <Compile Include="Pages\WebPages\Courses\Page_BloodPressureCourse.cs" />
+    <Compile Include="Pages\WebPages\Courses\Page_ManageStressCourse.cs" />
+    <Compile Include="Pages\WebPages\Courses\Page_QuitTobaccoCourse.cs" />
+    <Compile Include="Pages\WebPages\Courses\Page_ImprovingNutritionCourse.cs" />
+    <Compile Include="Pages\WebPages\DevicesAndApps\Page_DevicesAndApps.cs" />
+    <Compile Include="Pages\WebPages\FinancialWellBeing\Page_FinancialWellBeing.cs" />
+    <Compile Include="Pages\WebPages\Footer\Page_Certificates.cs" />
+    <Compile Include="Pages\WebPages\HealthAssessment\Page_FillHA.cs" />
+    <Compile Include="Pages\WebPages\HealthAssessment\Page_NewHA.cs" />
+    <Compile Include="Pages\WebPages\Incentive\Page_EligibleActivities.cs" />
+    <Compile Include="Pages\WebPages\Incentive\Page_Incentive.cs" />
+    <Compile Include="Pages\WebPages\Journey\Page_Journey.cs" />
+    <Compile Include="Pages\WebPages\Journey\Page_MyJourney.cs" />
+    <Compile Include="Pages\WebPages\Login\Page_Registration.cs" />
+    <Compile Include="Pages\WebPages\MyProfile\Page_MyProfile.cs" />
+    <Compile Include="Pages\WebPages\Notifications\Page_Announcements.cs" />
+    <Compile Include="Pages\WebPages\Notifications\Page_Notifications.cs" />
+    <Compile Include="Pages\WebPages\ProgressCheckin\Page_BloodPressureProgressCheckIn.cs" />
+    <Compile Include="Pages\WebPages\ProgressCheckin\Page_GetActiveProgressCheckIn.cs" />
+    <Compile Include="Pages\WebPages\ProgressCheckin\Page_ImprovingNutritionProgressCheckIn.cs" />
+    <Compile Include="Pages\WebPages\ProgressCheckin\Page_ManagingStressProgressCheckIn.cs" />
+    <Compile Include="Pages\WebPages\ProgressCheckin\Page_PreventiveHealthProgressCheckIn.cs" />
+    <Compile Include="Pages\WebPages\ProgressCheckin\Page_QuitTobaccoProgressCheckIn.cs" />
+    <Compile Include="Pages\WebPages\Resources\Page_Assessments.cs" />
+    <Compile Include="Pages\WebPages\Resources\Page_PHR.cs" />
+    <Compile Include="Pages\WebPages\Resources\Page_Reports.cs" />
+    <Compile Include="Pages\WebPages\Resources\Page_HealthContent.cs" />
+    <Compile Include="Pages\WebPages\Testing\TestingClass.cs" />
+    <Compile Include="Pages\WebPages\Resources\Page_FamilyContent.cs" />
+    <Compile Include="Pages\WebPages\Resources\Page_WellBeingContent.cs" />
+    <Compile Include="Pages\WebPages\Resources\Page_SymptomChecker.cs" />
+    <Compile Include="Pages\WebPages\Trackers\CommonTracker.cs" />
+    <Compile Include="Pages\WebPages\Footer\Page_Feedback.cs" />
+    <Compile Include="Pages\WebPages\Footer\Page_HIPAA.cs" />
+    <Compile Include="Pages\WebPages\Footer\Page_MyHealth.cs" />
+    <Compile Include="Pages\WebPages\Coaching\Page_MaintainWeightGoal.cs" />
+    <Compile Include="Pages\WebPages\Footer\Page_PrivacyPolicy.cs" />
+    <Compile Include="Pages\WebPages\Settings\Page_Settings.cs" />
+    <Compile Include="Pages\WebPages\MessageToCoach\Page_MessageToCoach.cs" />
+    <Compile Include="Pages\WebPages\Dashboard\Page_Dashboard.cs" />
+    <Compile Include="Pages\WebPages\Footer\Page_Footer.cs" />
+    <Compile Include="Pages\WebPages\Login\Page_HAPrompt.cs" />
+    <Compile Include="Pages\WebPages\Login\Page_Login.cs" />
+    <Compile Include="Pages\WebPages\Footer\Page_TermsOfService.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_CholesterolTracker.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_NutritionTracker.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_OralHealthTracker.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_PhysActivityTracker.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_StressTracker.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_SleepTracker.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_TobaccoTracker.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_TrackerLearnMore.cs" />
+    <Compile Include="Pages\WebPages\Courses\Page_WeightManagementCourse.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_WaterTracker.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_WeightTracker.cs" />
+    <Compile Include="Pages\WebPages\ProgressCheckin\Page_WeightProgressCheckIn.cs" />
+    <Compile Include="Pages\WebPages\Trackers\Page_BPTracker.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\Usercreation\GroupID\GroupIDClientGroup.cs" />
+    <Compile Include="Resources\Usercreation\GroupID\GroupIDRootObject.cs" />
+    <Compile Include="Resources\Usercreation\UserCreation\NewUserEligibility.cs" />
+    <Compile Include="Resources\Usercreation\UserCreation\NewUserRootObject.cs" />
+    <Compile Include="StepDefinition\LiveOnSteps.cs" />
+    <Compile Include="Tests\AndroidTests\AndroidWeightGoal.cs" />
+    <Compile Include="Tests\AndroidTests\AndroidMessageToCoach.cs" />
+    <Compile Include="Tests\AndroidTests\AndroidChallenges.cs" />
+    <Compile Include="Tests\AndroidTests\QuickTracker.cs" />
+    <Compile Include="Tests\IOSTests\IOSBPTracker.cs" />
+    <Compile Include="Tests\IOSTests\IOSDashboard.cs" />
+    <Compile Include="Tests\IOSTests\IOSHA.cs" />
+    <Compile Include="Tests\IOSTests\IOSLogin.cs" />
+    <Compile Include="Tests\IOSTests\IOSLogout.cs" />
+    <Compile Include="Tests\IOSTests\IOSWeightTracker.cs" />
+    <Compile Include="Tests\AndroidTests\MobileDashboard.cs" />
+    <Compile Include="Tests\AndroidTests\MobileHA.cs" />
+    <Compile Include="Tests\AndroidTests\MobileLogout.cs" />
+    <Compile Include="Tests\AndroidTests\MobileWeightTracker.cs" />
+    <Compile Include="Tests\AndroidTests\MobileBPTracker.cs" />
+    <Compile Include="Tests\MobileAPIs\MobileAPIsTests.cs" />
+    <Compile Include="Tests\TestClass1.cs" />
+    <Compile Include="Tests\WebTests\Challenges\Challenges.cs" />
+    <Compile Include="Tests\WebTests\Coaching\ImproveCholesterolGoal.cs" />
+    <Compile Include="Tests\WebTests\Coaching\DecreaseWeightGoal.cs" />
+    <Compile Include="Tests\WebTests\Coaching\ImproveBPGoal.cs" />
+    <Compile Include="Tests\WebTests\Coaching\ManageStressGoal.cs" />
+    <Compile Include="Tests\WebTests\Coaching\ImproveDietaryHabitsGoal.cs" />
+    <Compile Include="Tests\WebTests\Coaching\MaintainTobaccoFreeStatusGoal.cs" />
+    <Compile Include="Tests\WebTests\Coaching\ImproveFitnessLevelGoal.cs" />
+    <Compile Include="Tests\WebTests\Coaching\QuitTobaccoGoal.cs" />
+    <Compile Include="Tests\WebTests\Connections\Connections.cs" />
+    <Compile Include="Tests\WebTests\Courses\BloodPressureCourse.cs" />
+    <Compile Include="Tests\WebTests\Courses\ImprovingNutritionCourse.cs" />
+    <Compile Include="Tests\WebTests\Courses\ManageStressCourse.cs" />
+    <Compile Include="Tests\WebTests\Courses\QuitTobaccoCourse.cs" />
+    <Compile Include="Tests\WebTests\Devices\MyNutritrion.cs" />
+    <Compile Include="Tests\WebTests\Devices\DevicesAndApps.cs" />
+    <Compile Include="Tests\WebTests\FinancialWellBeing\FinancialWellBeing.cs" />
+    <Compile Include="Tests\WebTests\HealthAssessment\FillHighRiskHA.cs" />
+    <Compile Include="Tests\WebTests\HealthAssessment\FillNormalHA.cs" />
+    <Compile Include="Tests\WebTests\Footer\Footer.cs" />
+    <Compile Include="Tests\WebTests\Journies\Journey.cs" />
+    <Compile Include="Tests\WebTests\Resources\Resources.cs" />
+    <Compile Include="Tests\WebTests\Sanity.cs" />
+    <Compile Include="Tests\WebTests\Settings\SpanishSettings.cs" />
+    <Compile Include="Tests\WebTests\wLogin\LoginCustomURL.cs" />
+    <Compile Include="Tests\WebTests\zIncentive\EligibleActivities.cs" />
+    <Compile Include="Tests\WebTests\zIncentive\Incentives.cs" />
+    <Compile Include="Tests\WebTests\Journies\MyJourney.cs" />
+    <Compile Include="Tests\WebTests\wLogin\Login.cs" />
+    <Compile Include="Tests\WebTests\Notifications\Announcements.cs" />
+    <Compile Include="Tests\WebTests\Logout\Logout.cs" />
+    <Compile Include="Tests\WebTests\MessageToCoach\MessageToCoach.cs" />
+    <Compile Include="Tests\AndroidTests\MobileLogin.cs" />
+    <Compile Include="Tests\WebTests\Notifications\Notifications.cs" />
+    <Compile Include="Tests\WebTests\ProgressCheckin\BloodPressureProgressCheckIn.cs" />
+    <Compile Include="Tests\WebTests\ProgressCheckin\GetActiveProgressCheckIn.cs" />
+    <Compile Include="Tests\WebTests\ProgressCheckin\ImprovingNutritionProgressCheckIn.cs" />
+    <Compile Include="Tests\WebTests\ProgressCheckin\ManageStressProgressCheckin.cs" />
+    <Compile Include="Tests\WebTests\ProgressCheckin\PreventiveHealthProgressCheckIn.cs" />
+    <Compile Include="Tests\WebTests\ProgressCheckin\QuitTobaccoProgressCheckIn.cs" />
+    <Compile Include="Tests\WebTests\Registration\Registration.cs" />
+    <Compile Include="Tests\WebTests\MyProfile\MyProfile.cs" />
+    <Compile Include="Tests\WebTests\Settings\Settings.cs" />
+    <Compile Include="Tests\WebTests\Common\UserCreation.cs" />
+    <Compile Include="Tests\WebTests\Coaching\MaintainWeightGoal.cs" />
+    <Compile Include="Tests\WebTests\Courses\WeightManagementCourse.cs" />
+    <Compile Include="Tests\WebTests\ProgressCheckin\WeightProgressCheckIn.cs" />
+    <Compile Include="Tests\WebTests\DBFillHA\DBFillHA.cs" />
+    <Compile Include="Tests\WebTests\Testing\PDFTesting.cs" />
+    <Compile Include="Tests\WebTests\Trackers\BPTracker.cs" />
+    <Compile Include="Tests\WebTests\Trackers\CholesterolTracker.cs" />
+    <Compile Include="Tests\WebTests\Trackers\NutritionTracker.cs" />
+    <Compile Include="Tests\WebTests\Trackers\OralhealthTracker.cs" />
+    <Compile Include="Tests\WebTests\Trackers\PhysicalActivityTracker.cs" />
+    <Compile Include="Tests\WebTests\Trackers\StressTracker.cs" />
+    <Compile Include="Tests\WebTests\Trackers\SleepTracker.cs" />
+    <Compile Include="Tests\WebTests\Trackers\TobaccoTracker.cs" />
+    <Compile Include="Tests\WebTests\Trackers\WaterTracker.cs" />
+    <Compile Include="Tests\WebTests\Trackers\WeightTracker.cs" />
+    <Compile Include="Tests\WebTests\Dashboard\Dashboard.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Default.srprofile">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="FeatureFiles\LiveOn.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>LiveOn.feature.cs</LastGenOutput>
+    </None>
+    <None Include="license" />
+    <None Include="packages.config" />
+    <None Include="Resources\Config\configurations.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\Testdata\IncentiveHistoryData.csv" />
+    <None Include="Resources\Testdata\MobileMessageToCoachData.csv" />
+    <None Include="Resources\Testdata\MobileQuickTracker.csv" />
+    <None Include="Resources\Testdata\MobileJourneyAPIContent.csv" />
+    <None Include="Resources\Testdata\RegistrationUIData.csv" />
+    <None Include="Resources\Testdata\EligibleActivitiesData.csv" />
+    <None Include="Resources\Testdata\LeftSubmenuContent.csv" />
+    <None Include="Resources\Testdata\MobileHAContent.csv" />
+    <None Include="Resources\Testdata\JourneyBannerContent.csv" />
+    <None Include="Resources\Testdata\JourneyAPIContent.csv" />
+    <None Include="Resources\Testdata\DashboardData.csv" />
+    <None Include="Resources\Testdata\ClientConfig.csv" />
+    <None Include="Resources\Testdata\AnnouncementContent.csv" />
+    <None Include="Resources\Testdata\HRAID%28Nucor%29HighRiskHAData.csv" />
+    <None Include="Resources\Testdata\HRAID%28DG%29HighRiskHAData.csv" />
+    <None Include="Resources\Testdata\MobileInputData.csv" />
+    <None Include="Resources\Testdata\GrayTileData.csv" />
+    <None Include="Resources\Testdata\InstancePointsValue.csv" />
+    <None Include="Resources\Testdata\HAData.csv" />
+    <None Include="Resources\Testdata\MobileDashboardData.csv" />
+    <None Include="Resources\Testdata\MobileTrackerData.csv" />
+    <None Include="Resources\Testdata\EligibleActivitiesData.csv" />
+    <None Include="Resources\Testdata\GoalsContent.csv" />
+    <None Include="Resources\Testdata\AttributesContent.csv" />
+    <None Include="Resources\Testdata\ChallengesContent.csv" />
+    <None Include="Resources\Testdata\CoachingContent.csv" />
+    <None Include="Resources\Testdata\IncentiveHistoryActivities.csv" />
+    <None Include="Resources\Testdata\IncentiveEligibleActivities.csv" />
+    <None Include="Resources\Testdata\LeftmenuContent.csv" />
+    <None Include="Resources\Testdata\DeviceAppContent.csv" />
+    <None Include="Resources\Testdata\FinancialWellBeingContent.csv" />
+    <None Include="Resources\Testdata\InputGoalContent.csv" />
+    <None Include="Resources\Testdata\FinancialWellBeingPDF.csv" />
+    <None Include="Resources\Testdata\APITestData.csv" />
+    <None Include="Resources\Testdata\TrackerContent.csv" />
+    <None Include="Resources\Testdata\JourneyContent.csv" />
+    <None Include="Resources\Testdata\NormalHAData.csv" />
+    <None Include="Resources\Testdata\HRAID%2889,66%29HighRiskHAData.csv" />
+    <None Include="Resources\Testdata\ResourcesContent.csv" />
+    <None Include="Resources\Testdata\CourseContent.csv" />
+    <None Include="Resources\Testdata\CommonContent.csv" />
+    <None Include="Resources\Testdata\InputDataContent.csv" />
+    <None Include="Resources\Testdata\ProgressCheckinReportData.csv" />
+    <None Include="Resources\Testdata\ProgressCheckinData.csv" />
+    <None Include="Resources\Testdata\MobileLoginUI.csv" />
+    <None Include="runtests.cmd" />
+    <None Include="SpecRunTestProfile.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SpecRunTestProfile_2011_09.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="JSikuliModule.jar">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\ExtentReport.html" />
+    <Content Include="Reports\Screenshots\Logout20180403T113817.jpeg" />
+    <Content Include="Resources\or\Or_iOS.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Resources\or\Or_Android.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Resources\or\Or_Web.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="sikulirestapi-1.0.jar">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\AndroidPages\Coaching\" />
+    <Folder Include="Pages\AndroidPages\Footer\" />
+    <Folder Include="Pages\AndroidPages\Journey\" />
+    <Folder Include="Pages\AndroidPages\ProgressCheckin\" />
+    <Folder Include="Pages\IOSPages\Coaching\" />
+    <Folder Include="Pages\IOSPages\Footer\" />
+    <Folder Include="Pages\IOSPages\Journey\" />
+    <Folder Include="Pages\IOSPages\ProgressCheckin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\NUnit.3.10.1\build\NUnit.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\NUnit.3.10.1\build\NUnit.props'))" />
+    <Error Condition="!Exists('..\packages\Selenium.WebDriver.IEDriver64.3.11.0.1\build\Selenium.WebDriver.IEDriver64.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.WebDriver.IEDriver64.3.11.0.1\build\Selenium.WebDriver.IEDriver64.targets'))" />
+    <Error Condition="!Exists('..\packages\NUnit3TestAdapter.3.10.0\build\net35\NUnit3TestAdapter.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\NUnit3TestAdapter.3.10.0\build\net35\NUnit3TestAdapter.props'))" />
+    <Error Condition="!Exists('..\packages\Selenium.WebDriver.GeckoDriver.Win64.0.20.1\build\Selenium.WebDriver.GeckoDriver.Win64.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.WebDriver.GeckoDriver.Win64.0.20.1\build\Selenium.WebDriver.GeckoDriver.Win64.targets'))" />
+    <Error Condition="!Exists('..\packages\SpecFlow.2.3.2\build\SpecFlow.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\SpecFlow.2.3.2\build\SpecFlow.targets'))" />
+    <Error Condition="!Exists('..\packages\SpecFlow.Tools.MsBuild.Generation.2.3.2\build\SpecFlow.Tools.MsBuild.Generation.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\SpecFlow.Tools.MsBuild.Generation.2.3.2\build\SpecFlow.Tools.MsBuild.Generation.props'))" />
+    <Error Condition="!Exists('..\packages\SpecFlow.Tools.MsBuild.Generation.2.3.2\build\SpecFlow.Tools.MsBuild.Generation.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\SpecFlow.Tools.MsBuild.Generation.2.3.2\build\SpecFlow.Tools.MsBuild.Generation.targets'))" />
+    <Error Condition="!Exists('..\packages\Selenium.WebDriver.ChromeDriver.2.41.0\build\Selenium.WebDriver.ChromeDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.WebDriver.ChromeDriver.2.41.0\build\Selenium.WebDriver.ChromeDriver.targets'))" />
+  </Target>
+  <Import Project="..\packages\Selenium.WebDriver.IEDriver64.3.11.0.1\build\Selenium.WebDriver.IEDriver64.targets" Condition="Exists('..\packages\Selenium.WebDriver.IEDriver64.3.11.0.1\build\Selenium.WebDriver.IEDriver64.targets')" />
+  <Import Project="..\packages\Selenium.WebDriver.GeckoDriver.Win64.0.20.1\build\Selenium.WebDriver.GeckoDriver.Win64.targets" Condition="Exists('..\packages\Selenium.WebDriver.GeckoDriver.Win64.0.20.1\build\Selenium.WebDriver.GeckoDriver.Win64.targets')" />
+  <Import Project="..\packages\SpecFlow.2.3.2\build\SpecFlow.targets" Condition="Exists('..\packages\SpecFlow.2.3.2\build\SpecFlow.targets')" />
+  <Import Project="..\packages\SpecFlow.Tools.MsBuild.Generation.2.3.2\build\SpecFlow.Tools.MsBuild.Generation.targets" Condition="Exists('..\packages\SpecFlow.Tools.MsBuild.Generation.2.3.2\build\SpecFlow.Tools.MsBuild.Generation.targets')" />
+  <Import Project="..\packages\Selenium.WebDriver.ChromeDriver.2.41.0\build\Selenium.WebDriver.ChromeDriver.targets" Condition="Exists('..\packages\Selenium.WebDriver.ChromeDriver.2.41.0\build\Selenium.WebDriver.ChromeDriver.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,35 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText
+Registration,uielements,First Name field,fntxtbx,Verify existence
+Registration,uielements,Last Name Field,lntxtbx,Verify existence
+Registration,uielements,DOB Field,dobcalendar,Verify existence
+Registration,uielements,Zip Field,ziptxtbx,Verify existence
+Registration,uielements,Cancel Button,cancelbtn,Verify existence
+Registration,uielements,Back Button,backbtn,Verify existence
+Registration,uielements,Verify Button,verifybtn,Verify existence
+
+Registration,errormsg,First Name Field,fnerrormsg,First Name is required
+Registration,errormsg,Last Name Field,lnerrormsg,Last Name is required
+Registration,errormsg,DOB Field,doberrormsg,Date of Birth is required
+Registration,errormsg,Zip Field,ziperrormsg,Zip Code is required
+
+Registration,eligibilityerror,Eligibility Error Message,eligerrormsg,please make sure you entered the information correctly
+
+Page_Registration,nonsso_loginpref_uielem,Page header,loginpref_header,Login & Preferences
+Page_Registration,nonsso_loginpref_uielem,First Name field,fntxtbx,Verify existence
+Page_Registration,nonsso_loginpref_uielem,Last Name Field,lntxtbx,Verify existence
+Page_Registration,nonsso_loginpref_uielem,DOB Field,dobcalendar,Verify existence
+Page_Registration,nonsso_loginpref_uielem,Zip Field,loginpref_zip,Verify existence
+Page_Registration,nonsso_loginpref_uielem,Street Field,loginpref_street,Verify existence
+Page_Registration,nonsso_loginpref_uielem,City Field,loginpref_city,Verify existence
+Page_Registration,nonsso_loginpref_uielem,Gender Field,loginpref_gender,Verify existence
+
+Page_Registration,loginpref_uielem,Timezone Field,loginpref_timezone,Verify existence
+Page_Registration,loginpref_uielem,Primary Phone Field,loginpref_primaryphnum,Verify existence
+Page_Registration,loginpref_uielem,Secondary Phone Field,loginpref_secphnum,Verify existence
+Page_Registration,loginpref_uielem,Back Button,loginpref_backbtn,Verify existence
+Page_Registration,loginpref_uielem,Contact Preference Telephone RadioBtn,loginpref_contactprefT,Verify existence
+Page_Registration,loginpref_uielem,Contact Preference Email RadioBtn,loginpref_contactprefE,Verify existence
+Page_Registration,loginpref_uielem,Email Field,loginpref_email,Verify existence
+Page_Registration,loginpref_uielem,Continue Button,loginpref_continuebtn,Verify existence
+
+Registration,loginpref_errormsg,Contact TypeId Field,primphno_ContactTypeId,Please choose your Contact Preference

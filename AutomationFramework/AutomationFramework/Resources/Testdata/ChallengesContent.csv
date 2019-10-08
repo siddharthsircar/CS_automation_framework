@@ -1,0 +1,10 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText
+Challenges,popuptxt,leavepopuptext,leave_challenge_popup_txt,Are you sure you want to leave this challenge?
+
+Challenges,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Challenges,trackerhistoryheader,Mindfull Challenfge header,historyheadertext,Mindful eating History
+Challenges,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Challenges,trackerhistoryheader,Mindful eating Column Header,mindfuleatheader,Mindful eating
+
+Challenges,trackerhistoryvalue,Date History Column Value,datehistorycolumnvalue,will be provided in class
+Challenges,trackerhistoryvalue,Mindful eating Column Value,trackercolumnvalue,Yes

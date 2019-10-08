@@ -1,0 +1,20 @@
+ClassName,Category,LocatorName,ExpectedText
+Page_WeightProgressCheckIn,reportdata,ReportHeadertext,here is your Progress Check-in Report
+Page_WeightProgressCheckIn,reportdata,ReportIconProgressCheckInName,Weight Management
+Page_WeightProgressCheckIn,errormsg,height_errormessage,Fill in your height - Feet and Inches
+Page_WeightProgressCheckIn,errormsg,eating_habits_errormessage,Answer the question about "eating habits."
+Page_WeightProgressCheckIn,errormsg,moderate_activity_errormessage,Fill in how much Moderate Activity you get
+Page_WeightProgressCheckIn,errormsg,vigorous_activity_errormessage,Fill in how much Vigorous Activity you get
+Page_WeightProgressCheckIn,errormsg,current_weight_errormessage,Answer "How do you feel about your current weight?"
+Page_ManagingStressProgressCheckIn,managestressreportdata,ReportHeadertext,here is your Progress Check-in Report
+Page_ManagingStressProgressCheckIn,managestressreportdata,ReportIconProgressCheckInName,Managing Stress
+Page_BloodPressureProgressCheckIn,bpreportdata,ReportHeadertext,here is your Progress Check-in Report
+Page_BloodPressureProgressCheckIn,bpreportdata,ReportIconProgressCheckInName,Blood Pressure
+Page_QuitTobaccoProgressCheckIn,qtreportdata,ReportHeadertext,here is your Progress Check-in Report
+Page_QuitTobaccoProgressCheckIn,qtreportdata,ReportIconProgressCheckInName,Maintain Tobacco-Free
+Page_PreventiveHealthProgressCheckIn,phreportdata,ReportHeadertext,here is your Progress Check-in Report
+Page_PreventiveHealthProgressCheckIn,phreportdata,ReportIconProgressCheckInName,Preventive Health
+Page_GetActiveProgressCheckIn,ghreportdata,ReportHeadertext,here is your Progress Check-in Report
+Page_GetActiveProgressCheckIn,ghreportdata,ReportIconProgressCheckInName,Get Active
+Page_ImprovingNutritionProgressCheckIn,inreportdata,ReportHeadertext,here is your Progress Check-in Report
+Page_ImprovingNutritionProgressCheckIn,inreportdata,ReportIconProgressCheckInName,Improving Nutrition

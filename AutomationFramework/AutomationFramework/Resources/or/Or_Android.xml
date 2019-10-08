@@ -1,0 +1,144 @@
+<?xml version = "1.0"?>
+<ObjectRepository>
+  <PageNode name="Page_AndroidQuickTracker">
+    <Object locatorname="trackertitle" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='TRACKERS']"/>
+    <Object locatorname="quicktracker" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Quick Tracker']"/>
+    <Object locatorname="quicktrackerlbl" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Quick Trackers']"/>
+    <Object locatorname="stresstrackerbtn" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Stress']"/>
+    <Object locatorname="weighttrackerbtn" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Weight']"/>
+    <Object locatorname="cardiotrackerbtn" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Cardio']"/>
+    <Object locatorname="submitbtn" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Submit']"/>
+    <Object locatorname="stresstrackerstatusbar" locatortype="id" locatorvalue="$varinput1:id/item_tracker_quick_update_seek_bar_tracker_value_stress"/>
+    <Object locatorname="quicktrackerplussign" locatortype="id" locatorvalue="$varinput1:id/activity_tracker_quick_update_image_view_add_remove"/>
+
+
+
+  </PageNode>
+    <PageNode name="Page_AndroidChallenges">
+    <Object locatorname="challengeslbl" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Challenges']"/>
+    
+  </PageNode>
+  
+  <PageNode name="Page_AndroidMessageToCoach">
+    <Object locatorname="coachinglbl" locatortype="id" locatorvalue="$varinput1:id/estrm_custom_toolbar_title_textview"/>
+    <Object locatorname="coachlbl" locatortype="id" locatorvalue="$varinput1:id/txt_my_coach"/>
+    <Object locatorname="hoursofopeationlbl" locatortype="id" locatorvalue="$varinput1:id/txt_time_contact_my_coach"/>
+    <Object locatorname="sendmessagebtntxt" locatortype="id" locatorvalue="$varinput1:id/txt_send_message"/>
+    <Object locatorname="callnowbtntxt" locatortype="id" locatorvalue="$varinput1:id/txt_call_now"/>
+    <Object locatorname="messagebox" locatortype="id" locatorvalue="$varinput1:id/messagetxt"/>
+    <Object locatorname="messagesendbtn" locatortype="id" locatorvalue="$varinput1:id/activity_messaging_layout_send"/>
+    <Object locatorname="messageareatxt" locatortype="id" locatorvalue="$varinput1:id/usermsgtxt"/>
+
+
+  </PageNode>
+  
+  <PageNode name="Common">
+    <Object locatorname="backbtn" locatortype="xpath" locatorvalue="//android.widget.ImageButton[@index=0]"/>
+
+    <Object locatorname="footermenuicon" locatortype="id" locatorvalue="$varinput1:id/image_add_menu"/>
+    <Object locatorname="devicemenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Device Management']"/>
+    <Object locatorname="Challengesmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Challenges']"/>
+    <Object locatorname="myfitnessmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='My Fitness']"/>
+    <Object locatorname="connectionsmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Connections']"/>
+    <Object locatorname="incentivesmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Incentives']"/>
+    <Object locatorname="quicktrackermenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Quick Tracker']"/>
+    <Object locatorname="myprofilemenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='My Profile']"/>
+    <Object locatorname="faqmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='FAQ's']"/>
+    <Object locatorname="footersettings" locatortype="xpath" locatorvalue="//android.widget.RelativeLayout[@index='4']//android.widget.ImageView[@index='0']"/>
+    <Object locatorname="footercoachicon" locatortype="xpath" locatorvalue="//android.widget.LinearLayout[@index ='1']//android.widget.RelativeLayout[@index='1']//android.widget.ImageView[@index='0']"/>
+    <Object locatorname="haicon" locatortype="xpath" locatorvalue="//android.widget.RelativeLayout[@index='3']//android.widget.ImageView[@index='0']"/>
+    <Object locatorname="helppopup_close" locatortype="id" locatorvalue="$varinput1:id/popup_close_button"/>
+  </PageNode>
+  
+  <PageNode name="Page_SkipIntro">    
+    <Object locatorname="skipintrolnk" locatortype="id" locatorvalue="$varinput1:id/txt_skip_pre_intro"/>
+    <Object locatorname="hellotxt" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Hello']"/>
+    <Object locatorname="holatxt" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Hola']"/>
+    <Object locatorname="alwaysonimg" locatortype="id" locatorvalue="$varinput1:id/welcome_layout_logo"/>
+    <Object locatorname="welcomebtn" locatortype="id" locatorvalue="$varinput1:id/txt_register"/>
+  </PageNode>
+  
+  <PageNode name="Page_MLogin">    
+		<Object locatorname="usernametxt" locatortype="id" locatorvalue="$varinput1:id/txt_username"/>
+		<Object locatorname="passwordtxt" locatortype="id" locatorvalue="$varinput1:id/txt_password"/>
+		<Object locatorname="loginbtn" locatortype="id" locatorvalue="$varinput1:id/btn_login"/>
+    <Object locatorname="envselector" locatortype="id" locatorvalue="$varinput1:id/activity_login_environment_spinner"/>
+    <Object locatorname="envqa12b" locatortype="xpath" locatorvalue="//android.widget.CheckedTextView[@text='qa2012b']"/>
+    <Object locatorname="envqa12" locatortype="xpath" locatorvalue="//android.widget.CheckedTextView[@text='qa2012']"/>
+    <Object locatorname="envqb" locatortype="xpath" locatorvalue="//android.widget.CheckedTextView[@text='qb']"/>
+    <Object locatorname="envstage" locatortype="xpath" locatorvalue="//android.widget.CheckedTextView[@text='staging']"/>
+    <Object locatorname="frgtunlnk" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Forgot Username']"/>
+    <Object locatorname="frgtpwdlnk" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Forgot Password']"/>
+    <Object locatorname="registrationbtn" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='New User Registration']"/>    
+    <Object locatorname="pin" locatortype="xpath" locatorvalue="//android.widget.Button[@text='2']"/>   
+  </PageNode>
+  
+  <PageNode name="Page_MDashboard">
+    <Object locatorname="clientlogo" locatortype="id" locatorvalue="$varinput1:id/estrm_custom_toolbar_logo"/>
+    <Object locatorname="notification_icon" locatortype="id" locatorvalue="$varinput1:id/layout_update_count_image_view_notifications"/>
+    <Object locatorname="footermenu" locatortype="id" locatorvalue="$varinput1:id/estream_footer"/>
+    <Object locatorname="journeysection" locatortype="id" locatorvalue="$varinput1:id/engagement_stream_recommended_tile_view_pager"/>
+    <Object locatorname="estrmsection" locatortype="id" locatorvalue="$varinput1:id/news_feed_recycler"/>
+    <Object locatorname="welcomepagetitle" locatortype="id" locatorvalue="$varinput1:id/welocme_salutation_text"/>
+    <Object locatorname="welcomepagetext" locatortype="id" locatorvalue="$varinput1:id/welcome_content_text"/>
+    <Object locatorname="welcomepageclose" locatortype="id" locatorvalue="$varinput1:id/welcome_close_image"/>
+    <Object locatorname="disablenotification" locatortype="id" locatorvalue="android:id/button2"/>
+    <Object locatorname="enablenotification" locatortype="id" locatorvalue="android:id/button1"/>
+    <Object locatorname="helppopup_close" locatortype="id" locatorvalue="$varinput1:id/popup_close_button"/>
+    <Object locatorname="shealth_nothnks" locatortype="id" locatorvalue="android:id/button2"/>
+  </PageNode>
+
+  <PageNode name="Page_TrackerHome">
+    <Object locatorname="trackerpageheader" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Trackers']"/>
+    <Object locatorname="trackertile" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='$varinput1']"/>    
+  </PageNode>
+
+  <PageNode name="CommonTrackers">
+    <Object locatorname="trackerpageheader" locatortype="id" locatorvalue="$varinput1:id/custom_toolbar_text_view_title"/>
+    <Object locatorname="trackershareoption" locatortype="id" locatorvalue="$varinput1:id/activity_tracker_detail_image_view_share_option']"/>
+    <Object locatorname="connectdevice_txt" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Connect a device and get started!']"/>
+    <Object locatorname="connectdevice_btn" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Connect']"/>
+    <Object locatorname="trackerinfo_txt" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_text_view_title"/>
+    <Object locatorname="trackername_lbl" locatortype="id" locatorvalue="$varinput1:id/item_layout_tracker_numeric_tracker_name"/>
+    <Object locatorname="trackerminus_btn" locatortype="id" locatorvalue="$varinput1:id/item_layout_tracker_numeric_image_view_minus"/>
+    <Object locatorname="trackerplus_btn" locatortype="id" locatorvalue="$varinput1:id/item_layout_tracker_numeric_image_view_plus"/>
+    <Object locatorname="trackerdate_cntrl" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_date_container"/>
+    <Object locatorname="trackerupdate_btn" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_text_view_update"/>
+    <Object locatorname="trackergoal_btn" locatortype="id" locatorvalue="$varinput1:id/tracker_detail_set_goal_layout"/>
+    <Object locatorname="trackercalendar_ok" locatortype="id" locatorvalue="android:id/button1"/>
+    <Object locatorname="trackercalendar_date" locatortype="xpath" locatorvalue="//android.view.View[@text='$varinput1']"/>
+    <Object locatorname="trackerhistory_trackertitle" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_history_text_view_title"/>
+    <Object locatorname="trackerhistory_latestvalue" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_history_text_view_latest_value"/>
+    <Object locatorname="trackerhistory_latestvalueunit" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_history_text_view_latest_value_unit"/>
+    <Object locatorname="trackerhistory_latestvaluedate" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_history_text_view_latest_date"/>
+    <Object locatorname="trackerhistory_title" locatortype="id" locatorvalue="$varinput1:id/activity_tracker_text_view_title"/>
+    <Object locatorname="trackerhistory_coloumndate" locatortype="id" locatorvalue="$varinput1:id/item_layout_tracker_history_date"/>
+    <Object locatorname="trackerhistory_columndata" locatortype="id" locatorvalue="$varinput1:id/item_layout_tracker_history_data"/>
+    <Object locatorname="trackerhistory_columnsource" locatortype="id" locatorvalue="$varinput1:id/item_layout_tracker_history_device"/>
+  </PageNode>
+
+  <PageNode name="Page_MWeightTracker">
+    <Object locatorname="weight_labeltxt" locatortype="xpath" locatorvalue="//android.widget.TextView[@text = 'Weight']"/>
+    <Object locatorname="weight_inputbx" locatortype="id" locatorvalue="$varinput1:id/item_layout_tracker_numeric_edit_text_tracker_value"/>
+    <Object locatorname="trackerdate_cntrl" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_date_container"/>
+    <Object locatorname="trackerupdate_btn" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_text_view_update"/>
+  </PageNode>
+
+  <PageNode name="Page_MBPTracker">
+    <Object locatorname="sys_labeltxt" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Systolic']"/>
+    <Object locatorname="dia_labeltxt" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Diastolic']"/>
+    <Object locatorname="sys_inputbx" locatortype="xpath" locatorvalue="//android.widget.RelativeLayout[@index='0']/android.widget.LinearLayout[@index = '0']/android.widget.EditText[@index = '2']"/>
+    <Object locatorname="dia_inputbx" locatortype="xpath" locatorvalue="//android.widget.RelativeLayout[@index='1']/android.widget.LinearLayout[@index = '0']/android.widget.EditText[@index = '2']"/>
+    <Object locatorname="trackerdate_cntrl" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_date_container"/>
+    <Object locatorname="trackerupdate_btn" locatortype="id" locatorvalue="$varinput1:id/layout_tracker_text_view_update"/>
+  </PageNode>
+  
+  <PageNode name="Page_MProfile">
+    <Object locatorname="trackerviewall_link" locatortype="id" locatorvalue="$varinput1:id/my_trackers_view_all_text"/>    
+  </PageNode>
+  
+  <PageNode name="Page_MSettings">
+    <Object locatorname="logoutoptn" locatortype="id" locatorvalue="$varinput1:id/item_settings_logout"/>
+  </PageNode>
+  
+</ObjectRepository>

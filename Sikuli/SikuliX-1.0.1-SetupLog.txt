@@ -1,0 +1,113 @@
+[debug (5/7/18 5:18:56 PM)] RunSetup: SikuliX Setup Build: 1.0.1 12NOV2013120000
+[debug (5/7/18 5:18:56 PM)] RunSetup: ... starting with no args given
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: H:\SeleniumFramework\Sikuli\libs
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\Microsoft MPI\Bin\
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\ProgramData\Oracle\Java\javapath
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\oracle11\product\11.2.0\dbhome_1\bin
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files (x86)\Intel\iCLS Client\
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\Intel\iCLS Client\
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\Java\jdk1.8.0_151\bin
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\WINDOWS\system32
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\WINDOWS
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\WINDOWS\System32\Wbem
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\Intel\Intel(R) Management Engine Components\DAL
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\Intel\Intel(R) Management Engine Components\IPT
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files (x86)\Skype\Phone\
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\Git\cmd
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\dotnet\
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\Microsoft SQL Server\130\Tools\Binn\
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\TortoiseGit\bin
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: H:\software\Sdk\build-tools
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: H:\software\Sdk\platform-tools
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: H:\software\Sdk\tools
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: H:\software\Sdk\tools\bin
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\nodejs
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Program Files\MongoDB\Server\3.0\bin
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Users\deepak\Downloads\PSTools (1)
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Users\deepak\AppData\Local\Microsoft\WindowsApps
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: 
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: c:\Program Files\Saxonica\SaxonHE9.6N\bin
+[debug (5/7/18 5:18:56 PM)] RunSetup: syspath: C:\Users\deepak\AppData\Roaming\npm
+[debug (5/7/18 5:18:56 PM)] RunSetup: user home: C:\Users\deepak
+[debug (5/7/18 5:19:09 PM)] RunSetup: RunningSystem: Windows 10.0
+[debug (5/7/18 5:19:09 PM)] RunSetup: parent of jar/classes: H:/SeleniumFramework/Sikuli/
+[debug (5/7/18 5:19:09 PM)] RunSetup: RunningJava: Java 8 (amd64) 1.8.0_151-b12
+[debug (5/7/18 5:19:09 PM)] RunSetup: ... could not detect whether Sikuli is used the first time on this system
+[debug (5/7/18 5:19:59 PM)] FileManager: Downloading 1.0.1-1.jar having 12942 KB
+[debug (5/7/18 5:21:06 PM)] FileManager: downloaded 12942 KB to H:\SeleniumFramework\Sikuli\1.0.1-1.jar
+[debug (5/7/18 5:21:06 PM)] FileManager: download time: 65
+[debug (5/7/18 5:21:11 PM)] FileManager: Downloading 1.0.1-5.jar having 12320 KB
+[debug (5/7/18 5:21:58 PM)] FileManager: downloaded 12320 KB to H:\SeleniumFramework\Sikuli\1.0.1-5.jar
+[debug (5/7/18 5:21:58 PM)] FileManager: download time: 45
+[debug (5/7/18 5:22:01 PM)] RunSetup: Download ended
+[debug (5/7/18 5:22:01 PM)] RunSetup: adding native stuff to sikuli-ide.jar
+[debug (5/7/18 5:22:01 PM)] FileManager: buildJar: H:\SeleniumFramework\Sikuli\sikuli-temp.jar
+[debug (5/7/18 5:22:01 PM)] FileManager: buildJar: adding: H:\SeleniumFramework\Sikuli\sikuli-ide.jar
+[debug (5/7/18 5:22:11 PM)] FileManager: buildJar: adding: H:\SeleniumFramework\Sikuli\sikuli-setup.jar
+[debug (5/7/18 5:22:21 PM)] FileManager: buildJar: adding: H:\SeleniumFramework\Sikuli\sikuli-tessdata.jar
+[debug (5/7/18 5:22:33 PM)] FileManager: buildJar: completed
+[debug (5/7/18 5:22:33 PM)] ResourceLoaderBasic: export: Trying to access package
+[debug (5/7/18 5:22:33 PM)] ResourceLoaderBasic: export: Accessing jar: file:/H:/SeleniumFramework/Sikuli/sikuli-setup.jar
+[debug (5/7/18 5:22:34 PM)] ResourceLoaderBasic: export: Found 1 Files in Commands/windows/runIDE.cmd
+[debug (5/7/18 5:22:34 PM)] RunSetup: trying to set up the environment
+[debug (5/7/18 5:22:34 PM)] ResourceLoaderBasic: check: we are running on arch: amd64
+[debug (5/7/18 5:22:34 PM)] ResourceLoaderBasic: check: using Java at: C:/Program Files/Java/jdk1.8.0_151/jre/
+[error (5/7/18 5:22:34 PM)] ResourceLoaderBasic: check: No valid libs path available until now!
+[action (5/7/18 5:22:34 PM)] ResourceLoaderBasic: check: Please wait! Trying to extract libs to jar parent folder: H:/SeleniumFramework/Sikuli/
+[debug (5/7/18 5:22:34 PM)] ResourceLoaderBasic: extractLibs: Accessing jar: file:/H:/SeleniumFramework/Sikuli/sikuli-setup.jar
+[debug (5/7/18 5:22:36 PM)] ResourceLoaderBasic: extractLibs: Found 14 Files in META-INF/libs/windows/libs64/
+[debug (5/7/18 5:22:36 PM)] ResourceLoaderBasic: export: Trying to access package
+[debug (5/7/18 5:22:36 PM)] ResourceLoaderBasic: export: Accessing jar: file:/H:/SeleniumFramework/Sikuli/sikuli-setup.jar
+[debug (5/7/18 5:22:38 PM)] ResourceLoaderBasic: export: Found 0 Files in META-INF/libs/tessdata
+[debug (5/7/18 5:22:38 PM)] ResourceLoaderBasic: checkLibsDir: H:\SeleniumFramework\Sikuli\libs
+[debug (5/7/18 5:22:38 PM)] ResourceLoaderBasic: loadLib: WinUtil
+[debug (5/7/18 5:22:38 PM)] ResourceLoaderBasic: loadLib: Found: WinUtil
+[error (5/7/18 5:22:38 PM)] ResourceLoaderBasic: loadLib: Fatal Error 110: loading: WinUtil.dll
+[error (5/7/18 5:22:38 PM)] ResourceLoaderBasic: loadLib: Since native library was found, it might be a problem with needed dependent libraries
+H:\SeleniumFramework\Sikuli\libs\WinUtil.dll: Can't find dependent libraries
+[error (5/7/18 5:22:38 PM)] ResourceLoaderBasic: loadLib: Check, wether a valid Sikuli libs folder is in system path at runtime!
+[error (5/7/18 5:22:38 PM)] ResourceLoaderBasic: loadLib: Running Setup: ignoring this error for now
+[debug (5/7/18 5:22:38 PM)] ResourceLoaderBasic: checkLibsDir: Using libs at: H:\SeleniumFramework\Sikuli\libs
+[debug (5/7/18 5:22:38 PM)] ResourceLoaderBasic: export: Using this as OCR directory (tessdata) too
+[debug (5/7/18 5:22:41 PM)] RunSetup: Trying to run functional test: running Jython statements via SikuliScript
+[debug (5/7/18 5:22:41 PM)] SikuliX: before adding to classpath: H:\SeleniumFramework\Sikuli\sikuli-ide.jar
+[debug (5/7/18 5:22:41 PM)] SikuliX: 0: file:/H:/SeleniumFramework/Sikuli/sikuli-setup.jar
+[debug (5/7/18 5:22:41 PM)] SikuliX: after adding to classpath
+[debug (5/7/18 5:22:41 PM)] SikuliX: 0: file:/H:/SeleniumFramework/Sikuli/sikuli-setup.jar
+[debug (5/7/18 5:22:41 PM)] SikuliX: 1: file:/H:/SeleniumFramework/Sikuli/sikuli-ide.jar
+[debug (5/7/18 5:22:41 PM)] RunSetup: trying to run testSetup.sikuli using SikuliScript
+[debug (5/7/18 5:22:44 PM)] SikuliX Jython Support Build: 1.0.1 12SEP2013160248
+[debug (5/7/18 5:22:47 PM)] JythonScriptRunner: : executeScriptHeader: adding SikuliX Lib path to sys.path
+H:\SeleniumFramework\Sikuli\sikuli-setup.jar\Lib
+[debug (5/7/18 5:22:49 PM)] Jython: sikuli: __init__: entering
+[debug (5/7/18 5:22:49 PM)] Jython: sikuli: Sikuli: entering
+[debug (5/7/18 5:22:51 PM)] Jython: sikuli: Sikuli: constants
+[debug (5/7/18 5:22:51 PM)] Jython: sikuli: Sikuli: import Region
+[debug (5/7/18 5:22:54 PM)] Jython: sikuli: Sikuli: import Screen
+[debug (5/7/18 5:22:54 PM)] Jython: sikuli: Sikuli: Env.addHotkey
+[debug (5/7/18 5:22:54 PM)] Jython: sikuli: Sikuli: import Match
+[debug (5/7/18 5:22:54 PM)] Jython: sikuli: Sikuli: import Pattern
+[debug (5/7/18 5:22:54 PM)] Jython: sikuli: Sikuli: import Location
+[debug (5/7/18 5:22:54 PM)] Jython: sikuli: Sikuli: import ScreenUnion
+[debug (5/7/18 5:22:54 PM)] Jython: sikuli: Sikuli: import Finder
+[debug (5/7/18 5:22:55 PM)] ResourceLoaderBasic: loadLib: VisionProxy
+[debug (5/7/18 5:22:55 PM)] ResourceLoaderBasic: loadLib: Found: VisionProxy
+[debug (5/7/18 5:22:56 PM)] ResourceLoaderBasic: loadLib: Now loaded: VisionProxy
+[debug (5/7/18 5:22:56 PM)] Jython: sikuli: Sikuli: import App
+[debug (5/7/18 5:22:56 PM)] ResourceLoaderBasic: loadLib: Is already loaded: WinUtil
+[debug (5/7/18 5:22:56 PM)] Screen: initScreens: basic initialization (1 Screen(s) found)
+[debug (5/7/18 5:22:56 PM)] *** monitor configuration (primary: 0) ***
+[debug (5/7/18 5:22:56 PM)] Screen 0: S(0)[0,0 1366x768]
+[debug (5/7/18 5:22:56 PM)] *** end monitor configuration ***
+[debug (5/7/18 5:22:56 PM)] Jython: sikuli: Sikuli: import Key
+[debug (5/7/18 5:22:56 PM)] Jython: sikuli: Sikuli: import from Basics
+[debug (5/7/18 5:22:56 PM)] Jython: sikuli: Sikuli: import from compare
+[debug (5/7/18 5:22:56 PM)] Jython: sikuli: Sikuli: init SikuliImporter
+[debug (5/7/18 5:22:56 PM)] Jython: sikuli: Sikuli: import SikuliScript
+[debug (5/7/18 5:22:56 PM)] Jython: init SCREEN as ()
+[debug (5/7/18 5:22:57 PM)] Sikuli-Script startup: 12397
+[debug (5/7/18 5:23:13 PM)] RunSetup: ... SikuliX Setup seems to have ended successfully ;-)

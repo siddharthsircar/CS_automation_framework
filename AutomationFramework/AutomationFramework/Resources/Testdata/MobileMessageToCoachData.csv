@@ -1,0 +1,6 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText
+AndroidMessageToCoach,uielements,Coaching Header,coachinglbl,Coaching
+AndroidMessageToCoach,uielements,Coach Label,coachlbl,Coach
+AndroidMessageToCoach,uielements,Hours Of Operation Text,hoursofopeationlbl,Mon-Fri 7AM to 10PM CST
+AndroidMessageToCoach,uielements,Send Message Button,sendmessagebtntxt,Send Message
+AndroidMessageToCoach,uielements,Call Now Button,callnowbtntxt,Call Now

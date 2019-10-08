@@ -1,0 +1,16 @@
+ClientName,ClassName,Category,BadgeName,ExpectedPointsAwarded,ExpectedInsertDate,ExpectedIncentiveSymbol
+health trust,WeightTracker,I Tracked My Maintain Weight,Self-Track Your Progress,1,,$
+health trust,WeightTracker,I Tracked My Maintain Weight,Self-Track Your Progress,1,,$
+health trust,WeightManagementCourse,I Completed The Weight Course,Self-Directed Course Completion,15,,$
+health trust,WeightManagementCourse,I Completed The Weight Progress Check-In,Self-Directed Progress Check-in Completion,5,,$
+health trust,MessageToCoach,I Contacted My Health Coach,Contact Your Health Coach,15,,$
+health trust,DevicesAndApps,I Connected My Device/App,Connect your Fitness Device or Mobile App,5,,$
+health trust,Challenges,I Participated in a Personal Challenge,Join any Personal or Group Challenge,5,,$
+
+meabt,WeightTracker,I Tracked My Maintain Weight,Track Your Progress,1,,PT
+meabt,WeightTracker,I Tracked My Maintain Weight,Track Your Progress,1,,PT
+meabt,WeightManagementCourse,I Completed The Weight Course,Complete a Self-directed Course,15,,PTS
+meabt,WeightManagementCourse,I Completed The Weight Progress Check-In,Complete a Progress Check-In,5,,PTS
+
+onlife health,WeightTracker,I Tracked My Maintain Weight,Track Your Progress,5,,PTS
+onlife health,WeightManagementCourse,I Completed The Weight Course,Complete a Self-Directed Course,25,,PTS

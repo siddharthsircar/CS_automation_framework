@@ -1,0 +1,5 @@
+ClassName,Category,ElementName,LocatorName,InputValue,VarInputValue
+Page_ImproveBloodPressureGoal,inputdata,currentsystolictb,bpinputvalue,160,1
+Page_ImproveBloodPressureGoal,inputdata,currentdistolictb,bpinputvalue,130,2
+Page_ImproveBloodPressureGoal,inputdata,goalsystolictb,bpinputvalue,120,3
+Page_ImproveBloodPressureGoal,inputdata,goaldistolictb,bpinputvalue,80,4

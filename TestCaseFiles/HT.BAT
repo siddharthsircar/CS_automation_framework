@@ -1,0 +1,3 @@
+%WINDIR%\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe D:\SeleniumFramework-SA\AutomationFramework\AutomationFramework.sln /t:build /p:Configuration=Debug /p:Platform="any cpu"
+D:\SeleniumFramework-SA\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "D:\SeleniumFramework-SA\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat==AllClientReg"  --result="D:\AutomationReports\LiveOn_QaSAb%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="qc.onlifehealth.com";env="qc";clientname="Health Trust";isregistered="true";reportpath="D:\Reports"
+pause

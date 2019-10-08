@@ -1,0 +1,120 @@
+ClientName,ClassName,Category,ElementName,ExpectedText1,ExpectedText2,ExpectedText3,ExpectedText4,ExpectedText5,Expected6
+health trust,MAPI_Dashboard,newmemberjourney,WelcomeVideoTileText,Welcome Video,Watch,TRUE,This short Welcome Video provides a quick and helpful introduction to your wellness program,,
+health trust,MAPI_Dashboard,newmemberjourney,HATileText,Health Assessment,Take Me There,TRUE,Completing your Health Assessment is the first step to creating a wellness program,,
+health trust,MAPI_Dashboard,newmemberjourney,BioMetricHealthTileText,Biometric Health Screening,Learn More,TRUE,Learn the numbers that could save your life and earn a $75 reward!,,
+health trust,MAPI_Dashboard,newmemberjourney,ContactHealthCoachTileText,Contact Your Health Coach,Contact,TRUE,Make a new friend who listens,15,$
+health trust,MAPI_Dashboard,newmemberjourney,JoinAChallengeTileText,Join A Challenge,Join Challenge,TRUE,Your wellness program offers a number of personal challenges to get your competitive juices flowing,5,$
+health trust,MAPI_Dashboard,newmemberjourney,ConnectFitnessDeviceOrAppTileText,Connect Your Fitness Device or App,Connect,TRUE,Regular physical activity is a proven and effective way to lower your blood pressure,5,$
+health trust,MAPI_Dashboard,newmemberjourney,OrderAFitnessDeviceTileText,Order a Fitness Device,Shop Now,FALSE,Stay Connected!,,
+health trust,MAPI_Dashboard,newmemberjourney,TrackWithNutritionAppTileText,Track with your Nutrition App,Connect App,TRUE,Just making a few simple changes to your diet,5,$
+health trust,MAPI_Dashboard,newmemberjourney,ConnectWithCollegueTileText,Connect with a Colleague,Connect,TRUE,Inviting other HealthTrust Enrollees to become part of your health journey,5,$
+
+meabt,MAPI_Dashboard,newmemberjourney,WelcomeVideoTileText,Welcome Video,Watch The Video,TRUE,This short Welcome Video provides a quick and helpful introduction to your wellness program,,
+meabt,MAPI_Dashboard,newmemberjourney,HATileText,Health Assessment,Take Your HA,FALSE,Completing your Health Assessment is the first step to creating a wellness program,25,PTS
+meabt,MAPI_Dashboard,newmemberjourney,BiometricHealthScreeningTileText,Biometric Health Screening,Learn More,TRUE,A biometric screening measures the key factors that affect the development of heart disease,20,PTS
+meabt,MAPI_Dashboard,newmemberjourney,ConnectWithCoachTileText,Connect with a Coach,Contact,TRUE,The journey to a healthier you is easier when you,,
+meabt,MAPI_Dashboard,newmemberjourney,JoinChallengeTileText,Join A Challenge,Join,TRUE,Real change begins when you challenge yourself,,
+meabt,MAPI_Dashboard,newmemberjourney,ConnectFitnessDeviceTileText,Connect Your Fitness Device,Connect,TRUE,Regular physical activity is a proven and effective way to lower your blood pressure,,
+meabt,MAPI_Dashboard,newmemberjourney,ConnectNutritionAppTileText,Connect Your Nutrition App,Connect App,TRUE,Discover how to eat your way to better health,,
+
+group 44,MAPI_Dashboard,newmemberjourney,WelcomeVideoTileText,Welcome Video,Watch,TRUE,This short Welcome Video provides a quick and helpful introduction to your wellness program,,
+group 44,MAPI_Dashboard,newmemberjourney,HealthAssessmentTileText,Health Assessment,Take Me There,FALSE,Completing your health assessment is the first step to creating a well-being program,0,PT
+group 44,MAPI_Dashboard,newmemberjourney,BiometricScreeningTileText,Biometric Screening,Learn More,FALSE,Using data to fine-tune your customized well-being program,0,PT
+group 44,MAPI_Dashboard,newmemberjourney,TrackersPageTileText,Trackers Home Page,Go To Trackers,FALSE,ake the fast track to meeting your wellness goals,,
+group 44,MAPI_Dashboard,newmemberjourney,ConnectDeviceTileText,Connect Your Fitness Device,Connect,TRUE,Not enough physical activity in your day?,,
+group 44,MAPI_Dashboard,newmemberjourney,ConnectAppTileText,Connect Your Nutrition App,Connect,TRUE,Discover how to eat your way to better health,,
+group 44,MAPI_Dashboard,newmemberjourney,InviteConnectionTileText,Invite A Connection,Invite Now,TRUE,Now available with high fives,,
+group 44,MAPI_Dashboard,newmemberjourney,ListenPodcastTileText,Listen to a Podcast,Listen,TRUE,Find out how the latest scientific research can help you lose weight,,
+
+onlife health,MAPI_Dashboard,newmemberjourney,WelcomeVideoTileText,Welcome Video,Watch,TRUE,This short Welcome Video provides a quick and helpful introduction to your wellness program,,
+onlife health,MAPI_Dashboard,newmemberjourney,HealthAssessmentTileText,Health Assessment,Take me there,FALSE,Completing your health assessment is the first step to creating a well-being program,0,PT
+onlife health,MAPI_Dashboard,newmemberjourney,BiometricScreeningTileText,Biometric Screening,Learn More,TRUE,A biometric screening measures the key factors that affect the development of heart disease,0,PT
+onlife health,MAPI_Dashboard,newmemberjourney,ContactACoachTileText,Contact a Coach,Contact Now,TRUE,We mix the art and science of coaching to provide members with a cohesive,,
+onlife health,MAPI_Dashboard,newmemberjourney,ConnectYourFitnessDeviceTileText,Connect Your Fitness Device,Connect,TRUE,Not enough physical activity in your day,,
+onlife health,MAPI_Dashboard,newmemberjourney,ConnectYourNutritionAppTileText,Connect Your Nutrition App,Connect App,TRUE,Discover how to eat your way to better health,,
+onlife health,MAPI_Dashboard,newmemberjourney,InviteAConnectionTileText,Invite a Connection,Invite Now,TRUE,Inviting co-workers to become part of your health journey gives you the encouragement to keep you moving toward your goal,,
+onlife health,MAPI_Dashboard,newmemberjourney,ListenAPodCastTileText,Listen to a Podcast,Listen,TRUE,Find out how the latest scientific research can help you lose weight,,
+
+arc,MAPI_Dashboard,newmemberjourney,WelcomeVideoTileText,Welcome Video,Watch The Video,TRUE,This short Welcome Video provides a quick and helpful introduction to your wellness program,,
+arc,MAPI_Dashboard,newmemberjourney,HealthAssessmentTileText,Health Assessment,Take Your HA,FALSE,Completing your Health Assessment is the first step to creating a wellness program,50,PTS
+arc,MAPI_Dashboard,newmemberjourney,ConnectCoordinatorTileText,Connect With A Care Coordinator,Contact,FALSE,An ARC Care Coordinator coaches and supports you if you have a chronic condition or health issue,,
+arc,MAPI_Dashboard,newmemberjourney,BiometricScreeningTileText,Biometric Health Screening,Learn More,TRUE,It delivers a detailed clinical assessment that identifies any risk factors you may have and provides the objective knowledge you and your doctor need to understand your current health status,100,PTS
+arc,MAPI_Dashboard,newmemberjourney,EnrollChallengeTileText,Enroll In A Challenge,Join,TRUE,Your wellness program offers a number of personal challenges to get your competitive juices flowing,,
+arc,MAPI_Dashboard,newmemberjourney,ConnectDeviceTileText,Connect Your Fitness Device,Connect,TRUE,Regular physical activity is a proven and effective way to lower your blood pressure,25,PTS
+arc,MAPI_Dashboard,newmemberjourney,ConnectAppTileText,Connect Your Nutrition App,Connect App,TRUE,Discover how to eat your way to better health,25,PTS
+arc,MAPI_Dashboard,newmemberjourney,InviteConnectionTileText,Invite A Connection,Invite,TRUE,Inviting other ARC members to become part of your health journey gives you the encouragement to keep you moving toward your goal,,
+
+medicare advantage,MAPI_Dashboard,newmemberjourney,AnnualWellnessExamTileText,Annual Wellness Exam,Learn More,FALSE,An annual in-network wellness exam is an important first step in maintaining good health and that is why it is offered at no cost to you,,
+medicare advantage,MAPI_Dashboard,newmemberjourney,WelcomeVideoTileText,Welcome Video,Watch,FALSE,This short Welcome Video provides a quick and helpful introduction to your well-being program,,
+medicare advantage,MAPI_Dashboard,newmemberjourney,HealthNeedsAssessmentTileText,Health Needs Assessment,Take me there,FALSE,Completing your health assessment is the first step to creating a well-being program,20,PTS
+medicare advantage,MAPI_Dashboard,newmemberjourney,ProgramSummaryTileText,Program Summary,Program Summary,TRUE,Schedule and complete the screenings you need,,
+medicare advantage,MAPI_Dashboard,newmemberjourney,MyHealthPlanTileText, My Health Plan,Learn More,TRUE,Learn more information about your Health Plan,,
+medicare advantage,MAPI_Dashboard,newmemberjourney,ConnectYourFitnessDeviceTileText,Connect Your Fitness Device,Connect,TRUE,And using a wearable fitness device is a great way to,,
+medicare advantage,MAPI_Dashboard,newmemberjourney,ConnectYourNutritionAppTileText,Connect Your Nutrition App,Connect App,TRUE,Just making a few simple changes to your diet,,
+medicare advantage,MAPI_Dashboard,newmemberjourney,ListOfTrackersTileText,List of Trackers,Trackers,TRUE,The system will navigate you to your List of Trackers,,
+medicare advantage,MAPI_Dashboard,newmemberjourney,MySettingsPageTileText,My Settings Page,Settings,TRUE,Navigates to the settings page,,
+
+health trust,MAPI_Dashboard,clinicaljourney,WelcomeVideoTileText,Welcome Video,Watch,TRUE,It takes less than two minutes to watch the video,,
+health trust,MAPI_Dashboard,clinicaljourney,BiometricScreeningTileText,Biometric Health Screening,Learn More,TRUE,Learn the numbers that could save your life and earn a $75 reward!,,
+health trust,MAPI_Dashboard,clinicaljourney,ContactYourHealthCoachTileText,Contact Your Health Coach,Contact,TRUE,All of our Health Coaches are credentialed and certified health experts,15,$
+health trust,MAPI_Dashboard,clinicaljourney,JoinChallengeTileText,Join a Challenge,Join Challenge,TRUE,Your wellness program offers a number of personal challenges to get your competitive juices flowing,5,$
+health trust,MAPI_Dashboard,clinicaljourney,ConnectYourFitnessDeviceTileText,Connect Your Fitness Device or App,Connect,TRUE,Regular physical activity is a proven and effective way to lower your blood pressure,5,$
+health trust,MAPI_Dashboard,clinicaljourney,OrderFitnessDeviceTileText,Order a Fitness Device,Shop Now,FALSE,Always wanted a wearable fitness tracker?,,
+health trust,MAPI_Dashboard,clinicaljourney,TrackWithNutritionAppTileText,Track with your Nutrition App,Connect App,TRUE,So you can avoid food high in saturated fat and sodium as well as increase your servings of heart-healthy foods,5,$
+health trust,MAPI_Dashboard,clinicaljourney,ConnectWithCollegueTileText,Connect with a Colleague,Connect,TRUE,Inviting other HealthTrust Enrollees to become part of your health journey gives you the encouragement to keep you moving toward your goal,5,$
+health trust,MAPI_Dashboard,clinicaljourney,ExerciseProgramTileText,Exercise Program,Start Program,TRUE,Are you ready to lower your risk for heart disease and stroke,,
+health trust,MAPI_Dashboard,clinicaljourney,ExerciseProgram.ConnectWithCoach,Connect With A Coach,Connect,TRUE,Get yourself off the couch and on the road to good health,15,$
+health trust,MAPI_Dashboard,clinicaljourney,ExerciseProgram.CompleteGoal,Complete a Goal,Complete Goal,TRUE,Exercise and physical activity are a great way to feel better,,
+health trust,MAPI_Dashboard,clinicaljourney,ExerciseProgram.TrackExercises,Track your Exercises,Take me there,TRUE,Take the fast track to meeting you exercise goals,1,$
+health trust,MAPI_Dashboard,clinicaljourney,ExerciseProgram.CompleteChallenge,Complete a Challenge,Take Challenge,TRUE,Real change begins when you challenge yourself,,
+health trust,MAPI_Dashboard,clinicaljourney,ExerciseProgram.IncreaseYourKnowledge,Increase Your Knowledge,Read,TRUE,Now you can access that wealth of knowledge in one convenient location,5,$
+health trust,MAPI_Dashboard,clinicaljourney,ExerciseProgram.WatchAVideo,Watch A Video,Watch,TRUE,Tune in for some healthy advice and support,,
+health trust,MAPI_Dashboard,clinicaljourney,ExerciseProgram.ListenToPodcast,Listen to a Podcast,Listen,TRUE,Find out how the latest scientific research can help you exercise smarter and more efficiently,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourCholesterolTileText,Lower Your Cholesterol,Start Program,TRUE,About one in every six adult Americans has high cholesterol,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourCholesterol.ConnectwithCoach,Connect With A Coach,Connect,TRUE,Team up with a Health Coach and your high cholesterol has met its match,15,$
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourCholesterol.CompleteGoal,Complete A Goal,Complete Goal,TRUE,Set your sights on a healthier you by Completing a goal,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourCholesterol.TrackCholesterol,Track your Cholesterol,Take me there,TRUE,Fuel your desire by tracking your cholesterol,1,$
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourCholesterol.CompleteChallenge,Complete A Challenge,Go,TRUE,Real change begins when you challenge yourself,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourCholesterol.IncreaseKnowledge,Increase Your Knowledge,Read,TRUE,Now you can access that wealth of knowledge in one convenient location,5,$
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourCholesterol.WatchVideo,Watch A Video,Watch,TRUE,Need a little extra support on your way to a healthier you,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourCholesterol.ListenPodcast,Listen to a Podcast,Go,TRUE,Find out how the latest scientific research can help you lower your cholesterol,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourCholesterol.ConnectWithSmartScale,Connect Your Smart Scale,Connect,TRUE,You are more likely to meet your goals if you regularly keep track of your progress,5,$
+health trust,MAPI_Dashboard,clinicaljourney,EatHealthyTileText,Eat Healthy,Start Program,TRUE,And most of us have a diet too high in sugars,,
+health trust,MAPI_Dashboard,clinicaljourney,EatHealthy.ConnectWithCoach,Connect With A Coach,Connect,TRUE,What you need is someone to help you overcome your temptations,15,$
+health trust,MAPI_Dashboard,clinicaljourney,EatHealthy.IncreaseYourKnowledge,Increase Your Knowledge,Read,TRUE,Many of these information sources feature strange and untested diets that can actually be bad for you,,
+health trust,MAPI_Dashboard,clinicaljourney,EatHealthy.TrackYourDiet,Track your Diet,Take me there,TRUE,Fuel your desire for a healthier diet by tracking what you eat,1,$
+health trust,MAPI_Dashboard,clinicaljourney,EatHealthy.StartChallenge,Start A Challenge,Take Challenge,TRUE,Real change begins when you challenge yourself,,
+health trust,MAPI_Dashboard,clinicaljourney,EatHealthy.IncreaseYourKnowledge,Increase Your Knowledge,Read,TRUE,Many of these information sources feature strange and untested diets that can actually be bad for you,5,$
+health trust,MAPI_Dashboard,clinicaljourney,EatHealthy.WatchVideo,Watch A Video,Watch,TRUE,Need a little extra support on your way to a healthier you,,
+health trust,MAPI_Dashboard,clinicaljourney,EatHealthy.ListenPodcast,Listen to a Podcast,Listen,TRUE,Find out how the latest scientific research can help make eating healthy a part of your lifestyle,,
+health trust,MAPI_Dashboard,clinicaljourney,QuitTobaccoTileText,Quit Tobacco,Start Program,TRUE,Quitting tobacco is the single most important action you can take to improve your health,,
+health trust,MAPI_Dashboard,clinicaljourney,QuitTobacco.ConnectWithCoach,Connect With A Coach,Connect,TRUE,Quitting tobacco is hard,15,$
+health trust,MAPI_Dashboard,clinicaljourney,QuitTobacco.CompleteGoal,Complete A Goal,Go,TRUE,Setting a goal and following a plan to achieve that goal increases your chances of kicking your tobacco habit,,
+health trust,MAPI_Dashboard,clinicaljourney,QuitTobacco.QuitTobaccoTracker,Quit Tobacco Tracker,Go to Tracker,TRUE,Use a tracker to create a faster track to quitting,1,$
+health trust,MAPI_Dashboard,clinicaljourney,QuitTobacco.CompleteChallenge,Complete A Challenge,Take Challenge,TRUE,Your wellness program offers a number of personal challenges to get your competitive juices flowing,,
+health trust,MAPI_Dashboard,clinicaljourney,QuitTobacco.IncreaseYourKnowledge,Increase Your Knowledge,Go,TRUE,Now you can access that wealth of knowledge in one convenient location,5,$
+health trust,MAPI_Dashboard,clinicaljourney,QuitTobacco.WatchVideo,Watch A Video,Watch,TRUE,Tune in for some healthy advice and support,,
+health trust,MAPI_Dashboard,clinicaljourney,QuitTobacco.ListenPodcast,Listen to Podcast,Listen,TRUE,Find out how the latest scientific research can help you quit your tobacco addiction,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourStressTileText,Lower Your Stress,Start,TRUE,office visits are stress-related,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourStress.ConnectWithACoach,Connect With A Coach,Connect,TRUE,Say hello to a new friend as you say good-bye to stress,15,$
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourStress.CompleteAGoal,Complete A Goal,Complete A Goal,TRUE,And the best way to set a goal is to keep it simple,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourStress.TrackYourStress,Track your Stress,Go to Tracker,TRUE,Use a tracker to create a faster track to stress reduction,1,$
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourStress.CompleteAChallenge,Complete A Challenge,Take Challenge,TRUE,Your wellness program offers a number of personal challenges to get your competitive juices flowing,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourStress.IncreaseYourKnowledge,Increase Your Knowledge,Read,TRUE,Now you can access that wealth of knowledge in one convenient location,5,$
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourStress.WatchAVideo,Watch A Video,Watch a Video,TRUE,Tune in for some healthy advice and support,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourStress.ListenAPodcast,Listen to a Podcast,Listen,TRUE,Find out how the latest scientific research can help you lower your stress level,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourBloodPressureTileText,Lower Your Blood Pressure,Start Program,TRUE,greater risk for heart disease and stroke because they have,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourBP.ConnectWithCoach,Connect With A Coach,Connect,TRUE,Team up with a Health Coach,15,$
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourBp.CompleteAGoal,Complete A Goal,Go,TRUE,A healthier you starts with setting a goal,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourBP.TrackBP,Track your Blood Pressue,Go to Tracker,TRUE,Take heart and take charge of your blood pressure,1,$
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourBP.CompleteChallenge,Complete a Challenge,Take Challenge,TRUE,Real change begins when you challenge yourself,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourBp.IncreaseYourKnowledge,Increase Your Knowledge,Read,TRUE,Now you can access that wealth of knowledge in one convenient location,5,$
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourBP.WatchAVideo,Watch A Video,Watch,TRUE,Tune in for some healthy advice and support,,
+health trust,MAPI_Dashboard,clinicaljourney,LowerYourBP.ListenToPodcast,Listen to a Podcast,Go,TRUE,Find out how the latest scientific research can help you lower your blood pressure,,
+health trust,MAPI_Dashboard,clinicaljourney,LoseTheWeightTileText,Lose The Weight,Start Program,TRUE,Losing weight is one of the best things you can do to live longer,,
+health trust,MAPI_Dashboard,clinicaljourney,LoseTheWeight.ConnectWithCoach,Connect With A Coach,Go,TRUE,Lose the weight as you gain a friend,15,$
+health trust,MAPI_Dashboard,clinicaljourney,LoseTheWeight.CompleteYourGoal,Complete Your Goal,Complete Goal,TRUE,the best way to lose weight is to start by setting a goal,,
+health trust,MAPI_Dashboard,clinicaljourney,LoseTheWeight.TrackYourWeight,Track your Weight,Go to Tracker,TRUE,Fuel your desire by tracking your weight loss,1,$
+health trust,MAPI_Dashboard,clinicaljourney,LoseTheWeight.IncreaseYourKnowledge,Increase Your Knowledge,Read,TRUE,Many of these information sources with their fad diets are not reliable and can actually be bad for you,5,$
+health trust,MAPI_Dashboard,clinicaljourney,LoseTheWeight.WatchAVideo,Watch A Video,Watch,TRUE,Tune in for some healthy advice and support,,
+health trust,MAPI_Dashboard,clinicaljourney,LoseTheWeight.ListenToPodcast,Listen to a Podcast,Listen,TRUE,Find out how the latest scientific research can help you lose weight,,

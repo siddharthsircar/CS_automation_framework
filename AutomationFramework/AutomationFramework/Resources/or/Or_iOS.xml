@@ -1,0 +1,66 @@
+<?xml version = "1.0"?>
+<ObjectRepository>
+  <PageNode name="Page_ICommomTracker">
+    <Object locatorname="weighttrackerlnk" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='TrackersViewAll']"/>
+
+  </PageNode>
+  <PageNode name="CommonTracker">
+    <Object locatorname="weighttrakcertiletext" locatortype="xpath" locatorvalue="//XCUIElementTypeStaticText[@name='Weight']"/>
+    
+  </PageNode>
+  <PageNode name="Common">
+    <Object locatorname="footermenuicon" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Fan']"/>
+    <Object locatorname="devicemenuicon" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='FAB_Devices']"/>
+    <Object locatorname="myprofilemenuicon" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Tap FAB_Profile']"/>
+    <Object locatorname="Challengesmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Challenges']"/>
+    <Object locatorname="myfitnessmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='My Fitness']"/>
+    <Object locatorname="connectionsmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Connections']"/>
+    <Object locatorname="incentivesmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Incentives']"/>
+    <Object locatorname="quicktrackermenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='Quick Tracker']"/>
+    <Object locatorname="faqmenuicon" locatortype="xpath" locatorvalue="//android.widget.TextView[@text='FAQ's']"/>
+    <Object locatorname="footersettings" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='tab_Settings']"/>
+    <Object locatorname="haicon" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='tab_HealthAssessment']"/>
+    <Object locatorname="helppopup_close" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='cross circle']"/>
+    <Object locatorname="helppopup_continue" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Continue']"/>
+  </PageNode>
+  
+  <PageNode name="Page_ISkipIntro">    
+    <Object locatorname="skipintrolnk" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='SkipIntro']"/>
+    <Object locatorname="hellotxt" locatortype="xpath" locatorvalue="//XCUIElementTypeStaticText[@name='Hello']"/>
+    <Object locatorname="holatxt" locatortype="xpath" locatorvalue="//XCUIElementTypeStaticText[@name='Hola']"/>
+    <!--<Object locatorname="alwaysonimg" locatortype="id" locatorvalue="$varinput1:id/welcome_layout_logo"/>-->
+    <Object locatorname="welcomebtn" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Welcome']"/>
+  </PageNode>
+  
+  <PageNode name="Page_ILogin">    
+		<Object locatorname="usernametxt" locatortype="xpath" locatorvalue="//XCUIElementTypeTextField[@name='Username']"/>
+		<Object locatorname="passwordtxt" locatortype="xpath" locatorvalue="//XCUIElementTypeSecureTextField[@name='Password']"/>
+		<Object locatorname="loginbtn" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Login']"/>
+    <Object locatorname="envselector" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Set Environment: INT']"/>
+    <Object locatorname="envqa12b" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='QA 2012b']"/>
+    <Object locatorname="envqa12" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='QA']"/>
+    <Object locatorname="envqb" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='QB']"/>
+    <Object locatorname="envstage" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Staging']"/>
+    <Object locatorname="envqc" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='QC']"/>
+    <Object locatorname="frgtunlnk" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Forgot Username']"/>
+    <Object locatorname="frgtpwdlnk" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Forgot Password']"/>
+    <Object locatorname="registrationbtn" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='New User Registration']"/>    
+    <Object locatorname="pin" locatortype="xpath" locatorvalue="//XCUIElementTypeKey[@name='2']"/>   
+  </PageNode>
+  
+  <PageNode name="Page_IDashboard">
+    <Object locatorname="welcomepagetitle" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='icon closeGrey']"/>
+    <Object locatorname="welcomepagetext" locatortype="id" locatorvalue="$varinput1:id/welcome_content_text"/>
+    <Object locatorname="welcomepageclose" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='icon closeGrey']"/>
+    <Object locatorname="disablenotification" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Don’t Allow']"/>
+    <Object locatorname="enablenotification" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Allow']"/>
+    <Object locatorname="helppopup_close" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='cross circle']"/>
+    <Object locatorname="helppopup_continue" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Continue']"/>
+    <Object locatorname="ahealth_no" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='No']"/>
+    <Object locatorname="ahealth_yes" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Yes']"/>
+  </PageNode>
+  
+  <PageNode name="Page_ISettings">
+    <Object locatorname="logoutoptn" locatortype="xpath" locatorvalue="//XCUIElementTypeButton[@name='Log out']"/>
+  </PageNode>
+</ObjectRepository>

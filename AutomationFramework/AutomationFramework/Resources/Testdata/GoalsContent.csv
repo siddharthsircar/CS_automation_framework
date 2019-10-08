@@ -1,0 +1,295 @@
+ClassName,Category,ElementName,LocatorClassName,LocatorName,ExpectedText
+CommonGoals,removepopup,GoalRemoveHeader,goalremoveheader,Goal Removal Confirmation
+CommonGoals,removepopup,GoalRemoveTitle,removegoaltitle,You have opted to remove your goal
+CommonGoals,removepopup,GoalRemoveNoBtn,nobtn,No Thank You
+CommonGoals,removepopup,GoalRemoveYesBtn,yesbtn,Yes I'm Sure
+
+Page_MaintainTobaccoFreeStatusGoal,actions,WeeklySavingAfterQuit,calculateweeklysavingafterquit,Calculate weekly savings from quitting
+Page_MaintainTobaccoFreeStatusGoal,actions,LearnAboutTreatmentForQuiting,learnabouttreatmentforquiting,Learn about treatments for quitting
+Page_MaintainTobaccoFreeStatusGoal,actions,ListAlternateSmokeBreak,listalternatesmokebreak,List alternatives to smoke breaks
+Page_MaintainTobaccoFreeStatusGoal,actions,PracticeStressManagementTechnique,practicestressmanagementtechnique,Practice stress management techniques
+Page_MaintainTobaccoFreeStatusGoal,actions,UseDistractionToCopeUpStress,usedistractiontocopeupstress,Use distractions to cope with cravings
+Page_MaintainTobaccoFreeStatusGoal,actions,Question1,question1,Ask someone close to me for support
+Page_MaintainTobaccoFreeStatusGoal,actions,Question2,question2,Identify obstacles to stay tobacco-free
+
+Page_MaintainTobaccoFreeStatusGoal,actionitems,Action1,action1,Start using the Tobacco Tracker
+Page_MaintainTobaccoFreeStatusGoal,actionitems,Action2,action2,Calculate weekly savings from quitting
+Page_MaintainTobaccoFreeStatusGoal,actionitems,Action3,action3,Learn about treatments for quitting
+Page_MaintainTobaccoFreeStatusGoal,actionitems,ErrorMsg,errormsg,A maximum of 5 actions can be assigned.
+
+Page_MaintainTobaccoFreeStatusGoal,setup,CloseOrQuitSupport,closeorsupporttile,Ask someone close to me for support
+Page_MaintainTobaccoFreeStatusGoal,setup,ObstactleToStayTobaccoFree,obstacletostaytobaccofree,Identify obstacles to stay tobacco-free 
+Page_MaintainTobaccoFreeStatusGoal,setup,StartUsingTobaccoTracker,startusingtobaccotracker,Start using the Tobacco Tracker
+Page_MaintainTobaccoFreeStatusGoal,setup,CalculateWeeklySaving,calculateweeklysaving,Learn about treatments for quitting
+Page_MaintainTobaccoFreeStatusGoal,setup,LearnAboutTreatment,learnabouttreatment,Calculate weekly savings from quitting
+
+Page_MaintainTobaccoFreeStatusGoal,plan,MyProgressLbl,myprogresslbl,My Progress
+Page_MaintainTobaccoFreeStatusGoal,plan,CloseOrSupportTitle,closeorsupporttitle,Ask someone close to me for support
+Page_MaintainTobaccoFreeStatusGoal,plan,WeeklySavingTitle,weeklysavingtitle,Calculate weekly savings from quitting
+Page_MaintainTobaccoFreeStatusGoal,plan,StartTobaccoTracker,starttobaccotracker,Start using the Tobacco Tracker
+Page_MaintainTobaccoFreeStatusGoal,plan,StayTobaccoFree,staytobaccofree,Identify obstacles to stay tobacco-free
+Page_MaintainTobaccoFreeStatusGoal,plan,TreatmentForQuiting,treatmentforquiting,Learn about treatments for quitting
+
+Page_MaintainWeightGoal,controls,AddAGoalTitle,addagoalheader,Add a Goal
+Page_MaintainWeightGoal,controls,MaintainWeightLbl,maintainweightlbl,Maintain Weight
+Page_MaintainWeightGoal,controls,GoalSpecifiesLbl,goalspecifieslbl,Goal Specifics
+Page_MaintainWeightGoal,controls,CurrentStatusLbl,currentstatuslbl,Let us capture your current status
+Page_MaintainWeightGoal,controls,WeightLbl,weightlbl,Weight
+Page_MaintainWeightGoal,controls,RecommendationLbl,recommendationlbl,Recommendations
+Page_MaintainWeightGoal,controls,StepsLbl,steps,Steps
+Page_MaintainWeightGoal,controls,Step1Lbl,step1,1
+Page_MaintainWeightGoal,controls,Step2Lbl,step2,2
+Page_MaintainWeightGoal,controls,Step3Lbl,step3,3
+Page_MaintainWeightGoal,controls,YourGoalLbl,yourgoallbl,Your goal
+Page_MaintainWeightGoal,controls,MaintainCurrentStatusLbl,maintaincurrentstatuslbl,Maintain Current Weight
+
+Page_MaintainWeightGoal,removescreen,GoalRemoveHeader,goalremoveheader,Goal Removal Confirmation
+Page_MaintainWeightGoal,removescreen,ConfirmationText,confirmationtext,You have opted to remove your goal 
+Page_MaintainWeightGoal,removescreen,NoBtn,nobtn,No Thank You 
+Page_MaintainWeightGoal,removescreen,YesBtn,yesbtn,Yes I'm Sure
+
+Page_MaintainWeightGoal,actions,CreatePlanLbl,createplanlbl,Create a Plan
+Page_MaintainWeightGoal,actions,SrcOfCal,srcofcal,Eat more food sources of calcium
+Page_MaintainWeightGoal,actions,LmtFatIntake,lmtfatintake,Limit my fat intake
+Page_MaintainWeightGoal,actions,DailyFibreLmt,dailyfibrelmt,Eat 25-30 grams of fiber daily
+Page_MaintainWeightGoal,actions,FruitVegieLmt,fruitvegielmt,Eat 5-10 servings of fruits and veggies
+Page_MaintainWeightGoal,actions,EatMoreFibre,eatmorefibre,Eat more fiber
+Page_MaintainWeightGoal,actions,ChooseWholeGrains,choosewholegrains,Choose whole grains
+Page_MaintainWeightGoal,actions,YourPlan,yourplan,Your Plan
+Page_MaintainWeightGoal,actions,Question1,question1,Consume the suggested number of calories
+Page_MaintainWeightGoal,actions,Question2,question2,Do 30 minutes of cardio exercise 5x/week
+
+Page_MaintainWeightGoal,actionitem,ErrorMsg,errormsg,A maximum of 5 actions can be assigned.
+Page_MaintainWeightGoal,actionitem,Action1,action1,Eat more food sources of calcium
+Page_MaintainWeightGoal,actionitem,Action2,action2,Limit my fat intake
+Page_MaintainWeightGoal,actionitem,Action3,action3,Eat 25-30 grams of fiber daily
+
+
+Page_MaintainWeightGoal,setup,CongratsMsg,congratsmsg,Congratulations! Your Goal Setup is Almost Complete!
+Page_MaintainWeightGoal,setup,Tile1,tile1,Consume the suggested number of calories
+Page_MaintainWeightGoal,setup,Tile2,tile2,Do 30 minutes of cardio exercise 5x/week
+Page_MaintainWeightGoal,setup,Tile3,tile3,Eat more food sources of calcium
+Page_MaintainWeightGoal,setup,Tile4,tile4,Eat 25-30 grams of fiber daily
+Page_MaintainWeightGoal,setup,Tile5,tile5,Limit my fat intake
+Page_MaintainWeightGoal,setup,Weight,weight,Maintain Weight: 180 lbs
+
+Page_MaintainWeightGoal,plan,MyProgressLbl,myprogresslbl,My Progress
+Page_MaintainWeightGoal,plan,NoOfDays,noofdays,92
+Page_MaintainWeightGoal,plan,DaysRemainingLbl,daysremaininglbl,Days Remaining
+Page_MaintainWeightGoal,plan,TrackBtn,trackbtn,Track
+Page_MaintainWeightGoal,plan,EditBtn,editbtn,Edit
+Page_MaintainWeightGoal,plan,PlanLbl,planlbl,Plan
+Page_MaintainWeightGoal,plan,PlanTile1,plantile1,Consume the suggested number of calories
+Page_MaintainWeightGoal,plan,PlanTile2,plantile2,Do 30 minutes of cardio exercise 5x/week
+Page_MaintainWeightGoal,plan,PlanTile3,plantile3,Eat 25-30 grams of fiber daily
+Page_MaintainWeightGoal,plan,PlanTile4,plantile4,Eat more food sources of calcium
+Page_MaintainWeightGoal,plan,PlanTile5,plantile5,Limit my fat intake
+Page_MaintainWeightGoal,plan,Plantile6,plantile6,Edit Plan
+
+Page_ImproveDietaryHabitsGoal,actions,ActionPlan1,CommonGoals,actionplan1,Anticipate and resolve challenges to my goal
+Page_ImproveDietaryHabitsGoal,actions,ActionPlan2,CommonGoals,actionplan2,Be a community advocate for healthy lifestyles
+Page_ImproveDietaryHabitsGoal,actions,ActionPlan3,CommonGoals,actionplan3,Break down my goal into smaller steps
+Page_ImproveDietaryHabitsGoal,actions,ActionPlan4,CommonGoals,actionplan4,Capitalize on my strengths to reach my goal
+Page_ImproveDietaryHabitsGoal,actions,ExistingActionPlan2,CommonGoals,actionplan5,Consume a sufficient amount of low fat dairy
+Page_ImproveDietaryHabitsGoal,actions,ExistingActionPlan1,CommonGoals,existingactionplan1,Adopt a balanced and nutritious eating pattern
+
+Page_ImproveDietaryHabitsGoal,actionitems,NewAddedActionPlan1,CommonGoals,actionitem2,Anticipate and resolve challenges to my goal
+Page_ImproveDietaryHabitsGoal,actionitems,NewAddedActionPlan2,CommonGoals,actionitem3,Break down my goal into smaller steps
+Page_ImproveDietaryHabitsGoal,actionitems,NewAddedActionPlan3,CommonGoals,actionitem4,Be a community advocate for healthy lifestyles
+Page_ImproveDietaryHabitsGoal,actionitems,NewAddedActionPlan4,CommonGoals,actionitem5,Consume a sufficient amount of low fat dairy
+Page_ImproveDietaryHabitsGoal,actionitems,ErrorMessage,CommonGoals,goalalert,A maximum of 5 actions can be assigned
+
+Page_ImproveDietaryHabitsGoal,setup,Plan1,CommonGoals,setupitem1,Adopt a balanced and nutritious eating pattern
+Page_ImproveDietaryHabitsGoal,setup,Plan2,CommonGoals,setupitem2,Anticipate and resolve challenges to my goal
+Page_ImproveDietaryHabitsGoal,setup,Plan3,CommonGoals,setupitem3,Break down my goal into smaller steps
+Page_ImproveDietaryHabitsGoal,setup,Plan4,CommonGoals,setupitem4,Be a community advocate for healthy lifestyles
+Page_ImproveDietaryHabitsGoal,setup,Plan5,CommonGoals,setupitem5,Consume a sufficient amount of low fat dairy
+Page_ImproveDietaryHabitsGoal,setup,expecteddatelbl,CommonGoals,expecteddate,will be provided in page class
+
+Page_ImproveDietaryHabitsGoal,completesetup,Plan1,CommonGoals,completegoaltile1,Adopt a balanced and nutritious eating pattern
+Page_ImproveDietaryHabitsGoal,completesetup,Plan2,CommonGoals,completegoaltile2,Anticipate and resolve challenges to my goal
+Page_ImproveDietaryHabitsGoal,completesetup,Plan3,CommonGoals,completegoaltile3,Be a community advocate for healthy lifestyles
+Page_ImproveDietaryHabitsGoal,completesetup,Plan4,CommonGoals,completegoaltile4,Break down my goal into smaller steps
+Page_ImproveDietaryHabitsGoal,completesetup,Plan5,CommonGoals,completegoaltile5,Consume a sufficient amount of low fat dairy
+Page_ImproveDietaryHabitsGoal,completesetup,progresslabel,CommonGoals,myprogresslbl,My Progress
+Page_ImproveDietaryHabitsGoal,completesetup,daysremaining,CommonGoals,noofdays,20
+Page_ImproveDietaryHabitsGoal,completesetup,daysremaininglabel,CommonGoals,daysremaininglbl,Days Remaining
+Page_ImproveDietaryHabitsGoal,completesetup,trackbuttontext,CommonGoals,trackbtn,Track
+
+
+Page_ImproveCholesterolGoal,actions,FirstTile,anticipateandresolvetile,Anticipate and resolve challenges to my goal
+Page_ImproveCholesterolGoal,actions,secondtile,beacommunityadvocatetile,Be a community advocate for healthy lifestyles
+Page_ImproveCholesterolGoal,actions,thirdtile,breakdownmygoalinsmallerstepstile,Break down my goal into smaller steps
+Page_ImproveCholesterolGoal,actions,fourthtile,captalizeonmystrengthtoreachgoaltile,Capitalize on my strengths to reach my goal
+Page_ImproveCholesterolGoal,actions,question1,question1,Adopt a heart healthy eating pattern
+Page_ImproveCholesterolGoal,actions,question2,question2,Meet the Physical Activity Guidelines
+
+Page_ImproveCholesterolGoal,actionitems,action1,actionitem1,Anticipate and resolve challenges to my goal
+Page_ImproveCholesterolGoal,actionitems,action2,actionitem2,Break down my goal into smaller steps
+Page_ImproveCholesterolGoal,actionitems,action3,actionitem3,Be a community advocate for healthy lifestyles
+Page_ImproveCholesterolGoal,actionitems,errormessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_ImproveCholesterolGoal,setup,firsttiletext,setupitem1,Adopt a heart healthy eating pattern
+Page_ImproveCholesterolGoal,setup,secondtiletext,setupitem2,Meet the Physical Activity Guidelines
+Page_ImproveCholesterolGoal,setup,thirdtiletext,setupitem3,Anticipate and resolve challenges to my goal
+Page_ImproveCholesterolGoal,setup,fourthtiletext,setupitem4,Break down my goal into smaller steps
+Page_ImproveCholesterolGoal,setup,fifthtiletext,setupitem5,Be a community advocate for healthy lifestyles
+Page_ImproveCholesterolGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_ImproveCholesterolGoal,completesetup,firsttiletext,completegoaltile1,Adopt a heart healthy eating pattern
+Page_ImproveCholesterolGoal,completesetup,secondtiletext,completegoaltile2,Anticipate and resolve challenges to my goal
+Page_ImproveCholesterolGoal,completesetup,thirdtiletext,completegoaltile3,Be a community advocate for healthy lifestyles
+Page_ImproveCholesterolGoal,completesetup,fourthtiletext,completegoaltile4,Break down my goal into smaller steps
+Page_ImproveCholesterolGoal,completesetup,fifthtiletext,completegoaltile5,Meet the Physical Activity Guidelines
+Page_ImproveCholesterolGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_ImproveCholesterolGoal,completesetup,daysremaining,noofdays,20
+Page_ImproveCholesterolGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_ImproveCholesterolGoal,completesetup,trackbuttontext,trackbtn,Track
+
+
+Page_QuitTobaccoGoal,actions,FirstTile,startusingtobaccotrackertile,Start using the Tobacco Tracker
+Page_QuitTobaccoGoal,actions,SecondTile,learnaboutalternatetherapytile,Learn about alternative therapies
+Page_QuitTobaccoGoal,actions,ThirdTile,learnaboutnikotenetile,Learn about nicotine replacement therapy
+Page_QuitTobaccoGoal,actions,FourthTile,listalternativesmoketile,List alternatives to smoke breaks
+Page_QuitTobaccoGoal,actions,Question1,question1,Ask someone close to me for support
+Page_QuitTobaccoGoal,actions,Question2,question2,Identify tobacco triggers
+
+Page_QuitTobaccoGoal,actionitems,action1,actionitem1,Start using the Tobacco Tracker
+Page_QuitTobaccoGoal,actionitems,action2,actionitem2,Learn about nicotine replacement therapy
+Page_QuitTobaccoGoal,actionitems,action3,actionitem3,Learn about alternative therapies
+Page_QuitTobaccoGoal,actionitems,errormessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_QuitTobaccoGoal,setup,firsttiletext,setupitem1,Ask someone close to me for support
+Page_QuitTobaccoGoal,setup,secondtiletext,setupitem2,Identify tobacco triggers
+Page_QuitTobaccoGoal,setup,thirdtiletext,setupitem3,Start using the Tobacco Tracker
+Page_QuitTobaccoGoal,setup,fourthtiletext,setupitem4,Learn about nicotine replacement therapy
+Page_QuitTobaccoGoal,setup,fifthtiletext,setupitem5,Learn about alternative therapies
+Page_QuitTobaccoGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_QuitTobaccoGoal,completesetup,firsttiletext,completegoaltile1,Ask someone close to me for support
+Page_QuitTobaccoGoal,completesetup,secondtiletext,completegoaltile2,Identify tobacco triggers
+Page_QuitTobaccoGoal,completesetup,thirdtiletext,completegoaltile3,Learn about alternative therapies
+Page_QuitTobaccoGoal,completesetup,fourthtiletext,completegoaltile4,Learn about nicotine replacement therapy
+Page_QuitTobaccoGoal,completesetup,fifthtiletext,completegoaltile5,Start using the Tobacco Tracker
+Page_QuitTobaccoGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_QuitTobaccoGoal,completesetup,daysremaining,noofdays,20
+Page_QuitTobaccoGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_QuitTobaccoGoal,completesetup,trackbuttontext,trackbtn,Track
+
+Page_DecreaseWeightGoal,actions,FirstTile,eatmorefoodforcalciumtile,Eat more food sources of calcium
+Page_DecreaseWeightGoal,actions,SecondTile,cutdailycalorietile,Cut daily calories by 500-1000 calories
+Page_DecreaseWeightGoal,actions,ThirdTile,reducemyfatintaketile,Reduce my fat intake
+Page_DecreaseWeightGoal,actions,FourthTile,fibreintakeinputtile,Eat 25-30 grams of fiber daily
+Page_DecreaseWeightGoal,actions,Question1,question1,Consume the suggested number of calories
+Page_DecreaseWeightGoal,actions,Question2,question2,Do 30 minutes of cardio exercise 5x/week
+
+Page_DecreaseWeightGoal,actionitems,action1,actionitem1,Eat more food sources of calcium
+Page_DecreaseWeightGoal,actionitems,action2,actionitem2,Reduce my fat intake
+Page_DecreaseWeightGoal,actionitems,action3,actionitem3,Cut daily calories by 500-1000 calories
+Page_DecreaseWeightGoal,actionitems,errormessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_DecreaseWeightGoal,setup,firsttiletext,setupitem1,Consume the suggested number of calories
+Page_DecreaseWeightGoal,setup,secondtiletext,setupitem2,Do 30 minutes of cardio exercise 5x/week
+Page_DecreaseWeightGoal,setup,thirdtiletext,setupitem3,Eat more food sources of calcium
+Page_DecreaseWeightGoal,setup,fourthtiletext,setupitem4,Reduce my fat intake
+Page_DecreaseWeightGoal,setup,fifthtiletext,setupitem5,Cut daily calories by 500-1000 calories
+Page_DecreaseWeightGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_DecreaseWeightGoal,completesetup,firsttiletext,completegoaltile1,Consume the suggested number of calories
+Page_DecreaseWeightGoal,completesetup,secondtiletext,completegoaltile2,Cut daily calories by 500-1000 calories
+Page_DecreaseWeightGoal,completesetup,thirdtiletext,completegoaltile3,Do 30 minutes of cardio exercise 5x/week
+Page_DecreaseWeightGoal,completesetup,fourthtiletext,completegoaltile4,Eat more food sources of calcium
+Page_DecreaseWeightGoal,completesetup,fifthtiletext,completegoaltile5,Reduce my fat intake
+Page_DecreaseWeightGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_DecreaseWeightGoal,completesetup,daysremaining,noofdays,20
+Page_DecreaseWeightGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_DecreaseWeightGoal,completesetup,trackbuttontext,trackbtn,Track
+
+Page_ImproveBloodPressureGoal,actions,FirstTile,anticipateandresolvetile,Anticipate and resolve challenges to my goal
+Page_ImproveBloodPressureGoal,actions,secondtile,beacommunityadvocatetile,Be a community advocate for healthy lifestyles
+Page_ImproveBloodPressureGoal,actions,thirdtile,breakdownmygoalinsmallerstepstile,Break down my goal into smaller steps
+Page_ImproveBloodPressureGoal,actions,fourthtile,captalizeonmystrengthtoreachgoaltile,capitalize on my strengths to reach my goal
+Page_ImproveBloodPressureGoal,actions,question1,question1,Adopt the DASH Eating Plan
+Page_ImproveBloodPressureGoal,actions,question2,question2,Meet the Physical Activity Guidelines
+
+Page_ImproveBloodPressureGoal,actionitems,action1,actionitem1,Anticipate and resolve challenges to my goal
+Page_ImproveBloodPressureGoal,actionitems,action2,actionitem2,Break down my goal into smaller steps
+Page_ImproveBloodPressureGoal,actionitems,action3,actionitem3,Be a community advocate for healthy lifestyles
+Page_ImproveBloodPressureGoal,actionitems,errormessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_ImproveBloodPressureGoal,setup,firsttiletext,setupitem1,Adopt the DASH Eating Plan
+Page_ImproveBloodPressureGoal,setup,secondtiletext,setupitem2,Meet the Physical Activity Guidelines
+Page_ImproveBloodPressureGoal,setup,thirdtiletext,setupitem3,Anticipate and resolve challenges to my goal
+Page_ImproveBloodPressureGoal,setup,fourthtiletext,setupitem4,Break down my goal into smaller steps
+Page_ImproveBloodPressureGoal,setup,fifthtiletext,setupitem5,Be a community advocate for healthy lifestyles
+Page_ImproveBloodPressureGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_ImproveBloodPressureGoal,completesetup,firsttiletext,completegoaltile1,Adopt the DASH Eating Plan
+Page_ImproveBloodPressureGoal,completesetup,secondtiletext,completegoaltile2,Anticipate and resolve challenges to my goal
+Page_ImproveBloodPressureGoal,completesetup,thirdtiletext,completegoaltile3,Be a community advocate for healthy lifestyles
+Page_ImproveBloodPressureGoal,completesetup,fourthtiletext,completegoaltile4,Break down my goal into smaller steps
+Page_ImproveBloodPressureGoal,completesetup,fifthtiletext,completegoaltile5,Meet the Physical Activity Guidelines
+Page_ImproveBloodPressureGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_ImproveBloodPressureGoal,completesetup,daysremaining,noofdays,20
+Page_ImproveBloodPressureGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_ImproveBloodPressureGoal,completesetup,trackbuttontext,trackbtn,Track
+
+
+Page_ImproveFitnessLevelGoal,actions,ActionPlan1,actionplan1_keepanexercisejournal,Keep an exercise journal
+Page_ImproveFitnessLevelGoal,actions,ActionPlan2,actionplan2_learnaboutstretching,Learn about stretching and flexibility
+Page_ImproveFitnessLevelGoal,actions,ActionPlan3,actionplan3_learnmoreaboutcardiovascular,Learn more about cardiovascular exercise
+Page_ImproveFitnessLevelGoal,actions,ActionPlan4,actionplan4_learnmoreaboutstrength,Learn more about strength training
+Page_ImproveFitnessLevelGoal,actions,ExistingActionPlan1,existingactionplan1,Do 2 days a week of strength training
+Page_ImproveFitnessLevelGoal,actions,ExistingActionPlan2,existingactionplan2,Do 30 minutes of cardio exercise 5x/week
+
+Page_ImproveFitnessLevelGoal,actionitems,NewAddedActionPlan1,actionitem1,Keep an exercise journal
+Page_ImproveFitnessLevelGoal,actionitems,NewAddedActionPlan2,actionitem2,Learn more about cardiovascular exercise
+Page_ImproveFitnessLevelGoal,actionitems,NewAddedActionPlan3,actionitem3,Learn about stretching and flexibility
+Page_ImproveFitnessLevelGoal,actionitems,ErrorMessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_ImproveFitnessLevelGoal,setup,Plan1,setupitem1,Do 2 days a week of strength training
+Page_ImproveFitnessLevelGoal,setup,Plan2,setupitem2,Do 30 minutes of cardio exercise 5x/week
+Page_ImproveFitnessLevelGoal,setup,Plan3,setupitem3,Keep an exercise journal
+Page_ImproveFitnessLevelGoal,setup,Plan4,setupitem4,Learn more about cardiovascular exercise
+Page_ImproveFitnessLevelGoal,setup,Plan5,setupitem5,Learn about stretching and flexibility
+Page_ImproveFitnessLevelGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_ImproveFitnessLevelGoal,completesetup,Plan1,completegoaltile1,Do 2 days a week of strength training
+Page_ImproveFitnessLevelGoal,completesetup,Plan2,completegoaltile2,Do 30 minutes of cardio exercise 5x/week
+Page_ImproveFitnessLevelGoal,completesetup,Plan3,completegoaltile3,Keep an exercise journal
+Page_ImproveFitnessLevelGoal,completesetup,Plan4,completegoaltile4,Learn more about cardiovascular exercise
+Page_ImproveFitnessLevelGoal,completesetup,Plan5,completegoaltile5,Learn about stretching and flexibility
+Page_ImproveFitnessLevelGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_ImproveFitnessLevelGoal,completesetup,daysremaining,noofdays,20
+Page_ImproveFitnessLevelGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_ImproveFitnessLevelGoal,completesetup,trackbuttontext,trackbtn,Track
+
+Page_ManageStressGoal,actions,ActionPlan1,CommonGoals,actionplan1,Apply effective time management skills
+Page_ManageStressGoal,actions,ActionPlan2,CommonGoals,actionplan2,Avoid negative self-talk
+Page_ManageStressGoal,actions,ActionPlan3,CommonGoals,actionplan3,Balance work and family
+Page_ManageStressGoal,actions,ActionPlan4,CommonGoals,actionplan4,Change the way I think
+Page_ManageStressGoal,actions,ExistingActionPlan1,CommonGoals,existingactionplan1,Implement coping skills
+Page_ManageStressGoal,actions,ExistingActionPlan2,CommonGoals,existingactionplan2,Use relaxation techniques regularly
+
+Page_ManageStressGoal,actionitems,NewAddedActionPlan1,CommonGoals,actionitem3,Apply effective time management skills
+Page_ManageStressGoal,actionitems,NewAddedActionPlan2,CommonGoals,actionitem4,Balance work and family
+Page_ManageStressGoal,actionitems,NewAddedActionPlan3,CommonGoals,actionitem5,Avoid negative self-talk
+Page_ManageStressGoal,actionitems,ErrorMessage,CommonGoals,goalalert,A maximum of 5 actions can be assigned
+
+Page_ManageStressGoal,setup,Plan1,CommonGoals,setupitem1,Implement coping skills
+Page_ManageStressGoal,setup,Plan2,CommonGoals,setupitem2,Use relaxation techniques regularly
+Page_ManageStressGoal,setup,Plan3,CommonGoals,setupitem3,Apply effective time management skills
+Page_ManageStressGoal,setup,Plan4,CommonGoals,setupitem4,Balance work and family
+Page_ManageStressGoal,setup,Plan5,CommonGoals,setupitem5,Avoid negative self-talk
+Page_ManageStressGoal,setup,expecteddatelbl,CommonGoals,expecteddate,will be provided in page class
+
+Page_ManageStressGoal,completesetup,Plan1,CommonGoals,completegoaltile1,Apply effective time management skills
+Page_ManageStressGoal,completesetup,Plan2,CommonGoals,completegoaltile2,Avoid negative self-talk
+Page_ManageStressGoal,completesetup,Plan3,CommonGoals,completegoaltile3,Balance work and family
+Page_ManageStressGoal,completesetup,Plan4,CommonGoals,completegoaltile4,Implement coping skills
+Page_ManageStressGoal,completesetup,Plan5,CommonGoals,completegoaltile5,Use relaxation techniques regularly
+Page_ManageStressGoal,completesetup,progresslabel,CommonGoals,myprogresslbl,My Progress
+Page_ManageStressGoal,completesetup,daysremaining,CommonGoals,noofdays,20
+Page_ManageStressGoal,completesetup,daysremaininglabel,CommonGoals,daysremaininglbl,Days Remaining
+Page_ManageStressGoal,completesetup,trackbuttontext,CommonGoals,trackbtn,Track
+

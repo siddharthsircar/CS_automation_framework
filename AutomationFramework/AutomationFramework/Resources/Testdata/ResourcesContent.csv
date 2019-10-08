@@ -1,0 +1,11 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText
+Page_HealthContent,pageheader,pageheader,healthcontent_header,Health Content
+HealthContent,pageheading,helthcontenttxt,healthcontent_page_text,Make Better Health Decisions
+SymptomChecker,pageheading,helthcontenttxt,symptomcheckert_page_text,Who has the problem?
+Common,pageheading,helthcontenttxt,categor_page_text,Categories
+Reports,pageheader,reportpageheader,reportpage_header,Your Reports
+Reports,pageheading,reportpagetext,report_page_text,RESOURCES | REPORTS
+Assessments,pageheading,reportpagetext,report_page_text,RESOURCES | ASSESSMENTS
+HealthContent,pagetab,pageheader,healthcontent_tab1,Health Content
+PHR,pageheading,phr_controldiv_MedicalInformation,phr_controldiv_MedicalInformation,Personal Health Record
+PHR,divheading,phr_controldiv_MedicalInformation,phr_controldiv_MedicalInformation,Medical Information

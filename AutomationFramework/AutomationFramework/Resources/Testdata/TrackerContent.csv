@@ -1,0 +1,14 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText,VariableValue
+Page_BPTracker,latestvalues,Latest Values,latestvaluesheader,Latest Values,novalue
+;Page_BPTracker,latestvalues,My blood pressure Was Text,latestvaluesrow1,My blood pressure was...,1
+Page_BPTracker,latestvalues,BP Value,latestvaluesrow2,will be provided in class,2
+Page_BPTracker,latestvalues,BP unit,latestvaluesrow3,mmHg,3
+Page_BPTracker,latestvalues,BP Date,latestvaluesrow4,will be provided in class,4
+
+Page_WaterTracker,latestvalues,Latest Values,latestvaluesheader,Latest Values,novalue
+Page_WaterTracker,latestvalues,My blood pressure Was Text,latestvaluesrow1,Water,1
+Page_WaterTracker,latestvalues,BP Value,latestvaluesrow2,will be provided in class,2
+Page_WaterTracker,latestvalues,BP unit,latestvaluesrow3,ounces,3
+Page_WaterTracker,latestvalues,BP Date,latestvaluesrow4,will be provided in class,4
+
+

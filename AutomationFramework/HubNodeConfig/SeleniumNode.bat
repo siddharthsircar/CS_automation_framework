@@ -1,0 +1,1 @@
+java -Dwebdriver.gecko.driver=drivers\geckodriver.exe -Dwebdriver.chrome.driver=drivers\chromedriver.exe -Dwebdriver.ie.driver=drivers\IEDriverServer.exe -jar selenium-server-standalone-3.8.1.jar -role node -hub http://10.11.1.194:4444/grid/register -port 5555

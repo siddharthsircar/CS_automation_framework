@@ -1,0 +1,9 @@
+ClassName,Category,ElementName,LocatorName,ActionText,ExpectedText
+QuickTracker,uielements,Tracker Title,trackertitle,VerifyText,TRACKERS
+QuickTracker,uielements,Quick Tracker Label,quicktrackerlbl,VerifyText,QUICK TRACKERS
+QuickTracker,uielements,Stress Tracker Button,stresstrackerbtn,VerifyText,Stress
+QuickTracker,uielements,Weight Tracker Button,weighttrackerbtn,VerifyText,Weight
+QuickTracker,uielements,Cardio Tracker Button,cardiotrackerbtn,VerifyText,Cardio
+QuickTracker,uielements,Submit Button,submitbtn,VerifyText,Submit
+QuickTracker,uielements,Stress Tracker Status Bar,stresstrackerstatusbar,VerifyExistence,
+QuickTracker,uielements,Quick Tracker Plus Sign,quicktrackerplussign,VerifyExistence,

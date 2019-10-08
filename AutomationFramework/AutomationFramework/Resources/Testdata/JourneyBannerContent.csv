@@ -1,0 +1,87 @@
+ClientName,ClassName,Category,ElementName,ExpectedText
+health trust,Page_Journey,newmemberjourney,WelcomeVideoTileText,Welcome Video
+health trust,Page_Journey,newmemberjourney,HATileText,Health Assessment
+health trust,Page_Journey,newmemberjourney,BioMetricHealthTileText,Biometric Health Screening
+health trust,Page_Journey,newmemberjourney,ContactHealthCoachTileText,Contact Your Health Coach
+health trust,Page_Journey,newmemberjourney,DownloadAlwaysOnAppTileText,Download the AlwaysOn
+health trust,Page_Journey,newmemberjourney,JoinAChallengeTileText,Join A Challenge
+health trust,Page_Journey,newmemberjourney,ConnectFitnessDeviceOrAppTileText,Connect Your Fitness Device or App
+health trust,Page_Journey,newmemberjourney,OrderAFitnessDeviceTileText,Order a Fitness Device
+health trust,Page_Journey,newmemberjourney,TrackWithNutritionAppTileText,Track with your Nutrition App
+health trust,Page_Journey,newmemberjourney,SelfDirectedCourseTileText,Self-Directed Course-Preventive Health
+health trust,Page_Journey,newmemberjourney,SelfDirectedProgressCheckInTileText,Self-Directed Progress Check-In Completion
+health trust,Page_Journey,newmemberjourney,ConnectWithCollegueTileText,Connect with a Colleague
+
+meabt,Page_Journey,newmemberjourney,WelcomeVideoTileText,Welcome Video
+meabt,Page_Journey,newmemberjourney,HATileText,Health Assessment
+meabt,Page_Journey,newmemberjourney,BiometricHealthScreeningTileText,Biometric Health Screening
+meabt,Page_Journey,newmemberjourney,ConnectWithCoachTileText,Connect with a Coach
+meabt,Page_Journey,newmemberjourney,DownloadTheAppTileText,Download The App
+meabt,Page_Journey,newmemberjourney,JoinChallengeTileText,Join A Challenge
+meabt,Page_Journey,newmemberjourney,ConnectFitnessDeviceTileText,Connect Your Fitness Device
+meabt,Page_Journey,newmemberjourney,ConnectNutritionAppTileText,Connect Your Nutrition App
+meabt,Page_Journey,newmemberjourney,PreventiveHealthTileText,Preventive Health
+meabt,Page_Journey,newmemberjourney,ProgressCheckInTileText,Progress Check-In
+
+group 44,Page_Journey,newmemberjourney,WelcomeVideoTileText,Welcome Video
+group 44,Page_Journey,newmemberjourney,HealthAssessmentTileText,Health Assessment
+group 44,Page_Journey,newmemberjourney,BiometricScreeningTileText,Biometric Screening
+group 44,Page_Journey,newmemberjourney,TrackersPageTileText,Trackers Home Page
+group 44,Page_Journey,newmemberjourney,DownloadAppTileText,Download the AlwaysOn App
+group 44,Page_Journey,newmemberjourney,ConnectDeviceTileText,Connect Your Fitness Device
+group 44,Page_Journey,newmemberjourney,ConnectAppTileText,Connect Your Nutrition App
+group 44,Page_Journey,newmemberjourney,MyCompanyTileText,My Company
+group 44,Page_Journey,newmemberjourney,TakeCourseTileText,Take the Preventive Health Course
+group 44,Page_Journey,newmemberjourney,ProgressInTileText,Progress Check-In
+group 44,Page_Journey,newmemberjourney,InviteConnectionTileText,Invite A Connection
+group 44,Page_Journey,newmemberjourney,ListenPodcastTileText,Listen to a Podcast
+
+onlife health,Page_Journey,newmemberjourney,WelcomeVideoTileText,Welcome Video
+onlife health,Page_Journey,newmemberjourney,HealthAssessmentTileText,Health Assessment
+onlife health,Page_Journey,newmemberjourney,BiometricScreeningTileText,Biometric Screening
+onlife health,Page_Journey,newmemberjourney,ContactACoachTileText,Contact a Coach
+onlife health,Page_Journey,newmemberjourney,DownloadAlwaysOnAppTileText,Download AlwaysOn App
+onlife health,Page_Journey,newmemberjourney,ConnectYourFitnessDeviceTileText,Connect Your Fitness Device
+onlife health,Page_Journey,newmemberjourney,ConnectYourNutritionAppTileText,Connect Your Nutrition App
+onlife health,Page_Journey,newmemberjourney,TakePreventiveHeatlhCourseTileText,Take the Preventive Health Course
+onlife health,Page_Journey,newmemberjourney,ProgressCheckInTileText,Progress Check-In
+onlife health,Page_Journey,newmemberjourney,InviteAConnectionTileText,Invite a Connection
+onlife health,Page_Journey,newmemberjourney,ListenAPodCastTileText,Listen to a Podcast
+
+arc,Page_Journey,newmemberjourney,WelcomeVideoTileText,Welcome Video
+arc,Page_Journey,newmemberjourney,HealthAssessmentTileText,Health Assessment
+arc,Page_Journey,newmemberjourney,ConnectCoordinatorTileText,Connect With A Care Coordinator
+arc,Page_Journey,newmemberjourney,BiometricScreeningTileText,Biometric Health Screening
+arc,Page_Journey,newmemberjourney,DownloadAppTileText,Download The App
+arc,Page_Journey,newmemberjourney,EnrollChallengeTileText,Enroll In A Challenge
+arc,Page_Journey,newmemberjourney,ConnectDeviceTileText,Connect Your Fitness Device
+arc,Page_Journey,newmemberjourney,ConnectAppTileText,Connect Your Nutrition App
+arc,Page_Journey,newmemberjourney,PreventiveHealthTileText,Preventive Health
+arc,Page_Journey,newmemberjourney,ProgressInTileText,Progress Check-In
+arc,Page_Journey,newmemberjourney,InviteConnectionTileText,Invite A Connection
+
+medicare advantage,Page_Journey,newmemberjourney,AnnualWellnessExamTileText,Annual Wellness Exam
+medicare advantage,Page_Journey,newmemberjourney,WelcomeVideoTileText,Welcome Video
+medicare advantage,Page_Journey,newmemberjourney,HealthNeedsAssessmentTileText,Health Needs Assessment
+medicare advantage,Page_Journey,newmemberjourney,ProgramSummaryTileText,Program Summary
+medicare advantage,Page_Journey,newmemberjourney,ProgressCheckInTileText,Progress Check-In
+medicare advantage,Page_Journey,newmemberjourney,MyHealthPlanTileText, My Health Plan
+medicare advantage,Page_Journey,newmemberjourney,DownloadAlwaysOnAppTileText,Download AlwaysOn App
+medicare advantage,Page_Journey,newmemberjourney,ConnectYourFitnessDeviceTileText,Connect Your Fitness Device
+medicare advantage,Page_Journey,newmemberjourney,ConnectYourNutritionAppTileText,Connect Your Nutrition App
+medicare advantage,Page_Journey,newmemberjourney,ListOfTrackersTileText,List of Trackers
+medicare advantage,Page_Journey,newmemberjourney,MySettingsPageTileText,My Settings Page
+
+tva,Page_Journey,newmemberjourney,WelcomVideoTile,Welcome Video
+tva,Page_Journey,newmemberjourney,HealthAssessmentTile,Health Assessment
+tva,Page_Journey,newmemberjourney,BiometScreening,Biometric Screening
+tva,Page_Journey,newmemberjourney,ContacCoach,Contact Your Health Coach
+tva,Page_Journey,newmemberjourney,DownloApp,Download the AlwaysOn App
+tva,Page_Journey,newmemberjourney,ConnecDevice,Connect Your Fitness Device
+tva,Page_Journey,newmemberjourney,ConnecApp,Connect Your Nutrition App
+tva,Page_Journey,newmemberjourney,TakeCourse,Take the Preventive Health Course
+tva,Page_Journey,newmemberjourney,ProgressCheck-In,Progress Check-In
+tva,Page_Journey,newmemberjourney,ListenPodcast,Listen to a Podcast
+tva,Page_Journey,newmemberjourney,CareManagement,Manage Your Care
+tva,Page_Journey,newmemberjourney,Blue365Deals,Blue365 Deals
+tva,Page_Journey,newmemberjourney,FitnessWay,Fitness Your Way

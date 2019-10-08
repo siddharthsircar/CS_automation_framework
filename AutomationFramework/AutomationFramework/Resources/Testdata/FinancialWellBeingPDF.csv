@@ -1,0 +1,7 @@
+ClassName,Category,ElementName,URL,NoOfPages,VarContent1,VarContent2
+Page_FinancialWellBeing,pdfdata,FinancialWellBeingPDF,https://qa2012b-member.onlifehealth.com/content/pdf/Financial_Well_being/Financial_Well_Being.pdf,Well-being,6,
+Page_FinancialWellBeing,tiledata,DebtManagementPDF,financialwellbeingtiletext,Management,2
+Page_FinancialWellBeing,tiledata,SavingsPDF,financialwellbeingtiletext,Savings,3
+Page_FinancialWellBeing,tiledata,BudgetPlanningPDF,financialwellbeingtiletext,Budget,4
+Page_FinancialWellBeing,tiledata,RetirementPlanningPDF,financialwellbeingtiletext,Retirement,5
+Page_FinancialWellBeing,tiledata,MoreResourcesPDF,financialwellbeingtiletext,More Resources UN: HealthTrust PW: Password,6

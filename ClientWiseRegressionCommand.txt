@@ -1,0 +1,52 @@
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=JourClientReg || cat=CoachingReg || cat=PointReg || cat=ChalleReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Health trust";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+
+
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=JourClientReg || cat=CoachingReg || cat=PointReg || cat=ChalleReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="MEABT"isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=NonJorRegression || cat=ChalleReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Nissan";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=NonJorRegression || cat=CoachingReg || cat=ThirdPartyChalleReg  || cat=PointReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Nucor";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=JourClientReg || cat=PointReg || cat=ChalleReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Onlife health";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Woo1%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=NonJorRegression || cat=CoachingReg || PointReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Arrow ford";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=JourClientReg || cat=PointReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Medicare advantage";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=NonJorRegression || cat=CoachingReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Dollar General";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=NonJorRegression"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="TVA";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+######################################################W002############################################################
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=JourClientReg || cat=PointReg || cat=ChalleReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="ARC";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=JourClientReg || cat=PointReg || cat=ChalleReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Group 44";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=NonJorRegression || cat=CoachingReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Fully Insured";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=JourClientReg || cat=ChalleReg"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Spouses"isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+E:\DailyRegression\%env%\AutomationFramework\packages\NUnit.ConsoleRunner.3.8.0\tools\nunit3-console.exe "E:\DailyRegression\%env%\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll" --where="cat=Createuser || cat=AllClientReg || cat=NonJorRegression"  --result="E:\DailyRegression\XmlReport\LiveOn_%env%%date:~-10,2%%date:~-7,2%%date:~-4,2%_%time:~3,2%_%time:~6,2%.xml" --params=baseurl="%url%";env="%env%";clientname="Comprehensive Coaching";isregistered="%IsRegistered%";reportpath="%ReportPath%"
+exit 0
+
+
+
+

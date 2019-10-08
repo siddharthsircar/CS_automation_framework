@@ -1,0 +1,99 @@
+ClientName,ClassName,Category,ElementName,LocatorName,ExpectedText
+Common,Dashboard,commonfooterlink,Dashboard Footer Link,fdashboardlnk,Dashboard
+Common,Dashboard,commonfooterlink,Tracker Footer Link,ftrackerlnk,Trackers
+Common,Dashboard,commonfooterlink,Privacy Policy Footer Link,fprivacypollnk,Privacy Policy
+Common,Dashboard,commonfooterlink,TOS Footer Link,ftoslnk,Terms of Service
+Common,Dashboard,commonfooterlink,Feedback Footer Link,ffeedbacklnk,Feedback1
+
+Health Trust,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Health Trust,Dashboard,footerlink,My Company Footer Link,fclintlnk,HealthTrust
+Health Trust,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+MEABT,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+MEABT,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+MEABT,Dashboard,footerlink,MEABT and Onlife Health Link,fclintlnk,MEABT and Onlife Health Info
+
+Dollar General,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+Dollar General,Dashboard,footerlink,My company Link,fclintlnk,My Company
+
+NUCOR,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+NUCOR,Dashboard,footerlink,My company Link,fclintlnk,My Company
+
+TVA,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+TVA,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+Nissan,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Nissan,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+Medicare Advantage,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Medicare Advantage,Dashboard,footerlink,My Health Plan Link,fclintlnk,My Health Plan
+Group 44,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+Onlife Health,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Onlife Health,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+Onlife Health,Dashboard,footerlink,My company Link,fclintlnk,My Company
+
+Group 44,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Group 44,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+Group 44,Dashboard,footerlink,My company Link,fclintlnk,My Company
+
+ARC,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+ARC,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+ARC,Dashboard,footerlink,My ARC Link,fclintlnk,My ARC
+
+Self Directed,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Self Directed,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+
+Spouses,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Spouses,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+Spouses,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+Fully Insured,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Fully Insured,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+Fully Insured,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+First Fleet,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+First Fleet,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+First Fleet,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+Weight Management,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Weight Management,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+Weight Management,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+Physical Activity,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Physical Activity,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+Physical Activity,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+ComprehensiveCoaching,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+ComprehensiveCoaching,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+ComprehensiveCoaching,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+Opt Out SATC,Dashboard,footerlink,My Health Footer Link,fclintlnk,My Health
+Opt Out SATC,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+Opt Out SATC,Dashboard,footerlink,HIPAA Rights Footer Link,fclintlnk,HIPAA Member Rights
+
+Optomecin,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+Arrow Ford,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+
+HEALTHSELECTOFTEXAS,Dashboard,footerlink,Certificates Link,fclintlnk,Certificates
+
+Health Trust,Dashboard,contactus,Contact No,contactnum,866-564-5237
+MEABT,Dashboard,contactus,Contact No,contactnum,877-709-0201
+Dollar General,Dashboard,contactus,Contact No,contactnum,877-709-0201
+ComprehensiveCoaching,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Physical activity,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Self directed,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Weight Management,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+First Fleet,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Fully Insured,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Spouses,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+ARC,Dashboard,contactus,Contact No,contactnum,855-984-2583	
+GRoup44,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+onlifehealth,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Medicare advantage,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Nissan,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+TVA,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Nucor,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Health trust,Dashboard,contactus,Contact No,contactnum,866-564-5237	
+MEABT,Dashboard,contactus,Contact No,contactnum,877-709-0201	
+Dollar General,Dashboard,contactus,Contact No,contactnum,877-709-0201

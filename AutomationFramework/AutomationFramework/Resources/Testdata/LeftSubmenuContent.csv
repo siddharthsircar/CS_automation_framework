@@ -1,0 +1,75 @@
+ClientName,ClassName,Category,Enabled,ElementName,LocatorName,ExpectedText,InputVariable1,InputVariable2
+
+;; ----------------------------------------- COURSES SUBMENU -----------------------------------------------
+
+allclients,Dashboard,coursessubmenu,yes,ManagingStress Course Submenu,leftmenu_submenuoption,true,Courses,Managing Stress
+allclients,Dashboard,coursessubmenu,yes,QuitTobacco Course Submenu,leftmenu_submenuoption,true,Courses,Quit Tobacco
+allclients,Dashboard,coursessubmenu,yes,WeightManagement Course Submenu,leftmenu_submenuoption,true,Courses,Weight Management
+allclients,Dashboard,coursessubmenu,yes,BloodPressure Course Submenu,leftmenu_submenuoption,true,Courses,Blood Pressure
+allclients,Dashboard,coursessubmenu,yes,ImprovingNutrition Course Submenu,leftmenu_submenuoption,true,Courses,Improving Nutrition
+allclients,Dashboard,coursessubmenu,yes,GetActive Course Submenu,leftmenu_submenuoption,true,Courses,Get Active
+allclients,Dashboard,coursessubmenu,yes,PreventiveHealth Course Submenu,leftmenu_submenuoption,true,Courses,Preventive Health
+
+nucor,Dashboard,specific_coursessubmenu,no,SleepHealth Course Submenu,leftmenu_submenuoption,true,Courses,Sleep Health
+nucor,Dashboard,specific_coursessubmenu,no,MetabolicSyndrome Course Submenu,leftmenu_submenuoption,true,Courses,Metabolic Syndrome
+nucor,Dashboard,specific_coursessubmenu,no,OralHealth Course Submenu,leftmenu_submenuoption,true,Courses,Oral Health
+nucor,Dashboard,specific_coursessubmenu,no,PreventingDiabetes Course Submenu,leftmenu_submenuoption,true,Courses,Preventing Diabetes
+group 44|onlife health,Dashboard,specific_coursessubmenu,yes,BreathingForStressReduction Course Submenu,leftmenu_submenuoption,true,Courses,Breathing for Stress Reduction
+
+allclients,Dashboard,trackersubmenu,yes,LearnMore Submenu,leftmenu_submenuoption,true,Trackers,Learn More
+allclients,Dashboard,trackersubmenu,yes,Stress Submenu,leftmenu_submenuoption,true,Trackers,Stress
+allclients,Dashboard,trackersubmenu,yes,QuitTobacco Submenu,leftmenu_submenuoption,true,Trackers,Quit Tobacco
+allclients,Dashboard,trackersubmenu,yes,Weight Submenu,leftmenu_submenuoption,true,Trackers,Weight
+allclients,Dashboard,trackersubmenu,yes,BloodPressure Submenu,leftmenu_submenuoption,true,Trackers,Blood Pressure
+allclients,Dashboard,trackersubmenu,yes,Cholesterol Submenu,leftmenu_submenuoption,true,Trackers,Cholesterol
+allclients,Dashboard,trackersubmenu,yes,Nutrition Submenu,leftmenu_submenuoption,true,Trackers,Nutrition
+allclients,Dashboard,trackersubmenu,yes,PhysicalActivity Submenu,leftmenu_submenuoption,true,Trackers,Physical Activity
+
+nucor,Dashboard,specific_trackersubmenu,no,Water Submenu,leftmenu_submenuoption,true,Trackers,Water
+nucor,Dashboard,specific_trackersubmenu,no,Sleep Submenu,leftmenu_submenuoption,true,Trackers,Sleep
+nucor,Dashboard,specific_trackersubmenu,no,OralHealth Submenu,leftmenu_submenuoption,true,Trackers,Oral Health
+
+allclients,Dashboard,coachingsubmenu,yes,LearnMore Submenu,leftmenu_submenuoption,true,Coaching,Learn More
+allclients,Dashboard,coachingsubmenu,yes,ManageStress Submenu,leftmenu_submenuoption,true,Coaching,Manage Stress
+allclients,Dashboard,coachingsubmenu,yes,QuitTobacco Submenu,leftmenu_submenuoption,true,Coaching,Quit Tobacco
+allclients,Dashboard,coachingsubmenu,yes,DecreaseWeight Submenu,leftmenu_submenuoption,true,Coaching,Decrease Weight
+allclients,Dashboard,coachingsubmenu,yes,ImproveBloodPressure Submenu,leftmenu_submenuoption,true,Coaching,Improve Blood Pressure
+allclients,Dashboard,coachingsubmenu,yes,ImproveCholesterol Submenu,leftmenu_submenuoption,true,Coaching,Improve Cholesterol
+allclients,Dashboard,coachingsubmenu,yes,ImproveDietaryHabits Submenu,leftmenu_submenuoption,true,Coaching,Improve Dietary Habits
+allclients,Dashboard,coachingsubmenu,yes,ImproveFitnessLevel Submenu,leftmenu_submenuoption,true,Coaching,Improve Fitness Level
+allclients,Dashboard,coachingsubmenu,yes,MaintainTobacco-FreeStatus Submenu,leftmenu_submenuoption,true,Coaching,Maintain Tobacco-Free Status
+allclients,Dashboard,coachingsubmenu,yes,MaintainWeight Submenu,leftmenu_submenuoption,true,Coaching,Maintain Weight
+
+
+allclients,Dashboard,progresschechinsubmenu,yes,ManagingStress Submenu,leftmenu_submenuoption,true,Progress Check-in,Managing Stress
+allclients,Dashboard,progresschechinsubmenu,yes,WeightManagement Submenu,leftmenu_submenuoption,true,Progress Check-in,Weight Management
+allclients,Dashboard,progresschechinsubmenu,yes,ImprovingNutrition Submenu,leftmenu_submenuoption,true,Progress Check-in,Improving Nutrition
+allclients,Dashboard,progresschechinsubmenu,yes,GetActive Submenu,leftmenu_submenuoption,true,Progress Check-in,Get Active
+allclients,Dashboard,progresschechinsubmenu,yes,QuitTobacco Submenu,leftmenu_submenuoption,true,Progress Check-in,Quit Tobacco
+allclients,Dashboard,progresschechinsubmenu,yes,PreventiveHealth Submenu,leftmenu_submenuoption,true,Progress Check-in,Preventive Health
+allclients,Dashboard,progresschechinsubmenu,yes,BloodPressure Submenu,leftmenu_submenuoption,true,Progress Check-in,Blood Pressure
+
+
+allclients,Dashboard,resourcessubmenu,yes,HealthContent Submenu,leftmenu_submenuoption,true,Resources,Health Content
+allclients,Dashboard,resourcessubmenu,yes,SymptomChecker Submenu,leftmenu_submenuoption,true,Resources,Symptom Checker
+allclients,Dashboard,resourcessubmenu,yes,Well-beingContent Submenu,leftmenu_submenuoption,true,Resources,Well-being Content
+allclients,Dashboard,resourcessubmenu,yes,FamilyContent Submenu,leftmenu_submenuoption,true,Resources,Family Content
+allclients,Dashboard,resourcessubmenu,yes,Reports Submenu,leftmenu_submenuoption,true,Resources,Reports
+allclients,Dashboard,resourcessubmenu,yes,Assessments Submenu,leftmenu_submenuoption,true,Resources,Assessments
+
+spouses|group 44|onlife health|dollar general|medicare advantage|arrow ford|arc|hcsc,Dashboard,specific_resourcessubmenu,no,PHR Submenu,leftmenu_submenuoption,true,Resources,PHR
+
+
+;health trust,Dashboard,devicesandapppssubmenu,MyFitness Submenu,leftmenu_submenuoption,true,Devices And Apps,My Fitness
+;health trust,Dashboard,devicesandapppssubmenu,MyNutrition Submenu,leftmenu_submenuoption,true,Devices And Apps,My Nutrition
+;health trust,Dashboard,devicesandapppssubmenu,ManageDevices Submenu,leftmenu_submenuoption,true,Devices And Apps,Manage Devices
+;health trust,Dashboard,devicesandapppssubmenu,Help Submenu,leftmenu_submenuoption,true,Devices And Apps,Help
+
+dollar general,Dashboard,devicesandappssubmenu,no,ManageDevices Submenu,leftmenu_submenuoption,true,Devices And Apps,Manage Devices
+dollar general,Dashboard,devicesandappssubmenu,no,Help Submenu,leftmenu_submenuoption,true,Devices And Apps,Help
+
+health trust,Dashboard,specific_devicesandappssubmenu,yes,OrderADevice Submenu,leftmenu_submenuoption,true,Devices And Apps,Order a Device 
+nucor|dollar general,Dashboard,specific_devicesandappssubmenu,no,MyFitness Submenu,leftmenu_submenuoption,true,Devices And Apps,My Fitness
+dollar general|opt out satc,Dashboard,specific_devicesandappssubmenu,no,MyNutrition Submenu,leftmenu_submenuoption,true,Devices And Apps,My Nutrition
+
+

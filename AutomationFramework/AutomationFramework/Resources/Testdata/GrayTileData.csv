@@ -1,0 +1,160 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText
+Dashboard,Health Trust,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Health Trust,HA Tile Title,startlink,Start
+Dashboard,Health Trust,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Health Trust,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Health Trust,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,Health Trust,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+Dashboard,Health Trust,Incentive Type,incentivetype,DOLLARS
+Dashboard,Health Trust,Incentive Tile History Link,historylink,History
+Dashboard,Health Trust,Incentive Tile Earn Link,earnlink,Earn
+
+Dashboard,NISSAN,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,NISSAN,HA Tile Title,startlink,Start
+Dashboard,NISSAN,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,NISSAN,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,NISSAN,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,NISSAN,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+
+Dashboard,Spouses,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Spouses,HA Tile Title,startlink,Start
+Dashboard,Spouses,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Spouses,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Spouses,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,Spouses,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+
+Dashboard,First Fleet,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,First Fleet,HA Tile Title,startlink,Start
+Dashboard,First Fleet,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,First Fleet,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,First Fleet,Device Tile View Activity Link,viewactlnk,View Activity
+
+
+Dashboard,Physical Activity,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Physical Activity,HA Tile Title,startlink,Start
+Dashboard,Physical Activity,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Physical Activity,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Physical Activity,Device Tile View Activity Link,viewactlnk,View Activity
+
+Dashboard,Weight Management,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Weight Management,HA Tile Title,startlink,Start
+Dashboard,Weight Management,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Weight Management,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Weight Management,Device Tile View Activity Link,viewactlnk,View Activity
+
+Dashboard,TVA,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,TVA,HA Tile Title,startlink,Start
+Dashboard,TVA,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,TVA,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,TVA,Device Tile View Activity Link,viewactlnk,View Activity
+
+Dashboard,Self directed,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Self directed,HA Tile Title,startlink,Start
+Dashboard,Self directed,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Self directed,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Self directed,Device Tile View Activity Link,viewactlnk,View Activity
+
+
+Dashboard,Fully Insured,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Fully Insured,HA Tile Title,startlink,Start
+Dashboard,Fully Insured,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Fully Insured,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Fully Insured,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,Fully Insured,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+
+Dashboard,ComprehensiveCoaching,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,ComprehensiveCoaching,HA Tile Title,startlink,Start
+Dashboard,ComprehensiveCoaching,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,ComprehensiveCoaching,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,ComprehensiveCoaching,Device Tile View Activity Link,viewactlnk,View Activity
+
+
+Dashboard,NUCOR,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,NUCOR,HA Tile Title,startlink,Start
+Dashboard,NUCOR,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,NUCOR,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,NUCOR,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+Dashboard,NUCOR,Incentive Type,incentivetype,Points
+Dashboard,NUCOR,Incentive Tile History Link,historylink,History
+Dashboard,NUCOR,Incentive Tile Earn Link,earnlink,Earn
+
+Dashboard,Onlife Health,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Onlife Health,HA Tile Title,startlink,Start
+Dashboard,Onlife Health,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Onlife Health,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Onlife Health,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,Onlife Health,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+Dashboard,Onlife Health,Incentive Type,incentivetype,Points
+Dashboard,Onlife Health,Incentive Tile History Link,mypointslink,My Points
+Dashboard,Onlife Health,Incentive Tile Earn Link,earnlink,Earn Points
+
+Dashboard,Dollar General,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Dollar General,HA Tile Title,startlink,Start
+
+Dashboard,MEABT,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,MEABT,HA Tile Title,startlink,Start
+Dashboard,MEABT,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,MEABT,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,MEABT,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,MEABT,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+
+Dashboard,Group 44,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Group 44,HA Tile Title,startlink,Start
+Dashboard,Group 44,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Group 44,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Group 44,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,Group 44,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+Dashboard,Group 44,Incentive Type,incentivetype,Points
+Dashboard,Group 44,Incentive Tile History Link,incentivehistorylink,Incentive History
+Dashboard,Group 44,Incentive Tile Earn Link,eligibleactivitylink,Eligible Activities
+
+Dashboard,Medicare Advantage,MY INCENTIVES tile,myincentivestile,MY INCENTIVES
+Dashboard,Medicare Advantage,We are here tile,weheretile,WE'RE RIGHT HERE
+Dashboard,Medicare Advantage,Incentive Tile History Link,historylink,History
+Dashboard,Medicare Advantage,Incentive Tile Earn Link,earnlink,Earn
+Dashboard,Medicare Advantage,Incentive Tile Earn Link,redeemlink,Redeem
+Dashboard,Medicare Advantage,My Doctor Tile,mydoctortile,MY DOCTOR
+Dashboard,Medicare Advantage,My Doctor Tiletxt,mydoctoravltxt,No Doctor Information Available
+Dashboard,Medicare Advantage,contactno,weheremobno,1-855-339-6154
+Dashboard,Medicare Advantage,Feedback,weherefeedback,Feedback
+
+Dashboard,Opt Out SATC,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Opt Out SATC,HA Tile Title,startlink,Start
+Dashboard,Opt Out SATC,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Opt Out SATC,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Opt Out SATC,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,Opt Out SATC,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+
+
+Dashboard,Optomecin,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Optomecin,HA Tile Title,startlink,Start
+Dashboard,Optomecin,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Optomecin,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Optomecin,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,Optomecin,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+Dashboard,Optomecin,Incentive Type,incentivetype,DOLLARS
+Dashboard,Optomecin,Incentive Tile History Link,historylink,History
+Dashboard,Optomecin,Incentive Tile Earn Link,earnlink,Earn
+Dashboard,Optomecin,Incentive Tile Earn Link,redeemlink,Redeem
+
+Dashboard,Arrow ford,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,Arrow ford,HA Tile Title,startlink,Start
+Dashboard,Arrow ford,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,Arrow ford,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,Arrow ford,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,Arrow ford,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+Dashboard,Arrow ford,Incentive Type,incentivetype,Blue PointsSM
+Dashboard,Arrow ford,Incentive Tile History Link,historylink,History
+Dashboard,Arrow ford,Incentive Tile Earn Link,earnlink,Earn
+Dashboard,Arrow ford,Incentive Tile Earn Link,redeemlink,Redeem
+
+Dashboard,ARC,HA Tile Title,hatitle,HEALTH ASSESSMENT
+Dashboard,ARC,HA Tile Title,startlink,Start
+Dashboard,ARC,Device Tile Title,devicetitle,CONNECTED DEVICES AND APPS
+Dashboard,ARC,Device Tile Add/Remove Link,addremlnk,Add/Remove
+Dashboard,ARC,Device Tile View Activity Link,viewactlnk,View Activity
+Dashboard,ARC,Incentive Tile History Link,historylink,History
+Dashboard,ARC,Incentive Tile Earn Link,earnlink,Earn
+Dashboard,ARC,Device Tile View Nutrition Link,viewnutrlnk,View Nutrition
+Dashboard,ARC,Incentive Type,incentivetype,Points
+

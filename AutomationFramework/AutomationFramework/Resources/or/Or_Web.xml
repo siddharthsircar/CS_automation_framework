@@ -1,0 +1,1696 @@
+<?xml version = "1.0"?>
+<ObjectRepository>
+<PageNode name="Page_QuitTobaccoCourse">
+    <Object locatorname="quittobaccocourse" locatortype="xpath" locatorvalue="//div[contains(@class,'icon icon-onlife-courses')]/../..//a[contains(text(),'Quit Tobacco')]"/>
+    <Object locatorname="quittobaccocourseheader" locatortype="id" locatorvalue="coursesHeader"/>
+    <Object locatorname="quittobacco_startlesson_btn" locatortype="id" locatorvalue="FirstLesson"/>
+    <Object locatorname="quittobacco_nextlesson_btn" locatortype="id" locatorvalue="next-lesson"/>
+    <Object locatorname="quittobacco_finishlesson_btn" locatortype="id" locatorvalue="finish-lesson"/>
+
+
+    <Object locatorname="quittobacco_overviewheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3)[1]"/>
+    <Object locatorname="quittobacco_pagesheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3[contains(@class,'constant-text-blue')])[1]"/>
+    <Object locatorname="courseoverviewheader" locatortype="xpath" locatorvalue="//div[@id='course-overview-content']/h2"/>
+
+    <Object locatorname="lesson1link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']"/>
+    <Object locatorname="lesson2link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']"/>
+    <Object locatorname="lesson3link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']"/>
+    <Object locatorname="lesson4link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']"/>
+    <Object locatorname="lesson5link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']"/>
+    <Object locatorname="lesson6link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']"/>
+    <Object locatorname="lesson7link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']"/>
+    <Object locatorname="lesson8link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']"/>
+    <Object locatorname="lesson9link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']"/>
+    <Object locatorname="lesson10link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']"/>
+    <Object locatorname="lesson11link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']"/>
+    <Object locatorname="lesson12link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']"/>
+    <Object locatorname="firstlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']/..//div[2]"/>
+    <Object locatorname="secondlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']/..//div[2]"/>
+    <Object locatorname="thirdlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']/..//div[2]"/>
+    <Object locatorname="fourthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']/..//div[2]"/>
+    <Object locatorname="fifthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']/..//div[2]"/>
+    <Object locatorname="sixthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']/..//div[2]"/>
+    <Object locatorname="seventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']/..//div[2]"/>
+    <Object locatorname="eighthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']/..//div[2]"/>
+    <Object locatorname="ninthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']/..//div[2]"/>
+    <Object locatorname="tenthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']/..//div[2]"/>
+    <Object locatorname="eleventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']/..//div[2]"/>
+    <Object locatorname="twelvethlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']/..//div[2]"/>
+
+  </PageNode>
+  
+  <PageNode name="Page_ImprovingNutritionCourse">
+    <Object locatorname="improvingnutritioncourse" locatortype="xpath" locatorvalue="//div[contains(@class,'icon icon-onlife-courses')]/../..//a[contains(text(),'Improving Nutrition')]"/>
+    <Object locatorname="improvingnutritioncourseheader" locatortype="id" locatorvalue="coursesHeader"/>
+
+    <Object locatorname="improvingnutrition_overviewheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3)[1]"/>
+    <Object locatorname="improvingnutrition_pagesheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3[contains(@class,'constant-text-blue')])[1]"/>
+    <Object locatorname="courseoverviewheader" locatortype="xpath" locatorvalue="//div[@id='course-overview-content']/h2"/>
+
+    <Object locatorname="lesson1link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']"/>
+    <Object locatorname="lesson2link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']"/>
+    <Object locatorname="lesson3link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']"/>
+    <Object locatorname="lesson4link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']"/>
+    <Object locatorname="lesson5link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']"/>
+    <Object locatorname="lesson6link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']"/>
+    <Object locatorname="lesson7link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']"/>
+    <Object locatorname="lesson8link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']"/>
+    <Object locatorname="lesson9link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']"/>
+    <Object locatorname="lesson10link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']"/>
+    <Object locatorname="lesson11link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']"/>
+    <Object locatorname="lesson12link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']"/>
+    <Object locatorname="firstlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']/..//div[2]"/>
+    <Object locatorname="secondlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']/..//div[2]"/>
+    <Object locatorname="thirdlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']/..//div[2]"/>
+    <Object locatorname="fourthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']/..//div[2]"/>
+    <Object locatorname="fifthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']/..//div[2]"/>
+    <Object locatorname="sixthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']/..//div[2]"/>
+    <Object locatorname="seventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']/..//div[2]"/>
+    <Object locatorname="eighthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']/..//div[2]"/>
+    <Object locatorname="ninthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']/..//div[2]"/>
+    <Object locatorname="tenthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']/..//div[2]"/>
+    <Object locatorname="eleventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']/..//div[2]"/>
+    <Object locatorname="twelvethlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']/..//div[2]"/>
+
+  </PageNode>
+    <PageNode name="Page_QuitTobaccoGoal">
+    <Object locatorname="quittobaccolbl" locatortype="xpath" locatorvalue="//div[@class='icon icon-onlife-coach']/../..//li/a[contains(text(),'Quit Tobacco')]"/>
+    <Object locatorname="currenttobaccostatus" locatortype="xpath" locatorvalue="//input[@id='trackerInput-TobaccoFrequency']"/>
+    
+    <Object locatorname="startusingtobaccotrackertile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[1]/div[1]/span"/>
+    <Object locatorname="learnaboutalternatetherapytile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[2]/div[1]/span"/>
+    <Object locatorname="learnaboutnikotenetile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[3]/div[1]/span"/>
+    <Object locatorname="listalternativesmoketile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[4]/div[1]/span"/>
+    <Object locatorname="question1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(1)"/>
+    <Object locatorname="question2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(2) span"/>
+    
+    <Object locatorname="actionitem" locatortype="xpath" locatorvalue="//div[@class='goals-action olh-grid-item purple-bg'][1]"/>
+    
+    <Object locatorname="actionitem1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(3) span"/>
+    <Object locatorname="actionitem2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(4) span"/>
+    <Object locatorname="actionitem3" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(5) span"/>
+    <Object locatorname="goalalert" locatortype="css" locatorvalue="#goalAlert"/>
+    
+    <Object locatorname="setupitem1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(2) .olh-grid-item-title"/>
+    <Object locatorname="setupitem2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(3) .olh-grid-item-title"/>
+    <Object locatorname="setupitem3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(4) .olh-grid-item-title"/>
+    <Object locatorname="setupitem4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(5) .olh-grid-item-title"/>
+    <Object locatorname="setupitem5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(6) .olh-grid-item-title"/>
+    <Object locatorname="expecteddate" locatortype="css" locatorvalue="[action] .olh-sidebar-section:nth-of-type(2) p"/>
+
+    <Object locatorname="completegoaltile1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(1) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(2) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(3) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(4) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(5) .olh-grid-item-title"/>
+    <Object locatorname="myprogresslbl" locatortype="css" locatorvalue=".goals-progress h2"/>
+    <Object locatorname="noofdays" locatortype="css" locatorvalue=".olh-ring-number"/>
+    <Object locatorname="daysremaininglbl" locatortype="css" locatorvalue=".olh-ring-label"/>
+    <Object locatorname="trackbtn" locatortype="css" locatorvalue="#goals-track-progress"/>
+
+  </PageNode>
+  <PageNode name="Page_DecreaseWeightGoal">
+    <Object locatorname="decreaseweightlbl" locatortype="xpath" locatorvalue="//ul[@role='menu']//a[contains(text(),'Decrease Weight')]"/>
+    <Object locatorname="currentweighttb" locatortype="xpath" locatorvalue="//input[@name='WeightCurrent']"/>
+    <Object locatorname="goalweighttb" locatortype="xpath" locatorvalue="//input[@name='WeightGoal']"/>
+    <Object locatorname="eatmorefoodforcalciumtile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[1]/div[1]/span"/>
+    <Object locatorname="cutdailycalorietile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[2]/div[1]/span"/>
+    <Object locatorname="reducemyfatintaketile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[3]/div[1]/span"/>
+    <Object locatorname="fibreintakeinputtile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[4]/div[1]/span"/>
+    <Object locatorname="question1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(1)"/>
+    <Object locatorname="question2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(2) span"/>
+
+    <Object locatorname="actionitem" locatortype="xpath" locatorvalue="//div[@class='goals-action olh-grid-item purple-bg'][1]"/>
+
+    <Object locatorname="actionitem1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(3) span"/>
+    <Object locatorname="actionitem2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(4) span"/>
+    <Object locatorname="actionitem3" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(5) span"/>
+    <Object locatorname="goalalert" locatortype="css" locatorvalue="#goalAlert"/>
+
+    <Object locatorname="setupitem1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(2) .olh-grid-item-title"/>
+    <Object locatorname="setupitem2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(3) .olh-grid-item-title"/>
+    <Object locatorname="setupitem3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(4) .olh-grid-item-title"/>
+    <Object locatorname="setupitem4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(5) .olh-grid-item-title"/>
+    <Object locatorname="setupitem5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(6) .olh-grid-item-title"/>
+    <Object locatorname="expecteddate" locatortype="css" locatorvalue="[action] .olh-sidebar-section:nth-of-type(2) p"/>
+
+    <Object locatorname="completegoaltile1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(1) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(2) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(3) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(4) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(5) .olh-grid-item-title"/>
+    <Object locatorname="myprogresslbl" locatortype="css" locatorvalue=".goals-progress h2"/>
+    <Object locatorname="noofdays" locatortype="css" locatorvalue=".olh-ring-number"/>
+    <Object locatorname="daysremaininglbl" locatortype="css" locatorvalue=".olh-ring-label"/>
+    <Object locatorname="trackbtn" locatortype="css" locatorvalue="#goals-track-progress"/>
+  </PageNode>
+  
+  <PageNode name="Page_Registration">
+    <Object locatorname="pageheader" locatortype="xpath" locatorvalue="//h1[text()='Getting Started']"/>
+
+    <Object locatorname="fntxtbx" locatortype="name" locatorvalue="FirstName"/>
+    <Object locatorname="lntxtbx" locatortype="name" locatorvalue="LastName"/>
+    <Object locatorname="dobcalendar" locatortype="name" locatorvalue="DateOfBirth"/>
+    <Object locatorname="ziptxtbx" locatortype="name" locatorvalue="PostalCode"/>
+
+    <Object locatorname="cancelbtn" locatortype="classname" locatorvalue="button-new"/>
+    <Object locatorname="backbtn" locatortype="xpath" locatorvalue="//a[@class='go_back button-new']"/>
+    <Object locatorname="verifybtn" locatortype="xpath" locatorvalue="//input[@class='button-new button-new-primary']"/>
+
+    <Object locatorname="fnerrormsg" locatortype="xpath" locatorvalue="//span[@class='field-validation-error']//span[@for='FirstName']"/>
+    <Object locatorname="lnerrormsg" locatortype="xpath" locatorvalue="//span[@class='field-validation-error']//span[@for='LastName']"/>
+    <Object locatorname="doberrormsg" locatortype="xpath" locatorvalue="//span[@class='field-validation-error']//span[@for='DateOfBirth']"/>
+    <Object locatorname="ziperrormsg" locatortype="xpath" locatorvalue="//span[@class='field-validation-error']//span[@for='PostalCode']"/>
+    <Object locatorname="eligerrormsg" locatortype="xpath" locatorvalue="//p[@class='error-msg']"/>
+
+    <Object locatorname="agreementheader" locatortype="xpath" locatorvalue="//h1[@class='multi-lingual']"/>
+    <Object locatorname="uacancelbtn" locatortype="xpath" locatorvalue="//a[@class='button-new multi-lingual']"/>
+    <Object locatorname="uabackbtn" locatortype="xpath" locatorvalue="//button[@class='go_back button-new multi-lingual']"/>
+    <Object locatorname="uacheckbx" locatortype="xpath" locatorvalue="//label[@class='multi-lingual']"/>
+    <Object locatorname="uacontinuebtn" locatortype="xpath" locatorvalue="//button[@class='button-new button-new-primary multi-lingual']"/>
+
+    <Object locatorname="additional_field" locatortype="xpath" locatorvalue="//input[@class='form-control register-input']"/>
+    <Object locatorname="additional_continuebtn" locatortype="xpath" locatorvalue="//input[@value='Continue']"/>
+
+    <Object locatorname="loginpref_header" locatortype="xpath" locatorvalue="//h1[@class='multi-lingual']"/>
+    <Object locatorname="username_textbx" locatortype="name" locatorvalue="UserName"/>
+    <Object locatorname="password_textbx" locatortype="name" locatorvalue="Password"/>
+    <Object locatorname="confirmpwd_textbx" locatortype="name" locatorvalue="ConfirmPassword"/>
+    <Object locatorname="loginpref_backbtn" locatortype="xpath" locatorvalue="//a[@class='go_back button-new multi-lingual']"/>
+    <Object locatorname="loginpref_cancelbtn" locatortype="xpath" locatorvalue="//a[@class='button-new multi-lingual']"/>
+    <Object locatorname="loginpref_street" locatortype="name" locatorvalue="StreetAddress"/>
+    <Object locatorname="loginpref_city" locatortype="name" locatorvalue="City"/>
+    <Object locatorname="loginpref_gender" locatortype="name" locatorvalue="GenderId"/>
+    <Object locatorname="loginpref_timezone" locatortype="name" locatorvalue="TimeZone"/>
+    <Object locatorname="loginpref_primaryphnum" locatortype="xpath" locatorvalue="//input[contains(@name,'PrimaryPhone')]"/>
+    <Object locatorname="loginpref_secphnum" locatortype="xpath" locatorvalue="//input[contains(@name,'SecondaryPhone')]"/>
+    <Object locatorname="loginpref_contactprefT" locatortype="xpath" locatorvalue="//label[@for='ContactType_1']"/>
+    <Object locatorname="loginpref_contactprefE" locatortype="xpath" locatorvalue="//label[@for='ContactType_2']"/>
+    <Object locatorname="loginpref_email" locatortype="name" locatorvalue="Email"/>
+    <Object locatorname="loginpref_continuebtn" locatortype="xpath" locatorvalue="//button[@id='form-submit']"/>
+    <Object locatorname="loginpref_zip" locatortype="name" locatorvalue="Zip"/>
+    <Object locatorname="primphno_errmsg" locatortype="xpath" locatorvalue="//span[@class='field-validation-error']//span[@for='PrimaryPhone']"/>
+    <Object locatorname="primphno_ContactTypeId" locatortype="xpath" locatorvalue="//span[@class='field-validation-error']//span[@for='ContactTypeId']"/>
+    <Object locatorname="alwayson_phnnum_txtbx" locatortype="name" locatorvalue="MobileNumber"/>
+    <Object locatorname="alwayson_tos_chckbx" locatortype="xpath" locatorvalue="//label[@class='i-agree']"/>
+    <Object locatorname="alwayson_send_btn" locatortype="id" locatorvalue="btnSubmit"/>
+
+  </PageNode>  
+  
+  <PageNode name="Page_ImproveCholesterolGoal">
+    <Object locatorname="improve_cholestrolgoal_lbl" locatortype="xpath" locatorvalue="//ul[@role='menu']//a[contains(text(),'Improve Cholesterol')]"/>
+    <Object locatorname="current_totalcholestero_ltb" locatortype="xpath" locatorvalue="//input[@name='CurrentCholesterol']"/>
+    <Object locatorname="current_ldl_tb" locatortype="xpath" locatorvalue="//input[@name='CurrentLdl']"/>
+    <Object locatorname="current_hdl_tb" locatortype="xpath" locatorvalue="//input[@name='CurrentHdl']"/>
+    <Object locatorname="current_triglycerides_tb" locatortype="xpath" locatorvalue="//input[@name='CurrentTriglycerides']"/>
+    <Object locatorname="goal_totalcholesterol_tb" locatortype="xpath" locatorvalue="//input[@name='GoalCholesterol']"/>
+    <Object locatorname="goal_ldl_tb" locatortype="xpath" locatorvalue="//input[@name='GoalLdl']"/>
+    <Object locatorname="goal_hdl_tb" locatortype="xpath" locatorvalue="//input[@name='GoalHdl']"/>
+    <Object locatorname="goal_triglycerides_tb" locatortype="xpath" locatorvalue="//input[@name='GoalTriglycerides']"/>
+    <Object locatorname="anticipateandresolvetile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[1]/div[1]/span"/>
+
+    <Object locatorname="beacommunityadvocatetile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[2]/div[1]/span"/>
+    <Object locatorname="breakdownmygoalinsmallerstepstile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[3]/div[1]/span"/>
+    <Object locatorname="captalizeonmystrengthtoreachgoaltile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[4]/div[1]/span"/>
+    <Object locatorname="question1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(1)"/>
+    <Object locatorname="question2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(2) span"/>
+
+    <Object locatorname="actionitem" locatortype="xpath" locatorvalue="//div[@class='goals-action olh-grid-item purple-bg'][1]"/>
+
+    <Object locatorname="actionitem1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(3) span"/>
+    <Object locatorname="actionitem2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(4) span"/>
+    <Object locatorname="actionitem3" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(5) span"/>
+    <Object locatorname="goalalert" locatortype="css" locatorvalue="#goalAlert"/>
+
+    <Object locatorname="setupitem1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(2) .olh-grid-item-title"/>
+    <Object locatorname="setupitem2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(3) .olh-grid-item-title"/>
+    <Object locatorname="setupitem3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(4) .olh-grid-item-title"/>
+    <Object locatorname="setupitem4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(5) .olh-grid-item-title"/>
+    <Object locatorname="setupitem5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(6) .olh-grid-item-title"/>
+    <Object locatorname="expecteddate" locatortype="css" locatorvalue="[action] .olh-sidebar-section:nth-of-type(2) p"/>
+
+    <Object locatorname="completegoaltile1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(1) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(2) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(3) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(4) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(5) .olh-grid-item-title"/>
+
+    <Object locatorname="myprogresslbl" locatortype="css" locatorvalue=".goals-progress h2"/>
+    <Object locatorname="noofdays" locatortype="css" locatorvalue=".olh-ring-number"/>
+    <Object locatorname="daysremaininglbl" locatortype="css" locatorvalue=".olh-ring-label"/>
+    <Object locatorname="trackbtn" locatortype="css" locatorvalue="#goals-track-progress"/>
+
+
+  </PageNode>
+
+  <PageNode name="Page_ImproveBloodPressureGoal">
+    <Object locatorname="improvebloodpressuregoallbl" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//ul[@role='menu']//a[@title='Link to Improve your blood pressure by living heart healthy.']"/>
+    <Object locatorname="currentsystolictb" locatortype="xpath" locatorvalue="//input[@name='CurrentSystolic']"/>
+    <Object locatorname="currentdiastolictb" locatortype="xpath" locatorvalue="//input[@name='CurrentDiastolic']"/>
+    <Object locatorname="goalsystolictb" locatortype="xpath" locatorvalue="//input[@name='GoalSystolic']"/>
+    <Object locatorname="goaldiastolictb" locatortype="xpath" locatorvalue="//input[@name='GoalDiastolic']"/>
+    <Object locatorname="anticipateandresolvetile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[1]/div[1]/span"/>
+    <Object locatorname="beacommunityadvocatetile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[2]/div[1]/span"/>
+    <Object locatorname="breakdownmygoalinsmallerstepstile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[3]/div[1]/span"/>
+    <Object locatorname="captalizeonmystrengthtoreachgoaltile" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[4]/div[1]/span"/>
+    <Object locatorname="question1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(1)"/>
+    <Object locatorname="question2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(2) span"/>
+    
+    <Object locatorname="actionitem" locatortype="xpath" locatorvalue="//div[@class='goals-action olh-grid-item purple-bg'][1]"/>
+    
+    <Object locatorname="actionitem1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(3) span"/>
+    <Object locatorname="actionitem2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(4) span"/>
+    <Object locatorname="actionitem3" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(5) span"/>
+    <Object locatorname="goalalert" locatortype="css" locatorvalue="#goalAlert"/>
+
+    <Object locatorname="setupitem1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(2) .olh-grid-item-title"/>
+    <Object locatorname="setupitem2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(3) .olh-grid-item-title"/>
+    <Object locatorname="setupitem3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(4) .olh-grid-item-title"/>
+    <Object locatorname="setupitem4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(5) .olh-grid-item-title"/>
+    <Object locatorname="setupitem5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(6) .olh-grid-item-title"/>
+    <Object locatorname="expecteddate" locatortype="css" locatorvalue="[action] .olh-sidebar-section:nth-of-type(2) p"/>
+
+    <Object locatorname="completegoaltile1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(1) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(2) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(3) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(4) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(5) .olh-grid-item-title"/>
+    
+    <Object locatorname="myprogresslbl" locatortype="css" locatorvalue=".goals-progress h2"/>
+    <Object locatorname="noofdays" locatortype="css" locatorvalue=".olh-ring-number"/>
+    <Object locatorname="daysremaininglbl" locatortype="css" locatorvalue=".olh-ring-label"/>
+    <Object locatorname="trackbtn" locatortype="css" locatorvalue="#goals-track-progress"/>
+
+  </PageNode>
+  
+  <PageNode name="Page_ImproveFitnessLevelGoal">
+    <Object locatorname="submenucoaching_improvefitnesslevel" locatortype="xpath" locatorvalue="//div[@class='icon icon-onlife-coach']/../..//li/a[contains(text(),'Improve Fitness Level')]"/>
+    <Object locatorname="currentcardiostatus" locatortype="id" locatorvalue="trackerInput-currentCardio"/>
+    <Object locatorname="currentstrengthstatus" locatortype="id" locatorvalue="trackerInput-currentStrength"/>
+    <Object locatorname="currentstretchingstatus" locatortype="id" locatorvalue="trackerInput-currentStretching"/>
+    <Object locatorname="setcardiostatus" locatortype="id" locatorvalue="GoalCardio"/>
+    <Object locatorname="setstrengthstatus" locatortype="id" locatorvalue="GoalStrength"/>
+    <Object locatorname="setstretchingstatus" locatortype="id" locatorvalue="GoalStretching"/>
+    <Object locatorname="actionplan1_keepanexercisejournal" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[1]/div[1]/span"/>
+    <Object locatorname="actionplan2_learnaboutstretching" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[2]/div[1]/span"/>
+    <Object locatorname="actionplan3_learnmoreaboutcardiovascular" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[3]/div[1]/span"/>
+    <Object locatorname="actionplan4_learnmoreaboutstrength" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[4]/div[1]/span"/>
+    <Object locatorname="existingactionplan1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(1) span"/>
+    <Object locatorname="existingactionplan2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(2) span"/>
+    
+    <Object locatorname="actionitem" locatortype="xpath" locatorvalue="//div[@class='goals-action olh-grid-item purple-bg'][1]"/>
+    
+    <Object locatorname="actionitem1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(3) span"/>
+    <Object locatorname="actionitem2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(4) span"/>
+    <Object locatorname="actionitem3" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(5) span"/>
+    <Object locatorname="goalalert" locatortype="css" locatorvalue="#goalAlert"/>
+
+    <Object locatorname="setupitem1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(2) .olh-grid-item-title"/>
+    <Object locatorname="setupitem2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(3) .olh-grid-item-title"/>
+    <Object locatorname="setupitem3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(4) .olh-grid-item-title"/>
+    <Object locatorname="setupitem4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(5) .olh-grid-item-title"/>
+    <Object locatorname="setupitem5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(6) .olh-grid-item-title"/>
+    <Object locatorname="expecteddate" locatortype="css" locatorvalue="[action] .olh-sidebar-section:nth-of-type(2) p"/>
+
+    <Object locatorname="completegoaltile1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(1) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(2) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(3) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(4) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(5) .olh-grid-item-title"/>
+    
+    <Object locatorname="myprogresslbl" locatortype="css" locatorvalue=".goals-progress h2"/>
+    <Object locatorname="noofdays" locatortype="css" locatorvalue=".olh-ring-number"/>
+    <Object locatorname="daysremaininglbl" locatortype="css" locatorvalue=".olh-ring-label"/>
+    <Object locatorname="trackbtn" locatortype="css" locatorvalue="#goals-track-progress"/>
+
+  </PageNode>
+  
+  <PageNode name="Page_ImproveDietaryHabitsGoal">
+    <Object locatorname="submenucoaching_improvedietaryhabits" locatortype="xpath" locatorvalue="//div[@class='icon icon-onlife-coach']/../..//li/a[contains(text(),'Improve Dietary Habits')]"/>
+    <Object locatorname="currentvegetablesstatus" locatortype="name" locatorvalue="CurrentVegetables"/>
+    <Object locatorname="currentfruitsstatus" locatortype="name" locatorvalue="CurrentFruits"/>
+    <Object locatorname="currentdiarystatus" locatortype="name" locatorvalue="CurrentDairy"/>
+    <Object locatorname="currentwholegrainsstatus" locatortype="name" locatorvalue="CurrentWholeGrains"/>
+    <Object locatorname="currentproteinfoodsstatus" locatortype="name" locatorvalue="CurrentProteinFoods"/>
+    <Object locatorname="setvegetablesstatus" locatortype="name" locatorvalue="GoalVegetables"/>
+    <Object locatorname="setfruitsstatus" locatortype="name" locatorvalue="GoalFruits"/>
+    <Object locatorname="setdiarystatus" locatortype="name" locatorvalue="GoalDairy"/>
+    <Object locatorname="setwholegrainsstatus" locatortype="name" locatorvalue="GoalWholeGrains"/>
+    <Object locatorname="setproteinfoodsstatus" locatortype="name" locatorvalue="GoalProteinFoods"/>
+    
+  </PageNode>
+
+  <PageNode name="Page_ManageStressGoal">
+    <Object locatorname="submenucoaching_managestress" locatortype="xpath" locatorvalue="//div[@class='icon icon-onlife-coach']/../..//li/a[contains(text(),'Manage Stress')]"/>
+    <!--<Object locatorname="currentstressstatus" locatortype="xpath" locatorvalue="//div[contains(@class,'min-slider-handle') and @role='slider']"/>-->
+    <Object locatorname="currentstressstatus" locatortype="xpath" locatorvalue="//div[@class='slider-track-high']"/>
+
+  </PageNode>
+  
+  <PageNode name="Page_Notifications">
+    <Object locatorname="thanksmessageforha" locatortype="css" locatorvalue=".notifications-wrapper .notification-item:nth-of-type(1) .description"/>
+    <Object locatorname="thanksmessageforreg" locatortype="css" locatorvalue=".notifications-wrapper .notification-item:nth-of-type(3) .description"/>
+    <Object locatorname="thanksmessageforhacompletion" locatortype="css" locatorvalue=".notifications-wrapper .notification-item:nth-of-type(5) .description"/>
+    <Object locatorname="congratsmsg" locatortype="css" locatorvalue=".notifications .notification-item:nth-of-type(1) .description"/>
+    <Object locatorname="thanksforhacompletion" locatortype="css" locatorvalue=".notifications .notification-item:nth-of-type(2) .description"/>
+    <Object locatorname="thanksforregistering" locatortype="css" locatorvalue=".notifications .notification-item:nth-of-type(3) .description"/>
+  </PageNode>
+  <PageNode name="Page_QuitTobaccoProgressCheckIn">
+    <Object locatorname="quittobaccoprogresscheckinlbl" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Progress Check-in']//..//a[contains(text(),'Quit Tobacco')]"/>
+    <Object locatorname="cighabitradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SmokeStatus' and @value='1']"/>
+    <Object locatorname="cigarhabitradiobtn" locatortype="xpath" locatorvalue=".//input[@name='Cigars3' and @value='1']"/>
+    <Object locatorname="pipeshabitradiobtn" locatortype="xpath" locatorvalue=".//input[@name='Pipes3' and @value='1']"/>
+    <Object locatorname="smokelesshabitradiobtn" locatortype="xpath" locatorvalue=".//input[@name='Smokeless3' and @value='1']"/>
+  </PageNode>
+  <PageNode name="Page_ImprovingNutritionProgressCheckIn">
+    <Object locatorname="improvingnutritionprogresscheckinlbl" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Progress Check-in']//..//a[contains(text(),'Improving Nutrition')]"/>
+    <Object locatorname="fruitconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietFruit7' and @value='1']"/>
+    <Object locatorname="fruitjuicestatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietFruitJuice' and @value='1']"/>
+    <Object locatorname="vegetablesconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietVeggie8' and @value='1']"/>
+    <Object locatorname="DietVegiecontainsradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietVeggieGOB' and @value='1']"/>
+    <Object locatorname="grainsconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietGrains10' and @value='1']"/>
+    <Object locatorname="wholegrainsconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietGrainsWhole' and @value='1']"/>
+    <Object locatorname="dairyprodconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietCalcium5' and @value='1']"/>
+    <Object locatorname="poultryconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietProtein8' and @value='1']"/>
+    <Object locatorname="unsaturatedfatconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietFatUnsat8' and @value='1']"/>
+    <Object locatorname="saturatedfatconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietFatSat8' and @value='1']"/>
+    <Object locatorname="sodiumconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietSalt7' and @value='1']"/>
+    <Object locatorname="sugarconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietSugar6' and @value='1']"/>
+    <Object locatorname="alcoholconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DrinksCat7' and @value='1']"/>
+    <Object locatorname="currentweightsatisfactionstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='BWFeel3' and @value='1']"/>
+    <Object locatorname="currentweighttb" locatortype="name" locatorvalue="Weight"/>
+    <Object locatorname="heightinfeettb" locatortype="name" locatorvalue="Feet"/>
+    <Object locatorname="heightininchtb" locatortype="name" locatorvalue="Inches"/>
+    <Object locatorname="modactivityhrstb" locatortype="name" locatorvalue="ExerModH"/>
+    <Object locatorname="modactivitymintb" locatortype="name" locatorvalue="ExerModM"/>
+    <Object locatorname="vigactivityhrstb" locatortype="name" locatorvalue="ExerVigH"/>
+    <Object locatorname="vigactivitymintb" locatortype="name" locatorvalue="ExerVigM"/>
+    <Object locatorname="improvinghabitstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SOCDietA' and @value='1']"/>
+    <Object locatorname="wellbalancedliferadiobtn" locatortype="xpath" locatorvalue=".//input[@name='OEDIET' and @value='1']"/>
+    <Object locatorname="wellbalancedeatingradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SEDiet' and @value='1']"/>
+    <Object locatorname="challengeeatingcheckbox" locatortype="xpath" locatorvalue=".//input[@name='BarDietTime' and @value='1']"/>
+
+
+  </PageNode>
+  <PageNode name="Page_GetActiveProgressCheckIn">
+    <Object locatorname="getactiveprogresscheckinlbl" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Progress Check-in']//..//a[contains(text(),'Get Active')]"/>
+    <Object locatorname="modhrsacticitytb" locatortype="name" locatorvalue="ExerModH"/>
+    <Object locatorname="modminacticitytb" locatortype="name" locatorvalue="ExerModM"/>
+    <Object locatorname="vighrsacticitytb" locatortype="name" locatorvalue="ExerVigH"/>
+    <Object locatorname="vigminacticitytb" locatortype="name" locatorvalue="ExerVigM"/>
+    <Object locatorname="musclebuildingstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='ExStrength5a' and @value='4']"/>
+    <Object locatorname="stretchingstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='ExFlexibility5a' and @value='4']"/>
+    <Object locatorname="statusofexerciseradiobtn" locatortype="xpath" locatorvalue=".//input[@name='OEExerNo' and @value='4']"/>
+    <Object locatorname="pastexerstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='PAExer' and @value='4']"/>
+    <Object locatorname="reasonnotdoingexccheckbox" locatortype="xpath" locatorvalue=".//input[@name='NoExerTime1' and @value='1']"/>
+    <Object locatorname="excincreaseradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SOCExerA' and @value='1']"/>
+    <Object locatorname="beginexcradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SOCExerB' and @value='1']"/>
+    <Object locatorname="statustoincreasephyactradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SEExerNo' and @value='1']"/>
+    <Object locatorname="durationhealthylevelradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SOCExerC' and @value='1']"/>
+    <Object locatorname="statusofphysicalactivityradiobtn" locatortype="xpath" locatorvalue=".//input[@name='OEExerDo' and @value='1']"/>
+    <Object locatorname="confidencelevelmaintainactivityradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SEExerDo' and @value='1']"/>
+    <Object locatorname="reasonnotmaintaininghealthccheckbox" locatortype="xpath" locatorvalue=".//input[@name='NoExerTime1' and @value='1']"/>
+
+
+  </PageNode>
+  <PageNode name="Page_PreventiveHealthProgressCheckIn">
+    <Object locatorname="preventivehealthprogresscheckinlbl" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Progress Check-in']//..//a[contains(text(),'Preventive Health')]"/>
+    <Object locatorname="heightfeettb" locatortype="name" locatorvalue="Feet"/>
+    <Object locatorname="heightinchtb" locatortype="name" locatorvalue="Inches"/>
+    <Object locatorname="weighttb" locatortype="name" locatorvalue="Weight"/>
+    <Object locatorname="waistinchtb" locatortype="name" locatorvalue="WaistInches"/>
+    <Object locatorname="doctorstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='HCProvider' and @value='1']"/>
+    <Object locatorname="fluvaccinationradiobtn" locatortype="xpath" locatorvalue=".//input[@name='FluShot' and @value='1']"/>
+    <Object locatorname="fluupdateradiobtn" locatortype="xpath" locatorvalue=".//input[@name='VaccineCurrent' and @value='1']"/>
+
+    <Object locatorname="asprindailyradiobtn" locatortype="xpath" locatorvalue=".//input[@name='AspirinConsult' and @value='1']"/>
+
+
+    <Object locatorname="coloretralscreenradiobtn" locatortype="xpath" locatorvalue=".//input[@name='ColonScreen' and @value='1']"/>
+    <Object locatorname="typeofscreenradiobtn" locatortype="xpath" locatorvalue=".//input[@name='ColScreenType' and @value='1']"/>
+
+    <Object locatorname="bloodpressuremeasureradiobtn" locatortype="xpath" locatorvalue=".//input[@name='BPScreen' and @value='5']"/>
+    <Object locatorname="cholesterolmeasureradiobtn" locatortype="xpath" locatorvalue=".//input[@name='CholScreen' and @value='4']"/>
+    <Object locatorname="mammogrammeasureradiobtn" locatortype="xpath" locatorvalue=".//input[@name='Mammogram' and @value='1']"/>
+    <Object locatorname="papsmearmmeasureradiobtn" locatortype="xpath" locatorvalue=".//input[@name='PapSmear' and @value='5']"/>
+
+    <Object locatorname="bonedensityradiobtn" locatortype="xpath" locatorvalue=".//input[@name='OsteoScreen' and @value='1']"/>
+
+    <Object locatorname="cigaretteradiobtn" locatortype="xpath" locatorvalue=".//input[@name='Cigarettes2' and @value='1']"/>
+    <Object locatorname="pipesradiobtn" locatortype="xpath" locatorvalue=".//input[@name='Pipes2' and @value='1']"/>
+    <Object locatorname="cigarradiobtn" locatortype="xpath" locatorvalue=".//input[@name='Cigars2' and @value='1']"/>
+    <Object locatorname="smokelessradiobtn" locatortype="xpath" locatorvalue=".//input[@name='Smokeless2' and @value='1']"/>
+    <Object locatorname="secondhandsmokeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SecondHandSmoke' and @value='1']"/>
+    <Object locatorname="modacthrstb" locatortype="name" locatorvalue="ExerModH"/>
+    <Object locatorname="modactmintb" locatortype="name" locatorvalue="ExerModM"/>
+    <Object locatorname="vigacthrstb" locatortype="name" locatorvalue="ExerVigH"/>
+    <Object locatorname="vigactmintb" locatortype="name" locatorvalue="ExerVigM"/>
+    <Object locatorname="fruitconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietFruit7' and @value='1']"/>
+    <Object locatorname="vegconsumeradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietVeggie8' and @value='1']"/>
+    <Object locatorname="drinkstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DrinksCat6' and @value='1']"/>
+
+  </PageNode>
+
+  <PageNode name="Page_BloodPressureProgressCheckIn">
+    <Object locatorname="bpprogresscheckinlbl" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Progress Check-in']//..//a[@title='Link to Blood Pressure']"/>
+    <Object locatorname="heightfeettb" locatortype="name" locatorvalue="Feet"/>
+    <Object locatorname="heightinchtb" locatortype="name" locatorvalue="Inches"/>
+    <Object locatorname="weighttb" locatortype="name" locatorvalue="Weight"/>
+    <Object locatorname="highbloodpressurestatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='HxHiBPMeds' and @value='1']"/>
+    <Object locatorname="systolictb" locatortype="name" locatorvalue="SystolicBP"/>
+    <Object locatorname="diastolictb" locatortype="name" locatorvalue="DiastolicBP"/>
+    <Object locatorname="diabetesstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='HxDiabetes3' and @value='1']"/>
+    <Object locatorname="alcoholstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DrinksCat6' and @value='1']"/>
+    <Object locatorname="modacthourstb" locatortype="name" locatorvalue="ExerModH"/>
+    <Object locatorname="modactmintb" locatortype="name" locatorvalue="ExerModM"/>
+    <Object locatorname="vigoroushourstb" locatortype="name" locatorvalue="ExerVigH"/>
+    <Object locatorname="vigorousmintb" locatortype="name" locatorvalue="ExerVigM"/>
+    <Object locatorname="fruitsstatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietFruit7' and @value='1']"/>
+    <Object locatorname="vegitablestatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietVeggie8' and @value='1']"/>
+    <Object locatorname="dairystatusradiobtn" locatortype="xpath" locatorvalue=".//input[@name='DietCalcium5' and @value='1']"/>
+  </PageNode>
+  <PageNode name="Page_ManagingStressProgressCheckIn">
+    <Object locatorname="managingstressprogresscheckinlbl" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Progress Check-in']//..//a[contains(text(),'Managing Stress')]"/>
+    <Object locatorname="physicalhealthconcerncheckbox" locatortype="xpath" locatorvalue=".//input[@name='STPPhysical' and @value='1']"/>
+    <Object locatorname="financeproblemyesradiobtn" locatortype="xpath" locatorvalue=".//input[@name='ProbMoney' and @value='2']"/>
+    <Object locatorname="financeproblemyesradioyesbtn" locatortype="xpath" locatorvalue=".//input[@name='ProbMoney' and @value='1']"/>
+    <Object locatorname="yourworkimpactchkbox" locatortype="xpath" locatorvalue=".//input[@name='STHurtWork' and @value='1']"/>
+    <Object locatorname="betterwaytolearningstressradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SOCStressA' and @value='1']"/>
+    <Object locatorname="successfullyreducingstressradiobtn" locatortype="xpath" locatorvalue=".//input[@name='SEStress' and @value='1']"/>
+    <Object locatorname="howabletocontrolstressradiobtn" locatortype="xpath" locatorvalue=".//input[@name='PSS4_1' and @value='5']"/>
+    <Object locatorname="howconfidenttocontrolstressradiobtn" locatortype="xpath" locatorvalue=".//input[@name='PSS4_2' and @value='3']"/>
+    <Object locatorname="thingsabletocontrolstressradiobtn" locatortype="xpath" locatorvalue=".//input[@name='PSS4_3' and @value='3']"/>
+    <Object locatorname="thingspileupstressradiobtn" locatortype="xpath" locatorvalue=".//input[@name='PSS4_4' and @value='3']"/>
+
+
+  </PageNode>
+  <PageNode name="Page_FinancialWellBeing">
+    <Object locatorname="financialwellbeingtiletext" locatortype="xpath" locatorvalue="(//div[@class='row financial-well-being']//h3)[$varinput1]"/>
+    <Object locatorname="financialwellbeingtileviewbtn" locatortype="xpath" locatorvalue="(//span[@class='btn get-started'])[$varinput1]"/>
+    <Object locatorname="tile_moreresources_loginpagetext" locatortype="xpath" locatorvalue="//p[contains(text(),'Please enter your')]"/>
+    <Object locatorname="tile_moreresources_loginpage_usernamelbl" locatortype="xpath" locatorvalue="//label[@for='company_username']"/>
+    <Object locatorname="tile_moreresources_loginpage_passwordlbl" locatortype="xpath" locatorvalue="//label[@for='company_password']"/>
+    <Object locatorname="tile_moreresources_loginpage_usernametxtbx" locatortype="xpath" locatorvalue="//input[@id='company_username']"/>
+    <Object locatorname="tile_moreresources_loginpage_passwordtxtbx" locatortype="xpath" locatorvalue="//input[@id='company_password']"/>
+    <Object locatorname="tile_moreresources_loginpage_loginbtn" locatortype="xpath" locatorvalue="//button[@id='submit-login']"/>
+
+    <Object locatorname="tile_moreresources_anthemeapheadertext" locatortype="xpath" locatorvalue="//div[@id='eapLogo']/h3[contains(text(),'Anthem')])"/>
+    <Object locatorname="tile_moreresources_contactuslink" locatortype="xpath" locatorvalue="//div[@id='pageLinks']/a[text()='Contact Us']"/>
+    <Object locatorname="tile_moreresources_legalandfinancialheadertext" locatortype="xpath" locatorvalue="//h1[contains(text(),'Legal and Financial')]"/>
+    
+  </PageNode>
+  <PageNode name="CommonGoals">
+    <Object locatorname="goaltitle" locatortype="css" locatorvalue=".olh-content h2"/>
+    <Object locatorname="step1nextbtn" locatortype="css" locatorvalue="#goal-step1-submit"/>
+    <Object locatorname="cancelbtn" locatortype="xpath" locatorvalue="//div[@class='olh-content']//a[.='Cancel']"/>
+    <Object locatorname="step1backbtn" locatortype="xpath" locatorvalue="//a[@id='back-to-step1']"/>
+    <Object locatorname="step2backbtn" locatortype="xpath" locatorvalue="//a[@id='back-to-step2']"/>
+
+    <Object locatorname="modalwindowcancelbtn" locatortype="css" locatorvalue="[class='col-sm-6 text-left'] [role]"/>
+    <Object locatorname="modalwindowokbtn" locatortype="css" locatorvalue="[class='col-sm-6 text-right'] [role]"/>
+    <Object locatorname="modalwindowheader" locatortype="css" locatorvalue="[class='col-sm-6 text-right'] [role]"/>
+
+    <Object locatorname="step2nextbtn" locatortype="css" locatorvalue="#goalStep2Submit"/>
+    <Object locatorname="confirmbtn" locatortype="css" locatorvalue=".olh-sidebar-buttons [type]"/>
+    <Object locatorname="actionplan1" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[1]/div[1]/span"/>
+    <Object locatorname="actionplan2" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[2]/div[1]/span"/>
+    <Object locatorname="actionplan3" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[3]/div[1]/span"/>
+    <Object locatorname="actionplan4" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[4]/div[1]/span"/>
+    <Object locatorname="actionplan5" locatortype="xpath" locatorvalue="//*[@id='goal-plan-actions']/div[5]/div[1]/span"/>
+    <Object locatorname="existingactionplan1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(1) span"/>
+    <Object locatorname="existingactionplan2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(2) span"/>
+
+    <Object locatorname="actionitem" locatortype="xpath" locatorvalue="//div[@class='goals-action olh-grid-item purple-bg'][1]"/>
+
+    <Object locatorname="actionitem1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(1) span"/>
+    <Object locatorname="actionitem2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(2) span"/>
+    <Object locatorname="actionitem3" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(3) span"/>
+    <Object locatorname="actionitem4" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(4) span"/>
+    <Object locatorname="actionitem5" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(5) span"/>
+    
+    <Object locatorname="goalalert" locatortype="css" locatorvalue="#goalAlert"/>
+
+    <Object locatorname="setupitem1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(2) .olh-grid-item-title"/>
+    <Object locatorname="setupitem2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(3) .olh-grid-item-title"/>
+    <Object locatorname="setupitem3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(4) .olh-grid-item-title"/>
+    <Object locatorname="setupitem4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(5) .olh-grid-item-title"/>
+    <Object locatorname="setupitem5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(6) .olh-grid-item-title"/>
+    <Object locatorname="expecteddate" locatortype="css" locatorvalue="[action] .olh-sidebar-section:nth-of-type(2) p"/>
+
+    <Object locatorname="completegoaltile1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(1) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(2) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(3) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(4) .olh-grid-item-title"/>
+    <Object locatorname="completegoaltile5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(5) .olh-grid-item-title"/>
+
+    <Object locatorname="myprogresslbl" locatortype="css" locatorvalue=".goals-progress h2"/>
+    <Object locatorname="noofdays" locatortype="css" locatorvalue=".olh-ring-number"/>
+    <Object locatorname="daysremaininglbl" locatortype="css" locatorvalue=".olh-ring-label"/>
+    <Object locatorname="trackbtn" locatortype="css" locatorvalue="#goals-track-progress"/>
+    <Object locatorname="editbtn" locatortype="css" locatorvalue="[role='link']"/>
+    <Object locatorname="removebtn" locatortype="css" locatorvalue="[data-actor-goal-id]"/>
+    <Object locatorname="goalremoveheader" locatortype="css" locatorvalue="[action] .modal-title"/>
+    <Object locatorname="removegoaltitle" locatortype="xpath" locatorvalue="//h4[@class='heading-theme-color']"/>
+    <Object locatorname="yesbtn" locatortype="xpath" locatorvalue="//button[@id='remove-close-goal']"/>
+    <Object locatorname="nobtn" locatortype="css" locatorvalue="[action] .left .button-new"/>
+    <Object locatorname="removeactionbtn" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(3) .onlife-icon-minus-subtract"/>
+
+
+  </PageNode>
+  <PageNode name="Page_Connections">
+    <Object locatorname="hippaheader" locatortype="css" locatorvalue="#connections-hipaa-template .js-modal-header"/>
+    <Object locatorname="dismissbtn" locatortype="css" locatorvalue="#connections-hipaa-template [role]"/>
+    <Object locatorname="acceptbtn" locatortype="css" locatorvalue="#connections-hipaa-template .button-new-primary"/>
+    <Object locatorname="hippstext" locatortype="css" locatorvalue=".js-modal-msg strong:nth-of-type(1) span"/>
+    <Object locatorname="connectionstextbox" locatortype="css" locatorvalue="[type='text']"/>
+    <Object locatorname="searchbtn" locatortype="css" locatorvalue=".connections-search-container a"/>
+    <Object locatorname="searchedemailid" locatortype="css" locatorvalue=".js-connection-name"/>
+    <Object locatorname="addbtn" locatortype="css" locatorvalue=".connection-button"/>
+    <Object locatorname="pendinguserid" locatortype="xpath" locatorvalue="//div[@id='pendingList']/div[1]//p[@class='connection-name js-connection-name']"/>
+    <Object locatorname="resendbtn" locatortype="css" locatorvalue=".connection-details > [type='button']:nth-child(2)"/>
+    <Object locatorname="cancelbtn" locatortype="css" locatorvalue=".connection-details [type='button']:nth-child(3)"/>
+    <Object locatorname="username" locatortype="css" locatorvalue=".panel-body .connection-name"/>
+    <Object locatorname="declinebtn" locatortype="css" locatorvalue=".connection-details [type='button']:nth-child(3)"/>
+    <Object locatorname="userrequestacceptbtn" locatortype="css" locatorvalue=".connection-details [type='button']:nth-child(2)"/>
+    <Object locatorname="elipseball" locatortype="css" locatorvalue="[data-value] .icon-onlife-more"/>
+    <Object locatorname="messagelbl" locatortype="css" locatorvalue=".connection-body .connection-menu-item:nth-of-type(2) .connection-menu-link"/>
+    <Object locatorname="messagebox" locatortype="id" locatorvalue="message-input"/>
+    <Object locatorname="sendmessage" locatortype="css" locatorvalue=".messages-message"/>
+    <Object locatorname="messagetab" locatortype="css" locatorvalue="#connectionMessageTab .olh-tabs-link"/>
+    <Object locatorname="connectiontab" locatortype="css" locatorvalue=".olh-tabs-item:nth-of-type(1) .olh-tabs-link"/>
+    <Object locatorname="disconnectlbl" locatortype="css" locatorvalue=".connection-body .connection-menu-item:nth-of-type(3) .connection-menu-link"/>
+    <Object locatorname="modalheader" locatortype="css" locatorvalue="#connection-modal-template .js-modal-header"/>
+    <Object locatorname="modalyesbtn" locatortype="css" locatorvalue=".really-disconnect"/>
+    <Object locatorname="modalnobtn" locatortype="css" locatorvalue="#connection-modal-template [role]"/>
+    <Object locatorname="connection_membermenu" locatortype="css" locatorvalue=".connection-body .connection-nav-icon"/>
+    <Object locatorname="connection_circle" locatortype="xpath" locatorvalue="//ul[@class='connection-menu active']//span[contains(@id,'$varinput1')]/i[@class='onlife-icon onlife-icon-circle']"/>
+    <Object locatorname="connection_name" locatortype="xpath" locatorvalue="//a[contains(text(),'$varinput1')]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_BloodPressureCourse">
+    <Object locatorname="bloodpressure" locatortype="xpath" locatorvalue="//div[contains(@class,'icon icon-onlife-courses')]/../..//a[contains(text(),'Blood Pressure')]"/>
+    <Object locatorname="bloodpressurecourseheader" locatortype="id" locatorvalue="coursesHeader"/>
+
+    <Object locatorname="bloodpressure_overviewheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3)[1]"/>
+    <Object locatorname="bloodpressure_pagesheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3[contains(@class,'constant-text-blue')])[1]"/>
+    <Object locatorname="courseoverviewheader" locatortype="xpath" locatorvalue="//div[@id='course-overview-content']/h2"/>
+
+    <Object locatorname="lesson1link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']"/>
+    <Object locatorname="lesson2link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']"/>
+    <Object locatorname="lesson3link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']"/>
+    <Object locatorname="lesson4link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']"/>
+    <Object locatorname="lesson5link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']"/>
+    <Object locatorname="lesson6link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']"/>
+    <Object locatorname="lesson7link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']"/>
+    <Object locatorname="lesson8link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']"/>
+    <Object locatorname="lesson9link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']"/>
+    <Object locatorname="lesson10link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']"/>
+    <Object locatorname="lesson11link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']"/>
+    <Object locatorname="lesson12link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']"/>
+    <Object locatorname="firstlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']/..//div[2]"/>
+    <Object locatorname="secondlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']/..//div[2]"/>
+    <Object locatorname="thirdlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']/..//div[2]"/>
+    <Object locatorname="fourthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']/..//div[2]"/>
+    <Object locatorname="fifthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']/..//div[2]"/>
+    <Object locatorname="sixthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']/..//div[2]"/>
+    <Object locatorname="seventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']/..//div[2]"/>
+    <Object locatorname="eighthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']/..//div[2]"/>
+    <Object locatorname="ninthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']/..//div[2]"/>
+    <Object locatorname="tenthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']/..//div[2]"/>
+    <Object locatorname="eleventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']/..//div[2]"/>
+    <Object locatorname="twelvethlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']/..//div[2]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_ManageStressCourse">
+    <Object locatorname="managingstress" locatortype="xpath" locatorvalue="//div[contains(@class,'icon icon-onlife-courses')]/../..//a[contains(text(),'Managing Stress')]"/>
+    <Object locatorname="managestresscourseheader" locatortype="id" locatorvalue="coursesHeader"/>
+    <Object locatorname="managestress_overviewheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3)[1]"/>
+    <Object locatorname="managestress_pagesheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3[contains(@class,'constant-text-blue')])[1]"/>
+    <Object locatorname="courseoverviewheader" locatortype="xpath" locatorvalue="//div[@id='course-overview-content']/h2"/>
+
+    <Object locatorname="lesson1link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']"/>
+    <Object locatorname="lesson2link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']"/>
+    <Object locatorname="lesson3link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']"/>
+    <Object locatorname="lesson4link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']"/>
+    <Object locatorname="lesson5link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']"/>
+    <Object locatorname="lesson6link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']"/>
+    <Object locatorname="lesson7link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']"/>
+    <Object locatorname="lesson8link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']"/>
+    <Object locatorname="lesson9link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']"/>
+    <Object locatorname="lesson10link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']"/>
+    <Object locatorname="lesson11link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']"/>
+    <Object locatorname="lesson12link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']"/>
+    <Object locatorname="firstlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']/..//div[2]"/>
+    <Object locatorname="secondlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']/..//div[2]"/>
+    <Object locatorname="thirdlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']/..//div[2]"/>
+    <Object locatorname="fourthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']/..//div[2]"/>
+    <Object locatorname="fifthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']/..//div[2]"/>
+    <Object locatorname="sixthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']/..//div[2]"/>
+    <Object locatorname="seventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']/..//div[2]"/>
+    <Object locatorname="eighthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']/..//div[2]"/>
+    <Object locatorname="ninthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']/..//div[2]"/>
+    <Object locatorname="tenthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']/..//div[2]"/>
+    <Object locatorname="eleventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']/..//div[2]"/>
+    <Object locatorname="twelvethlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']/..//div[2]"/>
+
+
+  </PageNode>
+  <PageNode name="Page_DevicesAndApps">
+
+    <Object locatorname="dashboard_addremovelink" locatortype="xpath" locatorvalue="//div[@class='olh-actionbar-content']/a"/>
+    <Object locatorname="devicetos_getstartedlink" locatortype="xpath" locatorvalue="//button[@id='get_started_devices']"/>
+    <Object locatorname="devicetos_iacceptlink" locatortype="xpath" locatorvalue="//button[@id='ValidicEULAAcceptButton']"/>
+    <Object locatorname="managedevices" locatortype="xpath" locatorvalue="//ul[@role='menu']//a[@title='Link to Manage your Device and Apps']"/>
+    <Object locatorname="mynutritionlbl" locatortype="xpath" locatorvalue="//ul[@role='menu']//a[@title='Link to See your Device and Apps usage']"/>
+    <Object locatorname="devicepagesubheader" locatortype="css" locatorvalue="[class='col-sm-8'] h2"/>
+    <Object locatorname="devicesfilter" locatortype="xpath" locatorvalue="/html//input[@id='device-filter']"/>
+    <Object locatorname="appledevice" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(2) .olh-device-tile-name]"/>
+    <Object locatorname="samsunghealth" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(3) .olh-device-tile-name"/>
+    <Object locatorname="fitbit_device_lbl" locatortype="xpath" locatorvalue=".//span[contains(text(),'Connect')]//..//..//..//..//p[text()='Fitbit']"/>
+    <Object locatorname="fitbit_connect_btn" locatortype="xpath" locatorvalue=".//p[text()='Fitbit']/..//..//div/a//span[contains(text(),'Connect')]"/>
+    <!--<Object locatorname="fitbit_email_txt" locatortype="xpath" locatorvalue="/html//form[@id='signupForm']//input[@name='email']"/>-->
+    <Object locatorname="fitbit_email_txt" locatortype="xpath" locatorvalue="//form[@id='loginForm']//fieldset/dl//input[@name='email']"/>
+    <Object locatorname="fitbit_pass_txt" locatortype="xpath" locatorvalue="//form[@id='loginForm']//fieldset//input[@name='password']"/>
+    <Object locatorname="fitbit_login_btn" locatortype="css" locatorvalue=".panel-login button"/>
+    <Object locatorname="fitbit_selectall_chkbox" locatortype="xpath" locatorvalue="/html//input[@id='selectAllScope']"/>
+    <Object locatorname="fitbit_connected_lbl" locatortype="xpath" locatorvalue="//p[text()='Fitbit']/../..//i[@class='icon icon-onlife-checkmark-circle connect-icon']/../span[text()='Connected']"/>
+    <Object locatorname="device_connect_lbl" locatortype="xpath" locatorvalue=".//p[text()='$varinput1']/..//..//div/a//span[contains(text(),'Connect')]"/>
+
+    <Object locatorname="fitbit_allow_btn" locatortype="xpath" locatorvalue="//button[@id='allow-button']"/>
+    <Object locatorname="device_elipsesball_btn" locatortype="xpath" locatorvalue="//button[@id='olh-dropdown-btn']/i[@class='icon icon-onlife-elipses']"/>
+    <Object locatorname="device_disconnect_lnk" locatortype="linktext" locatorvalue="Disconnect"/>
+    <Object locatorname="device_disconnect_popupmsg" locatortype="css" locatorvalue=".text-center.modal-title"/>
+    <Object locatorname="device_disconnectyes_btn" locatortype="xpath" locatorvalue="/html//button[@id='disconect']"/>
+    <Object locatorname="device_Refresh_Connection_lnk" locatortype="linktext" locatorvalue="Refresh Connection"/>
+    <Object locatorname="filterdevice" locatortype="css" locatorvalue=".olh-multiple-selection [type]"/>
+    <Object locatorname="filteroption_fitness" locatortype="xpath" locatorvalue="//span[@data-value='fitness']"/>
+    <Object locatorname="filteroption_viewAll" locatortype="xpath" locatorvalue="//span[@data-value='View All']"/>
+    <Object locatorname="filteroption_nutrition" locatortype="xpath" locatorvalue="//span[@data-value='nutrition']"/>
+    <Object locatorname="filteroption_weight" locatortype="xpath" locatorvalue="//span[@data-value='weight']"/>
+    <Object locatorname="devices_name" locatortype="xpath" locatorvalue="//p[text()='$varinput1']"/>
+    <Object locatorname="nextpage_btn" locatortype="css" locatorvalue="[aria-label='Next']"/>
+
+    <Object locatorname="garminconnect" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(5) .olh-device-tile-name"/>
+    <Object locatorname="ihealth" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(6) .olh-device-tile-name"/>
+    <Object locatorname="jawbone" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(7) .olh-device-tile-name"/>
+    <Object locatorname="lifefitness" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(8) .olh-device-tile-name"/>
+    <Object locatorname="mapmyfitness" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(9) .olh-device-tile-name"/>
+    <Object locatorname="microsoft" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(10) .olh-device-tile-name"/>
+    <Object locatorname="misfit" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(11) .olh-device-tile-name"/>
+    <Object locatorname="movesapp" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(12) .olh-device-tile-name"/>
+    <Object locatorname="myfitnesspal" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(13) .olh-device-tile-name"/>
+    <Object locatorname="nokia" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(14) .olh-device-tile-name"/>
+    <Object locatorname="runkeeper" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(15) .olh-device-tile-name"/>
+    <Object locatorname="strava" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(16) .olh-device-tile-name"/>
+    <Object locatorname="suunto" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(17) .olh-device-tile-name"/>
+    <Object locatorname="underarmourrecord" locatortype="css" locatorvalue="[class='col-sm-4 olh-apps-device ']:nth-of-type(18) .olh-device-tile-name"/>
+
+
+  </PageNode>>
+  <PageNode name="Page_MaintainTobaccoFreeStatusGoal">
+    <Object locatorname="tobaccofreestatus" locatortype="linktext" locatorvalue="Maintain Tobacco-Free Status"/>
+    <Object locatorname="daysquittb" locatortype="css" locatorvalue="#trackerInput-daysQuit"/>
+    <!--<Object locatorname="starttobaccotracker" locatortype="css" locatorvalue="#StartUsingTheTobaccoTracker .olh-grid-item-title"/>-->
+    <Object locatorname="calculateweeklysavingafterquit" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(2) .olh-grid-item-title"/>
+    <Object locatorname="learnabouttreatmentforquiting" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(3) .olh-grid-item-title"/>
+    <Object locatorname="listalternatesmokebreak" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(4) .olh-grid-item-title"/>
+    <Object locatorname="practicestressmanagementtechnique" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(5) .olh-grid-item-title"/>
+    <Object locatorname="usedistractiontocopeupstress" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(6) .olh-grid-item-title"/>
+    <Object locatorname="question1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(1) span"/>
+    <Object locatorname="question2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(2) span"/>
+
+    <Object locatorname="actionitem" locatortype="xpath" locatorvalue="//div[@class='goals-action olh-grid-item purple-bg'][1]"/>
+
+    <Object locatorname="action1" locatortype="xpath" locatorvalue="//ul[@id='goals-selected']//span[.='Start using the Tobacco Tracker']"/>
+    <Object locatorname="action2" locatortype="xpath" locatorvalue="//li[@id='CalculateWeeklySavingsFromQuitting']/span[.='Calculate weekly savings from quitting']"/>
+    <Object locatorname="action3" locatortype="xpath" locatorvalue="//li[@id='LearnAboutTreatmentsForQuitting']/span[.='Learn about treatments for quitting']"/>
+    <Object locatorname="errormsg" locatortype="xpath" locatorvalue="//div[@id='goalAlert']"/>
+
+    <Object locatorname="closeorsupporttile" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(2) .olh-grid-item-title"/>
+    <Object locatorname="obstacletostaytobaccofree" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(3) .olh-grid-item-title"/>
+    <Object locatorname="startusingtobaccotracker" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(4) .olh-grid-item-title"/>
+    <Object locatorname="calculateweeklysaving" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(5) .olh-grid-item-title"/>
+    <Object locatorname="learnabouttreatment" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(6) .olh-grid-item-title"/>
+
+    <Object locatorname="myprogresslbl" locatortype="css" locatorvalue=".goals-progress h2"/>
+    <Object locatorname="closeorsupporttitle" locatortype="css" locatorvalue="#AskSomeoneCloseToMeForSupportTobacco .olh-grid-item-title"/>
+    <Object locatorname="weeklysavingtitle" locatortype="css" locatorvalue="#CalculateWeeklySavingsFromQuitting .olh-grid-item-title"/>
+    <Object locatorname="starttobaccotracker" locatortype="css" locatorvalue="#StartUsingTheTobaccoTracker .olh-grid-item-title"/>
+    <Object locatorname="staytobaccofree" locatortype="css" locatorvalue="#IdentifyObstaclesToStayTobaccoFree .olh-grid-item-title"/>
+    <Object locatorname="treatmentforquiting" locatortype="css" locatorvalue="#LearnAboutTreatmentsForQuitting .olh-grid-item-title"/>
+
+  </PageNode>
+
+
+  <PageNode name="Page_NewHA">
+    <Object locatorname="startlnk" locatortype="css" locatorvalue="[data-navigate='StartHA']"/>
+    <Object locatorname="questionlocator" locatortype="id" locatorvalue="QuestionTextSpan_[$varinput1]"/>
+    <Object locatorname="responseid" locatortype="id" locatorvalue="$varinput1"/>
+    <Object locatorname="haframetitle" locatortype="css" locatorvalue="[class='col-xs-7 trim-right'] h3"/>
+    <Object locatorname="cancelbtn" locatortype="xpath" locatorvalue="//a[@id='OnlifeCompleteHRAButton']/span[text()='Cancel']"/>
+    <Object locatorname="saveandcontinuebtn" locatortype="xpath" locatorvalue="//a[@id='OnlifenextPageButton']/span"/>
+   </PageNode>
+    
+    <PageNode name="Page_FillHA">
+    <Object locatorname="startlnk" locatortype="css" locatorvalue="[data-navigate='StartHA']"/>
+    <Object locatorname="haframetitle" locatortype="css" locatorvalue="[class='col-xs-7 trim-right'] h3"/>
+    <Object locatorname="cancelbtn" locatortype="xpath" locatorvalue="//a[@id='OnlifeCompleteHRAButton']/span[text()='Cancel']"/>
+    <Object locatorname="saveandcontinuebtn" locatortype="xpath" locatorvalue="//a[@id='OnlifenextPageButton']/span"/>
+    <Object locatorname="ha_congratulations_text" locatortype="css" locatorvalue=".col-xs-8>h1"/>
+    <Object locatorname="hacompletedclosebtn" locatortype="xpath" locatorvalue="//a[@id='btn_Close']/span"/>
+    <Object locatorname="dashboard_ha_100per" locatortype="xpath" locatorvalue="//div[@class='olh-actionbar-content']/span[contains(text(),'100%')]"/>
+    <Object locatorname="dashboard_ha_viewreportlink" locatortype="xpath" locatorvalue="//a[contains(text(),'View Report')]"/>
+    <Object locatorname="reports_snapshot_reportlink" locatortype="xpath" locatorvalue="//a[contains(text(),'Snapshot Report')]"/>
+    <Object locatorname="reports_healthcareprovider_reportlink" locatortype="xpath" locatorvalue="//a[contains(text(),'Healthcare Provider Report')]"/>
+    <Object locatorname="reports_personalwellness_reportlink" locatortype="xpath" locatorvalue="//a[contains(text(),'Personal Wellness Report')]"/>
+
+    <!-- First Module (Your Info) -->
+    <Object locatorname="yourinfo_overallhealth" locatortype="xpath" locatorvalue=".//*[@name='OverallHealth' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_eatinghabits" locatortype="xpath" locatorvalue=".//*[@name='EatingHabits' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_drinkhabits" locatortype="xpath" locatorvalue=".//*[@name='DrinksCat6' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_smokehabits" locatortype="xpath" locatorvalue=".//*[@name='SmokeStatus' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_cigarhabits" locatortype="xpath" locatorvalue=".//*[@name='Cigars4' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_pipeshabits" locatortype="xpath" locatorvalue=".//*[@name='Pipes4' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_smokelesshabits" locatortype="xpath" locatorvalue=".//*[@name='Smokeless4' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_smoke4bhabits" locatortype="xpath" locatorvalue=".//*[@name='Smokestatus4b' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_cigar4ahabits" locatortype="xpath" locatorvalue=".//*[@name='Cigars4a' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_pipes4ahabits" locatortype="xpath" locatorvalue=".//*[@name='Pipes4a' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_smokeless4ahabits" locatortype="xpath" locatorvalue=".//*[@name='Smokeless4a' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_ecigarettes4ahabits" locatortype="xpath" locatorvalue=".//*[@name='Ecigarettes4a' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_moderatehours" locatortype="xpath" locatorvalue=".//input[@name='ExerModH']"/>
+    <Object locatorname="yourinfo_moderatemins" locatortype="xpath" locatorvalue=".//input[@name='ExerModM']"/>
+    <Object locatorname="yourinfo_vigoroushours" locatortype="xpath" locatorvalue=".//input[@name='ExerVigH']"/>
+    <Object locatorname="yourinfo_vigorousmins" locatortype="xpath" locatorvalue=".//input[@name='ExerVigM']"/>
+    <Object locatorname="yourinfo_stresseffect" locatortype="xpath" locatorvalue=".//*[@name='StressEffect5' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_diabeticstatus" locatortype="xpath" locatorvalue=".//*[@name='HxDiabetes3' and @value='$varinput1']"/>
+    <Object locatorname="yourinfo_heightfeet" locatortype="xpath" locatorvalue=".//input[@name='Feet']"/>
+    <Object locatorname="yourinfo_heightinch" locatortype="xpath" locatorvalue=".//input[@name='Inches']"/>
+    <Object locatorname="yourinfo_weightpound" locatortype="xpath" locatorvalue=".//input[@name='Weight']"/>
+    <Object locatorname="yourinfo_systolic_bp" locatortype="xpath" locatorvalue=".//input[@name='SystolicBP']"/>
+    <Object locatorname="yourinfo_diastolic_bp" locatortype="xpath" locatorvalue=".//input[@name='DiastolicBP']"/>
+    <Object locatorname="yourinfo_totalcholesterol" locatortype="xpath" locatorvalue=".//input[@name='SerumCholestero']"/>
+    <Object locatorname="yourinfo_hdl" locatortype="xpath" locatorvalue=".//input[@name='HDL']"/>
+    <Object locatorname="yourinfo_ldl" locatortype="xpath" locatorvalue=".//input[@name='LDL']"/>
+
+    <!-- Snapshot Report -->
+    <Object locatorname="snapshot_diet_graphlabel" locatortype="xpath" locatorvalue="(//div[contains(@class,'progress')]//label[contains(@class,'graph-label')])[1]"/>
+    <Object locatorname="snapshot_tobaccouse_graphlabel" locatortype="xpath" locatorvalue="(//div[contains(@class,'progress')]//label[contains(@class,'graph-label')])[2]"/>
+    <Object locatorname="snapshot_physicalactivity_graphlabel" locatortype="xpath" locatorvalue="(//div[contains(@class,'progress')]//label[contains(@class,'graph-label')])[3]"/>
+    <Object locatorname="snapshot_stress_graphlabel" locatortype="xpath" locatorvalue="(//div[contains(@class,'progress')]//label[contains(@class,'graph-label')])[4]"/>
+    <Object locatorname="snapshot_weightbmi_graphlabel" locatortype="xpath" locatorvalue="(//div[contains(@class,'progress')]//label[contains(@class,'graph-label')])[5]"/>
+    <Object locatorname="snapshot_bloodpressure_graphlabel" locatortype="xpath" locatorvalue="(//div[contains(@class,'progress')]//label[contains(@class,'graph-label')])[6]"/>
+    <Object locatorname="snapshot_ldl_graphlabel" locatortype="xpath" locatorvalue="(//div[contains(@class,'progress')]//label[contains(@class,'graph-label')])[7]"/>
+    <Object locatorname="snapshot_hdl_graphlabel" locatortype="xpath" locatorvalue="(//div[contains(@class,'progress')]//label[contains(@class,'graph-label')])[8]"/>
+
+    <Object locatorname="snapshot_continuebtn" locatortype="xpath" locatorvalue="//a[@id='btnContinue']/span"/>
+
+
+    <Object locatorname="hacontinuebtn" locatortype="xpath" locatorvalue="//a[@class='olh-actionbar-link' and contains(text(),'Continue')]"/>
+
+    <!-- Second Module (About You)-->
+    <Object locatorname="aboutyou_racegroup" locatortype="xpath" locatorvalue="//input[@name='RaceNative' and @value='$varinput1']"/>
+    <Object locatorname="aboutyou_safetybelt" locatortype="xpath" locatorvalue="//input[@name='SeatBeltCat6' and @value='$varinput1']"/>
+    <Object locatorname="aboutyou_screening" locatortype="xpath" locatorvalue="//input[@name='ColonScreen' and @value='$varinput1']"/>
+
+    <!-- Third Module (Your Vital)-->
+    <Object locatorname="yourvitals_weightrange" locatortype="xpath" locatorvalue="//input[@name='WeightTime' and @value='$varinput1']"/>
+    <Object locatorname="interestedin_managingweight" locatortype="xpath" locatorvalue="//input[@name='SOCWeightA' and @value='$varinput1']"/>
+    <Object locatorname="rightnow_begin" locatortype="xpath" locatorvalue="//input[@name='SOCWeightB' and @value='$varinput1']"/>
+    <Object locatorname="yourvitals_no_highbp" locatortype="xpath" locatorvalue="//input[@name='HxHiBP2' and @value='$varinput1']"/>
+    <Object locatorname="yourvitals_no_highcholesterol" locatortype="xpath" locatorvalue="//input[@name='HxHiChol2' and @value='$varinput1']"/>
+
+    <!-- Fourth Module (Diet)-->
+    <Object locatorname="diet_3servings_fruit" locatortype="xpath" locatorvalue="//input[@name='DietFruit7' and @value='$varinput1']"/>
+    <Object locatorname="diet_3servings_vegetables" locatortype="xpath" locatorvalue="//input[@name='DietVeggie8' and @value='$varinput1']"/>
+    <Object locatorname="diet_3servings_wholegrains" locatortype="xpath" locatorvalue="//input[@name='DietGrainsWhole' and @value='$varinput1']"/>
+    <Object locatorname="diet_2servings_diaryproducts" locatortype="xpath" locatorvalue="//input[@name='DietCalcium5' and @value='$varinput1']"/>
+    <Object locatorname="diet_3servings_fish" locatortype="xpath" locatorvalue="//input[@name='DietProtein8' and @value='$varinput1']"/>
+    <Object locatorname="diet_yes_continueeatinghabits" locatortype="xpath" locatorvalue="//input[@name='SEDietDo' and @value='$varinput1']"/>
+    <Object locatorname="interestedin_improvingeatinghabits" locatortype="xpath" locatorvalue="//input[@name='SOCDietA' and @value='$varinput1']"/>
+    <Object locatorname="interestedin_reducingalcohol" locatortype="xpath" locatorvalue="//input[@name='SOCAlcoholA' and @value='$varinput1']"/>
+    <Object locatorname="begin_drinkingless" locatortype="xpath" locatorvalue="//input[@name='SOCAlcoholB' and @value='$varinput1']"/>
+
+    <!-- Fifth Module (Tobacco)-->
+    <Object locatorname="tobacco_occasionally_secondhandsmoke" locatortype="xpath" locatorvalue="//input[@name='SecondHandSmoke' and @value='$varinput1']"/>
+    <Object locatorname="tobacco_cigarettessmoke" locatortype="xpath" locatorvalue="//input[@name='Cigarettes4' and @value='$varinput1']"/>
+    <Object locatorname="tobacco_triedtoquitsmoke" locatortype="xpath" locatorvalue="//input[@name='QuitTimes' and @value='$varinput1']"/>
+    <Object locatorname="tobacco_interestedin_quittingsmoking" locatortype="xpath" locatorvalue="//input[@name='SOCSmokeA' and @value='$varinput1']"/>
+    <Object locatorname="tobacco_whentoquit" locatortype="xpath" locatorvalue="//input[@name='SOCSmokeB' and @value='$varinput1']"/>
+    <Object locatorname="tobacco_exposedto_secondhandsmoke" locatortype="xpath" locatorvalue="//input[@name='SecondHandSmoke' and @value='$varinput1']"/>
+
+
+    <!-- Sixth Module (History)-->
+    <Object locatorname="history_no_cancer" locatortype="xpath" locatorvalue="//input[@name='HxCancer' and @value='$varinput1']"/>
+    <Object locatorname="history_no_heartdisease" locatortype="xpath" locatorvalue="//input[@name='HxHeartDisease' and @value='$varinput1']"/>
+    <Object locatorname="history_no_osteoporosis" locatortype="xpath" locatorvalue="//input[@name='HxOsteoMeds' and @value='$varinput1']"/>
+    <Object locatorname="history_no_migraine" locatortype="xpath" locatorvalue="//input[@name='HxMigraineMeds' and @value='$varinput1']"/>
+    <Object locatorname="history_no_arthritis" locatortype="xpath" locatorvalue="//input[@name='HxArthritisTrt' and @value='$varinput1']"/>
+    <Object locatorname="history_no_asthma" locatortype="xpath" locatorvalue="//input[@name='HxAsthmaTrt' and @value='$varinput1']"/>
+    <Object locatorname="history_no_backpain" locatortype="xpath" locatorvalue="//input[@name='LowBackAbsent2Y' and @value='$varinput1']"/>
+    <Object locatorname="history_backpaintrt" locatortype="xpath" locatorvalue="//input[@name='BackPainTrt' and @value='$varinput1']"/>
+    <Object locatorname="history_vaccinatedforflu" locatortype="xpath" locatorvalue="//input[@name='FluShot' and @value='$varinput1']"/>
+
+      <!-- Seventh Module (Activity)-->
+    <Object locatorname="activity_morethan1year_healthylevel" locatortype="xpath" locatorvalue="//input[@name='SOCExerC' and @value='$varinput1']"/>
+    <Object locatorname="activity_interestedin_increasingactivity" locatortype="xpath" locatorvalue="//input[@name='SOCExerA' and @value='$varinput1']"/>
+    <Object locatorname="activity_begin_increasingactivity" locatortype="xpath" locatorvalue="//input[@name='SOCExerB' and @value='$varinput1']"/>
+
+    <!-- Eighth Module (Emotional Health)-->
+    <Object locatorname="emotionalhealth_no_lostallinterest" locatortype="xpath" locatorvalue="//input[@name='ProbDepress' and @value='$varinput1']"/>
+    <Object locatorname="emotionalhealth_no_feltdepressed_feltokaysometimes" locatortype="xpath" locatorvalue="//input[@name='Sadness' and @value='$varinput1']"/>
+    <Object locatorname="emotionalhealth_no_feltdepressed_muchofthetime" locatortype="xpath" locatorvalue="//input[@name='HSQ39' and @value='$varinput1']"/>
+    <Object locatorname="emotionalhealth_littleinterestorpleasure" locatortype="xpath" locatorvalue="//input[@name='PHQ2_1' and @value='$varinput1']"/>
+    <Object locatorname="emotionalhealth_feelingdowndepressed" locatortype="xpath" locatorvalue="//input[@name='PHQ2_2' and @value='$varinput1']"/>
+    <Object locatorname="emotionalhealth_interestedin_managestress" locatortype="xpath" locatorvalue="//input[@name='SOCStressA' and @value='$varinput1']"/>
+    <Object locatorname="emotionalhealth_sometimes_unabletocontrolthings" locatortype="xpath" locatorvalue="//input[@name='PSS4_1' and @value='$varinput1']"/>
+    <Object locatorname="emotionalhealth_sometimes_handlepersonalproblems" locatortype="xpath" locatorvalue="//input[@name='PSS4_2' and @value='$varinput1']"/>
+    <Object locatorname="emotionalhealth_sometimes_thingsgoingyourway" locatortype="xpath" locatorvalue="//input[@name='PSS4_3' and @value='$varinput1']"/>
+    <Object locatorname="emotionalhealth_sometimes_difficultiespillingup" locatortype="xpath" locatorvalue="//input[@name='PSS4_4' and @value='$varinput1']"/>
+      
+      <!-- Ninth Module (At Work)-->
+    <Object locatorname="atwork_no_currentlyemployed" locatortype="xpath" locatorvalue="//input[@name='Employed' and @value='$varinput1']"/>
+      
+    <!-- Tenth Module (Review)-->
+    <Object locatorname="review_readytoclickfinish" locatortype="xpath" locatorvalue="//input[@name='Finish' and @value='$varinput1']"/>
+
+    <Object locatorname="hacompleted_continuebtn_togotodashboard" locatortype="xpath" locatorvalue="//button[@id='Continue']"/>
+      
+
+    </PageNode>
+
+  <PageNode name="Page_Login">
+    <Object locatorname="usernametxt" locatortype="name" locatorvalue="username"/>
+    <Object locatorname="passwordtxt" locatortype="name" locatorvalue="password"/>
+    <Object locatorname="oldloginbtn" locatortype="xpath" locatorvalue="//button[@class='btn-secondary btn-login']"/>
+    <Object locatorname="loginbtn" locatortype="xpath" locatorvalue="//div[@class='header_bottom clearfix']//ul[@id='menu-main-menu-old']//span[text()='LOG IN']"/>
+    <Object locatorname="loginsubmitbtn" locatortype="css" locatorvalue="fieldset button"/>
+    <Object locatorname="cusernametxt" locatortype="xpath" locatorvalue="//input[@id='username']"/>
+    <Object locatorname="cpasswordtxt" locatortype="xpath" locatorvalue="//input[@id='password']"/>
+    <Object locatorname="custurlloginbtn" locatortype="css" locatorvalue="#btn-login"/>
+    <Object locatorname="custurltxt" locatortype="css" locatorvalue=".Secondary__Color"/>
+    <Object locatorname="invalidloginmsg" locatortype="css" locatorvalue="[name='errorMsg']"/>
+    <Object locatorname="logintitle" locatortype="css" locatorvalue=".qode-social-login-holder-inner h3"/>
+    
+    <Object locatorname="forgotunamepasslnk" locatortype="xpath" locatorvalue="//a[text()='Forgot username or password']"/>
+    <Object locatorname="forgotunamepasspageheader" locatortype="css" locatorvalue="h1"/>
+    <Object locatorname="forgotunameoptionbtn" locatortype="css" locatorvalue=".fill-up-verification .form-group:nth-of-type(2) .radio-success"/>
+    <Object locatorname="forgotpassowrdoptionbtn" locatortype="css" locatorvalue=".push-medium-top .radio-success"/>
+    <Object locatorname="forgotunameconfirm" locatortype="xpath" locatorvalue="//button[@name='Continue']"/>
+    <Object locatorname="forgotuname_firstname" locatortype="xpath" locatorvalue="//input[@id='FirstName']"/>
+    <Object locatorname="forgotuname_lastname" locatortype="xpath" locatorvalue="//input[@id='LastName']"/>
+    <Object locatorname="forgotuname_dob" locatortype="xpath" locatorvalue="//input[@id='DateOfBirth']"/>
+    <Object locatorname="forgotuname_zipcode" locatortype="xpath" locatorvalue="//input[@id='PostalCode']"/>
+    <Object locatorname="forgotuname_verifybtn" locatortype="css" locatorvalue="[type='submit']"/>
+    <Object locatorname="forgotuname_lbl" locatortype="css" locatorvalue=".label-value"/>
+    <Object locatorname="forgotuname_passtxt" locatortype="xpath" locatorvalue="//input[@id='Password']"/>
+    <Object locatorname="forgotuname_emailid" locatortype="css" locatorvalue=".constant-text-blue"/>
+    <Object locatorname="forgotuname_emailidtxt" locatortype="xpath" locatorvalue="//h4[contains(text(),'An email has been sent to')]"/>
+    <Object locatorname="forgotpass_okbtn" locatortype="css" locatorvalue="#passwordMail_Cancel"/>
+    <Object locatorname="forgotpass_username" locatortype="xpath" locatorvalue="//input[@id='UserName']"/>
+    
+    <Object locatorname="newusertitle" locatortype="css" locatorvalue=".qode-social-register-holder h3"/>
+    <Object locatorname="olduigetstartedbtn" locatortype="css" locatorvalue=".btn-link.btn-secondary"/>
+    <Object locatorname="getstartedbtn" locatortype="css" locatorvalue=".qode-social-register-holder [type]"/>
+    <Object locatorname="loginbtnImg" locatortype="path" locatorvalue="\Image\loginBtnImg.png"/>
+    <Object locatorname="OnlifelogoImg" locatortype="path" locatorvalue="\Image\Onlifelogo.png"/>
+
+  </PageNode>
+
+  <PageNode name="Page_MaintainWeightGoal">
+    <Object locatorname="maintainweighttxt" locatortype="css" locatorvalue=".addGoalByType2:nth-of-type(10) [href]"/>
+    <Object locatorname="addagoalheader" locatortype="css" locatorvalue="#goalsHeader"/>
+    <Object locatorname="maintainweightlbl" locatortype="css" locatorvalue=".olh-content h2"/>
+    <Object locatorname="goalspecifieslbl" locatortype="css" locatorvalue=".olh-content .olh-content-section:nth-child(2) h3"/>
+    <Object locatorname="currentstatuslbl" locatortype="css" locatorvalue=".olh-content .olh-content-section:nth-child(3) h3"/>
+    <Object locatorname="weightlbl" locatortype="css" locatorvalue=".tracker-input-label-text"/>
+    <Object locatorname="weighttb" locatortype="css" locatorvalue=".tracker-input-input"/>
+    <Object locatorname="recommendationlbl" locatortype="css" locatorvalue=".olh-content .olh-content-section:nth-child(4) h3"/>
+    <Object locatorname="steps" locatortype="css" locatorvalue=".olh-sidebar-container h3"/>
+    <Object locatorname="step1" locatortype="css" locatorvalue=".olh-wizard li:nth-of-type(1) .olh-wizard-dot span"/>
+    <Object locatorname="step2" locatortype="css" locatorvalue=".olh-wizard ul li:nth-of-type(2)"/>
+    <Object locatorname="step3" locatortype="css" locatorvalue=".olh-wizard ul li:nth-of-type(3)"/>
+    <Object locatorname="yourgoallbl" locatortype="css" locatorvalue=".olh-sidebar-heading"/>
+    <Object locatorname="maintaincurrentstatuslbl" locatortype="css" locatorvalue=".olh-sidebar-container p"/>
+    <Object locatorname="cancelbtn" locatortype="css" locatorvalue=".button-new-dark"/>
+
+    <Object locatorname="createplanlbl" locatortype="css" locatorvalue="#goalstep2-section-header"/>
+    <Object locatorname="actionitem" locatortype="xpath" locatorvalue="//div[@class='goals-action olh-grid-item purple-bg'][1]"/>
+
+    <Object locatorname="action1" locatortype="xpath" locatorvalue="//li[@id='EatMoreFoodSourcesOfCalcium']/span"/>
+    <Object locatorname="action2" locatortype="xpath" locatorvalue="//li[@id='LimitMyFatIntake']/span"/>
+    <Object locatorname="action3" locatortype="xpath" locatorvalue="//li[@id='Eat25To30GramsOfFiberDaily']/span"/>
+    <Object locatorname="errormsg" locatortype="xpath" locatorvalue="//div[@id='goalAlert']"/>
+
+    <Object locatorname="congratsmsg" locatortype="css" locatorvalue=".olh-content .olh-content-section:nth-child(2) h3"/>
+    <Object locatorname="tile1" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(2) .olh-grid-item-title"/>
+    <Object locatorname="tile2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(3) .olh-grid-item-title"/>
+    <Object locatorname="tile3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(4) .olh-grid-item-title"/>
+    <Object locatorname="tile4" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(5) .olh-grid-item-title"/>
+    <Object locatorname="tile5" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-child(6) .olh-grid-item-title"/>
+    <Object locatorname="weight" locatortype="css" locatorvalue=".olh-sidebar-section p"/>
+
+
+    <Object locatorname="myprogresslbl" locatortype="css" locatorvalue=".goals-progress h2"/>
+    <Object locatorname="noofdays" locatortype="css" locatorvalue=".olh-ring-number"/>
+    <Object locatorname="daysremaininglbl" locatortype="css" locatorvalue=".olh-ring-label"/>
+    <Object locatorname="trackbtn" locatortype="css" locatorvalue="#goals-track-progress"/>
+
+    <Object locatorname="editbtn" locatortype="css" locatorvalue="[role='link']"/>
+    <Object locatorname="planlbl" locatortype="css" locatorvalue="[class='col-sm-8'] h2"/>
+    <Object locatorname="plantile1" locatortype="css" locatorvalue="#ConsumeTheSuggestedNumberOfCalories .olh-grid-item-title"/>
+    <Object locatorname="plantile2" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(2) .olh-grid-item-title"/>
+    <Object locatorname="plantile3" locatortype="css" locatorvalue=".olh-grid .purple-bg:nth-of-type(3) .olh-grid-item-title"/>
+    <Object locatorname="plantile4" locatortype="css" locatorvalue="#EatMoreFoodSourcesOfCalcium .olh-grid-item-title"/>
+    <Object locatorname="plantile5" locatortype="css" locatorvalue="#LimitMyFatIntake .olh-grid-item-title"/>
+    <Object locatorname="plantile6" locatortype="css" locatorvalue=".olh-grid-item-link .olh-grid-item-title"/>
+
+
+    <Object locatorname="srcofcal" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(1) .olh-grid-item-title"/>
+    <Object locatorname="lmtfatintake" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(2) .olh-grid-item-title"/>
+    <Object locatorname="dailyfibrelmt" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(3) .olh-grid-item-title"/>
+    <Object locatorname="fruitvegielmt" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(4) .olh-grid-item-title"/>
+    <Object locatorname="eatmorefibre" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(5) .olh-grid-item-title"/>
+    <Object locatorname="choosewholegrains" locatortype="css" locatorvalue="#goal-plan-actions .purple-bg:nth-of-type(6) .olh-grid-item-title"/>
+    <Object locatorname="yourplan" locatortype="css" locatorvalue=".olh-sidebar-goal"/>
+    <Object locatorname="question1" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(1) span"/>
+    <Object locatorname="question2" locatortype="css" locatorvalue="#goals-selected li:nth-of-type(2) span"/>
+
+    <Object locatorname="goalremoveheader" locatortype="css" locatorvalue="[action] .modal-title"/>
+    <Object locatorname="confirmationtext" locatortype="css" locatorvalue="h4"/>
+    <Object locatorname="nobtn" locatortype="css" locatorvalue="[action] .left .button-new"/>
+
+
+    <Object locatorname="goalsHeader" locatortype="id" locatorvalue="goalsHeader"/>
+
+  </PageNode>
+
+  <PageNode name="Page_MessageToCoach">
+    <Object locatorname="yourmessageh" locatortype="xpath" locatorvalue="//h1[.='Your Messages']"/>
+    <Object locatorname="showmessagelb" locatortype="xpath" locatorvalue="//p[.='Show Messages:']"/>
+    <Object locatorname="messagesfilterbtn" locatortype="xpath" locatorvalue="//button[@id='messagesFilterDropdown']"/>
+    <Object locatorname="messageconvtextarea" locatortype="xpath" locatorvalue="//textarea[@id='ConversationTextarea']"/>
+    <Object locatorname="messageremainingcharitem" locatortype="xpath" locatorvalue="//span[@id='CoachLeft_ConversationTextarea_RemainingCharacters_Item']"/>
+    <Object locatorname="sendmsgtocoachbt" locatortype="xpath" locatorvalue="//a[@id='SubmitCoachConversationButton']"/>
+    <Object locatorname="verifysentmsg" locatortype="css" locatorvalue="#RenderedMessages [class='col-sm-12 self']:nth-of-type(1) [class='col-sm-10 col-xs-9']"/>
+    <Object locatorname="msgfilterbtn" locatortype="xpath" locatorvalue="//button[@id='messagesFilterDropdown']"/>
+    <Object locatorname="sendmsg" locatortype="css" locatorvalue="[data-value='SentOnly'] [role]"/>
+    <Object locatorname="archivemsg" locatortype="css" locatorvalue="[data-value='Archived'] [role]"/>
+    <Object locatorname="deletemsg" locatortype="css" locatorvalue="[data-value='Deleted'] [role]"/>
+    <Object locatorname="deletebtn" locatortype="xpath" locatorvalue="(//span[@title='Delete'])[1]"/>
+    <Object locatorname="activemsg" locatortype="css" locatorvalue="[data-value='Active'] [role]"/>
+    <Object locatorname="inboundmsg" locatortype="css" locatorvalue="[data-value='Inbound'] [role]"/>
+    <Object locatorname="inboundtxt" locatortype="xpath" locatorvalue="//div[@id='RenderedMessages']/p[1]"/>
+    <Object locatorname="archivelnk" locatortype="xpath" locatorvalue="(//a[contains(@class,'linkArchive')])[1]"/>
+    <Object locatorname="allmsg" locatortype="css" locatorvalue="[data-value='All'] [role]"/>
+  </PageNode>
+
+  <PageNode name="Page_HAPrompt">
+    <Object locatorname="dashboardbtn" locatortype="xpath" locatorvalue="//*[@id='GotoDashboard']"/>
+    <Object locatorname="startHAbtn" locatortype="xpath" locatorvalue="//*[@id='GoHAModule']"/>
+  </PageNode>
+
+  <PageNode name="Page_MyProfile">
+    <Object locatorname="statusmessage_textarea" locatortype="xpath" locatorvalue="/html//textarea[@id='statusMessage']"/>
+    <Object locatorname="statusmessage_clearicon" locatortype="css" locatorvalue=".statusMessage-clear-icon"/>
+    <Object locatorname="statusmessage_updatebtn" locatortype="xpath" locatorvalue="//button[@id='updateStatusMessage']"/>
+    <Object locatorname="statusmessage_onlymebtn" locatortype="xpath" locatorvalue="//label[@id='lblradioOnlyMe']"/>
+    <Object locatorname="statusmessage_innercirclebtn" locatortype="xpath" locatorvalue="//label[@id='lblradioInnerCircle']"/>
+    <Object locatorname="statusmessage_outercirclebtn" locatortype="xpath" locatorvalue="//label[@id='lblradioOuterCircle']"/>
+    <Object locatorname="statusmessage_inputcharcount" locatortype="css" locatorvalue="#charCounter"/>
+    <Object locatorname="statusmessage_charcountlbl" locatortype="css" locatorvalue="#charCountLabel"/>
+    <Object locatorname="edit_statusmessagebtn" locatortype="xpath" locatorvalue="//a[@id='editStatusMessage']/i[@class='icon icon-onlife-edit-2 statusMessage-edit-icon']"/>
+    <Object locatorname="connection_namelbl" locatortype="css" locatorvalue=".connection-name"/>
+    <Object locatorname="statusmessage_metball" locatortype="xpath" locatorvalue="//div[@id='statusMessageVisibilityDropdown']//i[@class='icon icon-onlife-more']"/>
+    <Object locatorname="onlyme_optionbtn" locatortype="xpath" locatorvalue="/html//span[@id='visibilitySelector-NoConnection']"/>
+    <Object locatorname="innercircle_optionbtn" locatortype="xpath" locatorvalue="/html//span[@id='visibilitySelector-InnerCircle']"/>
+    <Object locatorname="outercircle_optionbtn" locatortype="xpath" locatorvalue="/html//span[@id='visibilitySelector-OuterCircle']"/>
+    <Object locatorname="trackertab" locatortype="xpath" locatorvalue="//button[@id='showTrackersButton']"/>
+  </PageNode>
+  <PageNode name="Page_Settings">
+    <Object locatorname="spmyprofile" locatortype="css" locatorvalue=".my-settings [class='col-sm-12']:nth-of-type(1) .blue-header" />
+    <Object locatorname="spprofilepic" locatortype="css" locatorvalue="[data-value] .control-label"/>
+    <Object locatorname="spusername" locatortype="css" locatorvalue="#MyProfile [class='col-sm-3']:nth-of-type(1) .control-label"/>
+    <Object locatorname="spoldispname" locatortype="css" locatorvalue="#MyProfile [class='col-sm-3']:nth-of-type(2) .control-label"/>
+    <Object locatorname="spmailpref" locatortype="css" locatorvalue="#lblEmailPreference"/>
+    <Object locatorname="spmyinfo" locatortype="css" locatorvalue="#MyInformation .blue-header"/>
+    <Object locatorname="spfirstname" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(1) .control-label"/>
+    <Object locatorname="spmiddlename" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(2) .control-label"/>
+    <Object locatorname="splastname" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(3) .control-label"/>
+    <Object locatorname="spdob" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(4) .control-label"/>
+    <Object locatorname="spprimphno" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(5) .control-label"/>
+    <Object locatorname="spsecphno" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(6) .control-label"/>
+    <Object locatorname="spmypref" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(7) .control-label"/>
+    <Object locatorname="splang" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(8) .control-label"/>
+    <Object locatorname="sptzone" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(9) .control-label"/>
+    <Object locatorname="spstreet" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(10) .control-label"/>
+    <Object locatorname="spaddress" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(11) .control-label"/>
+    <Object locatorname="spcity" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(12) .control-label"/>
+    <Object locatorname="spstate" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(13) .control-label"/>
+    <Object locatorname="spzip" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-child(15) .control-label"/>
+    <Object locatorname="spprogalert" locatortype="css" locatorvalue="#ManageMessagesForm .blue-header"/>
+    <Object locatorname="spmanphoneno" locatortype="css" locatorvalue="#ManageMessagesForm [class='col-sm-3']:nth-of-type(1) .control-label"/>
+    <Object locatorname="spphoneno" locatortype="css" locatorvalue="#ManageMessagesForm [class='col-sm-3']:nth-of-type(2) .control-label"/>
+    <Object locatorname="spdevtzone" locatortype="css" locatorvalue="#ManageMessagesForm [class='col-sm-3']:nth-of-type(3) .control-label"/>
+
+    <Object locatorname="myinfoeditbtn" locatortype="css" locatorvalue="#MyInformation [class='icon icon-onlife-edit-2']"/>
+    <Object locatorname="myproeditbtn" locatortype="css" locatorvalue="#MyProfile [class='icon icon-onlife-edit-2']"/>
+    <Object locatorname="usernametb" locatortype="css" locatorvalue="#UserName"/>
+    <Object locatorname="oldispnametb" locatortype="css" locatorvalue="#NickName"/>
+    <Object locatorname="emailtb" locatortype="css" locatorvalue="#Email"/>
+    <Object locatorname="oldisperrormsg" locatortype="css" locatorvalue="#MyProfile .field-validation-error [for='NickName']"/>
+    <Object locatorname="eiderrormsg" locatortype="css" locatorvalue="#MyProfile .field-validation-error [for='Email']"/>
+    <Object locatorname="oldispname" locatortype="css" locatorvalue="#MyProfile [class='col-sm-3']:nth-of-type(2) .field-value"/>
+    <Object locatorname="eid" locatortype="css" locatorvalue="#MyProfile [class='col-sm-3']:nth-of-type(3) .field-value"/>
+    <Object locatorname="firstnametb" locatortype="id" locatorvalue="FirstName"/>
+    <Object locatorname="firstnameerrormsg" locatortype="css" locatorvalue=".field-validation-error [for]"/>
+    <Object locatorname="primaryphnoerrormsg" locatortype="css" locatorvalue="#MyInformation .field-validation-error [for='PrimaryPhone']"/>
+    <Object locatorname="secondaryphnoerrormsg" locatortype="css" locatorvalue="#MyInformation .field-validation-error [for='SecondaryPhone']"/>
+    <Object locatorname="primphnotb" locatortype="id" locatorvalue="PrimaryPhone"/>
+    <Object locatorname="secphnotb" locatortype="id" locatorvalue="SecondaryPhone"/>
+    <Object locatorname="myprofsavebtn" locatortype="css" locatorvalue="#MyProfile [type='submit']"/>
+    <Object locatorname="savebtn" locatortype="css" locatorvalue="#MyInformation [type='submit']"/>
+    <Object locatorname="firstname" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(1) .field-value"/>
+    <Object locatorname="primaryno" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(5) .field-value"/>
+    <Object locatorname="secondaryno" locatortype="css" locatorvalue="#MyInformation [class='col-sm-3']:nth-of-type(6) .field-value"/>
+    <Object locatorname="city" locatortype="css" locatorvalue="#City"/>
+    <Object locatorname="state" locatortype="id" locatorvalue="State"/>
+    <Object locatorname="zip" locatortype="css" locatorvalue="#Zip"/>
+    <Object locatorname="language" locatortype="id" locatorvalue="Language"/>
+  </PageNode>
+
+  <PageNode name="Page_Dashboard">
+    <Object locatorname="leftmenu_menuoption" locatortype="xpath" locatorvalue="(//ul[@id='olhSlideInMenu']/li)[$varinput1]"/>
+    
+    <Object locatorname="leftmenu_menuoptiontxt" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[contains(.,'$varinput1')]"/>
+    <Object locatorname="leftmenu_submenuoption" locatortype="xpath" locatorvalue="//a[contains(.,'$varinput1')]/../ul/li/a[text()='$varinput2']"/>
+    <Object locatorname="jbsection" locatortype="classname" locatorvalue="health-steps"/>
+    <Object locatorname="jbitems" locatortype="classname" locatorvalue="item-list"/>
+    <Object locatorname="recomsection" locatortype="xpath" locatorvalue="//section[@class='tiles-area recommendation-area']"/>
+    <Object locatorname="exploresection" locatortype="xpath" locatorvalue="//section[@class='tiles-area explore engagement-stream']"/>
+    <Object locatorname="ContactToCoach_JourneyTile" locatortype="path" locatorvalue="\Image\ContactCoach.png"/>
+    <Object locatorname="Welcome_JourneyTile" locatortype="path" locatorvalue="\Image\WelVideoTileImg.png"/>
+    <Object locatorname="HA_JourneyTile" locatortype="path" locatorvalue="\Image\HATileImg.png"/>
+    <!--<Object locatorname="journeytile_gobtn" locatortype="xpath" locatorvalue="//div[text()='$varinput1']/../button[contains(text(),'$varinput2')]"/>
+    <Object locatorname="journeytile_dismissbtn" locatortype="xpath" locatorvalue="//div[text()='$varinput1']/../button[contains(text(),'$varinput2')]"/>-->
+    <Object locatorname="journeytile_gobtn" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../button[contains(text(),'$varinput2')]"/>
+    <Object locatorname="journeytile_dismissbtn" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../button[contains(text(),'$varinput2')]"/>
+    <Object locatorname="htlogoImg" locatortype="path" locatorvalue="\Image\htlogo.png"/>
+    <Object locatorname="connecttocoachImg" locatortype="path" locatorvalue="\Image\ConnectToCoach.png"/>
+    <Object locatorname="belliconImg" locatortype="path" locatorvalue="\Image\BellIcon.png"/>
+    <!--NON JOURNEY DASHBOARD ELEMENTS-->
+    <Object locatorname="coachingsection" locatortype="xpath" locatorvalue="//div[@class='description-section']//strong[.='Coaching']"/>
+    <Object locatorname="coachingsectionsubheading" locatortype="xpath" locatorvalue="/html//div[@id='main-content']/div[1]//h2[@class='main-header nowrap']"/>
+    <Object locatorname="coachingsectiontilesheading" locatortype="xpath" locatorvalue="//p[@id='scroll']/strong[.='Scroll Through available goals']"/>
+    <Object locatorname="coachingsectiontile" locatortype="xpath" locatorvalue="//div[@class='jcarousel-wrapper available-goals']//div[@class='jcarousel recommend-areas']"/>
+    <Object locatorname="trackingsection" locatortype="xpath" locatorvalue="//div[@class='description-section']//strong[.='Tracking']"/>
+    <Object locatorname="trackingsectionsubheading" locatortype="xpath" locatorvalue="//div[@id='main-content']//h2[text()='Track Your Activity']"/>
+    <Object locatorname="trackingsectiondropdownbtn" locatortype="css" locatorvalue=".trackers [type]"/>
+    <Object locatorname="trackingsectiondropdown_value" locatortype="css" locatorvalue=".section-description [href='\/Tracker']"/>
+
+    <Object locatorname="coursessection" locatortype="xpath" locatorvalue="//div[@class='description-section']//div[3]//p[@class='heading']/strong[.='COURSES']"/>
+    <Object locatorname="coursessectionsubheading" locatortype="xpath" locatorvalue="//div[@class='row']/div[3]//h2[@class='main-header nowrap']"/>
+    <Object locatorname="coursessectiontilesheading" locatortype="xpath" locatorvalue="//p[@id='scrollCourses']//span[.='Scroll Through available']/.."/>
+    <Object locatorname="coursessectiontile" locatortype="xpath" locatorvalue="//div[@class='col-sm-6 trim-right']//div[@class='jcarousel recommend-areas']"/>
+    <Object locatorname="updateprogresssection" locatortype="xpath" locatorvalue="//p[@class='heading']//strong[.='Update Progress']"/>
+    <Object locatorname="updateprogresssectionsubheading" locatortype="xpath" locatorvalue="//div[@id='main-content']//h2[text()='Record Your Activities']"/>
+    <Object locatorname="updateprogresssectiondropdownbtn" locatortype="css" locatorvalue=".activities [type]"/>
+
+    <Object locatorname="updateprogresssectiondropdown_value" locatortype="xpath" locatorvalue="//ul[@role='menu']//a[@text='Manage Stress']"/>
+    
+  </PageNode>
+
+  <PageNode name="Page_Journey">
+    <Object locatorname="journeytile_gobtn" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../button[contains(text(),'$varinput2')]"/>
+    <Object locatorname="journeytile_dismissbtn" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../button[contains(text(),'$varinput2')]"/>
+    <Object locatorname="journeyslidernextbtn" locatortype="css" locatorvalue="[data-value='3'] .flex-next"/>
+    <Object locatorname="bannertile" locatortype="xpath" locatorvalue="//h3[contains(text(),'$varinput1')]"/>
+    <Object locatorname="bannernextbtn" locatortype="css" locatorvalue=".journey-slide .flex-next"/>
+  </PageNode>
+
+  <PageNode name="Page_MyJourney">
+    <Object locatorname="journeytile_gobtn" locatortype="xpath" locatorvalue="//h4[contains(text(),'$varinput1')]/../..//button[contains(text(),'$varinput2')]"/>
+    <Object locatorname="journey_completelabel" locatortype="xpath" locatorvalue="//h4[contains(text(),'$varinput1')]/../..//span[contains(text(),'$varinput2')]"/>
+    
+  </PageNode>
+
+  <PageNode name="Page_CoachingLearnMore">
+    <Object locatorname="coaching_recommended" locatortype="xpath" locatorvalue="//h4[text()='$varinput1']//..//../..//div[@class='recommended']"/>
+  </PageNode>
+  <PageNode name="Page_TrackerLearnMore">
+    <Object locatorname="tracker_recommended" locatortype="xpath" locatorvalue="//span[text()='$varinput1']/../div[@class='recommended']"/>
+    <Object locatorname="pageheader" locatortype="xpath" locatorvalue="//div[@class='olh-heading']"/>
+    <Object locatorname="pagesubheader" locatortype="xpath" locatorvalue="//div[@class='olh-content-section']"/>
+    <Object locatorname="weighttile" locatortype="xpath" locatorvalue="//span[text()='Weight']"/>
+    <Object locatorname="watertile" locatortype="xpath" locatorvalue="//span[text()='Water']"/>
+    <Object locatorname="stresstile" locatortype="xpath" locatorvalue="//span[text()='Stress']"/>
+    <Object locatorname="tobaccotile" locatortype="xpath" locatorvalue="//span[text()='Quit Tobacco']"/>
+    <Object locatorname="bptile" locatortype="xpath" locatorvalue="//span[text()='Blood Pressure']"/>
+    <Object locatorname="cholesteroltile" locatortype="xpath" locatorvalue="//span[text()='Cholesterol']"/>
+    <Object locatorname="nutritiontile" locatortype="xpath" locatorvalue="//span[text()='Nutrition']"/>
+    <Object locatorname="physacttile" locatortype="xpath" locatorvalue="//span[text()='Physical Activity']"/>
+    <Object locatorname="sleeptile" locatortype="xpath" locatorvalue="//span[text()='Sleep']"/>
+    <Object locatorname="oralhealthtile" locatortype="xpath" locatorvalue="//span[text()='Oral Health']"/>
+    
+    <!--<Object locatorname="weighttile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[1]"/>
+    <Object locatorname="watertile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[2]"/>
+    <Object locatorname="stresstile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[3]"/>
+    <Object locatorname="tobaccotile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[4]"/>
+    <Object locatorname="bptile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[5]"/>
+    <Object locatorname="cholesteroltile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[6]"/>
+    <Object locatorname="nutritiontile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[7]"/>
+    <Object locatorname="physacttile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[8]"/>
+    <Object locatorname="sleeptile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[9]"/>
+    <Object locatorname="oralhealthtile" locatortype="xpath" locatorvalue="(//span[@class='trackers-card-title start-now'])[10]"/>-->
+  </PageNode>
+
+  <PageNode name="Page_HIPAA">
+    <Object locatorname="pageheader" locatortype="xpath" locatorvalue="//div[@class='header-block']"/>
+    <Object locatorname="contentsection" locatortype="xpath" locatorvalue="//div[@class='olh-content']"/>
+  </PageNode>
+  <PageNode name="Page_Challenges">
+    <Object locatorname="Inprogress_challenge" locatortype="xpath" locatorvalue="//h2[text()='In Progress']//..//..//..//h2[text()='$varinput1']"/>
+    <Object locatorname="leave_challenge_btn" locatortype="linktext" locatorvalue="Leave Challenge"/>
+    <Object locatorname="leave_challenge_popup_header" locatortype="xpath" locatorvalue="//h3[contains(text(),'$varinput1')]"/>
+    <Object locatorname="leave_challenge_popup_txt" locatortype="css" locatorvalue="#remove-challenge-confirm .modal-body-content"/>
+    <Object locatorname="joined_challengePage_header" locatortype="xpath" locatorvalue="//h2[text()='$varinput1']"/>
+    <Object locatorname="challenges_header" locatortype="xpath" locatorvalue="//span[text()='Challenges']"/>
+    <Object locatorname="confirmation_btn" locatortype="xpath" locatorvalue="//a[contains(text(),'Confirm')]"/>
+    <Object locatorname="cancel_btn" locatortype="xpath" locatorvalue="//button[contains(text(),'Cancel')]"/>
+    <Object locatorname="yes_btn" locatortype="css" locatorvalue=".tracker-input-logical .radio-primary:nth-of-type(1)"/>
+    <Object locatorname="no_btn" locatortype="css" locatorvalue=".tracker-input-logical .radio-primary:nth-of-type(2)"/>
+    <Object locatorname="update_btn" locatortype="xpath" locatorvalue="//a[@id='track']"/>
+    <Object locatorname="joinchallenges_btn" locatortype="xpath" locatorvalue="//h2[text()='$varinput1']//..//..//..//button[@type='submit']"/>
+    <Object locatorname="datehistorycolumnvalue" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-date'])[1]"/>
+    <Object locatorname="trackercolumnvalue" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>
+    <Object locatorname="historybtn" locatortype="id" locatorvalue="trackerHistoryText"/>
+    <Object locatorname="historyheadertext" locatortype="xpath" locatorvalue="(//h2[@class='tracker-heading'])[2]"/>
+    <Object locatorname="datehistorycolumnheader" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[1]"/>
+    <Object locatorname="mindfuleatheader" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <Object locatorname="submenuchallenges" locatortype="css" locatorvalue="[role] .olh-sub-menu [href='\/Challenge']"/>
+    <Object locatorname="thirdpartychallengespopup" locatortype="css" locatorvalue="#alertModal .custom-popup"/>
+    <Object locatorname="thirdpartychallengespopupok" locatortype="css" locatorvalue=".text-center [type]"/>
+    <Object locatorname="healthTrailpageheader" locatortype="css" locatorvalue="#welcome_area h3 em"/>
+   
+  </PageNode>
+
+  <PageNode name="Page_PrivacyPolicy">
+    <Object locatorname="pageheader" locatortype="xpath" locatorvalue="//div[@class='header-block']"/>
+    <Object locatorname="contentsection" locatortype="xpath" locatorvalue="//div[@class='olh-content']"/>
+    <Object locatorname="registereduserheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[1]"/>
+    <Object locatorname="emailheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[2]"/>
+    <Object locatorname="infodurregheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[3]"/>
+    <Object locatorname="statdatheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[4]"/>
+    <Object locatorname="discinfoheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[5]"/>
+    <Object locatorname="participantheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[6]"/>
+    <Object locatorname="employerheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[7]"/>
+    <Object locatorname="healthbenheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[8]"/>
+    <Object locatorname="thirdpartyheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[9]"/>
+    <Object locatorname="tpoheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[10]"/>
+    <Object locatorname="agginfoheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[11]"/>
+    <Object locatorname="infocollecheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[12]"/>
+    <Object locatorname="cookiesheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[13]"/>
+    <Object locatorname="accesstositeheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[14]"/>
+    <Object locatorname="securityheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[15]"/>
+    <Object locatorname="optoutheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[16]"/>
+    <Object locatorname="righttomodheader" locatortype="xpath" locatorvalue="(//h3[@class='push-top-large'])[17]"/>
+  </PageNode>
+
+  <PageNode name="Page_MyHealth">
+    <Object locatorname="pageheader" locatortype="xpath" locatorvalue="//div[@class='header-block header-block--no-margin-bottom']/h1"/>
+    <Object locatorname="pagesubheader" locatortype="xpath" locatorvalue="//h2[@class='main-header text-uppercase']"/>
+    <Object locatorname="weightheader" locatortype="xpath" locatorvalue="//h3[text()='Weight']"/>
+    <Object locatorname="cholheader" locatortype="xpath" locatorvalue="//h3[text()='Cholesterol']"/>
+    <Object locatorname="bmiheader" locatortype="xpath" locatorvalue="//h3[text()='BMI']"/>
+    <Object locatorname="hdlheader" locatortype="xpath" locatorvalue="//h3[text()='HDL']"/>
+    <Object locatorname="waistheader" locatortype="xpath" locatorvalue="//h3[text()='Waist']"/>
+    <Object locatorname="ldlheader" locatortype="xpath" locatorvalue="//h3[text()='LDL']"/>
+    <Object locatorname="bpheader" locatortype="xpath" locatorvalue="//h3[text()='Blood Pressure']"/>
+    <Object locatorname="trygheader" locatortype="xpath" locatorvalue="//h3[text()='Triglycerides']"/>
+    <Object locatorname="pulseheader" locatortype="xpath" locatorvalue="//h3[text()='Pulse']"/>
+    <Object locatorname="glucoseheader" locatortype="xpath" locatorvalue="//h3[text()='Glucose']"/>
+    <Object locatorname="tilecontent" locatortype="xpath" locatorvalue="(//div[@class='content-description truncate-html'])"/>
+  </PageNode>
+
+  <PageNode name="Page_Feedback">
+    <Object locatorname="header" locatortype="xpath" locatorvalue="//h3[@id='feedbackFormLabel']"/>
+    <Object locatorname="subheader" locatortype="xpath" locatorvalue="//h3[@class='main-header']"/>
+    <Object locatorname="contentlabel" locatortype="xpath" locatorvalue="//span[text()='Content']"/>
+    <Object locatorname="designlabel" locatortype="xpath" locatorvalue="//span[text()='Design']"/>
+    <Object locatorname="usablabel" locatortype="xpath" locatorvalue="//span[text()='Usability']"/>
+    <Object locatorname="overallabel" locatortype="xpath" locatorvalue="//span[text()='Overall']"/>
+    <Object locatorname="commentlabel" locatortype="xpath" locatorvalue="//label[text()='Comments:']"/>
+    <Object locatorname="contentexcellentrb" locatortype="css" locatorvalue="[for='contentExcellent']"/>
+    <Object locatorname="designexcellentrb" locatortype="css" locatorvalue="[for='designExcellent']"/>
+    <Object locatorname="usabilityexcellentrb" locatortype="css" locatorvalue="[for='usabilityExcellent']"/>
+    <Object locatorname="overallexcellentrb" locatortype="css" locatorvalue="[for='overallExcellent']"/>
+    <Object locatorname="commenttxtarea" locatortype="xpath" locatorvalue="//textarea[@id='feedbackComments']"/>
+    <Object locatorname="submitbtn" locatortype="xpath" locatorvalue="//button[@id='feedbackSubmit']"/>
+    <Object locatorname="closebtn" locatortype="css" locatorvalue="#feedbackForm [aria-hidden]"/>
+  </PageNode>
+
+  <PageNode name="Page_TermsOfService">
+    <Object locatorname="tosheader" locatortype="xpath" locatorvalue="//div[@class='header-block']"/>
+    <Object locatorname="hthatossubheader" locatortype="css" locatorvalue="[class='col-sm-12 decimals'] h3:nth-of-type(1)"/>
+    <Object locatorname="olhtossubheader" locatortype="xpath" locatorvalue="//strong[.='Agreement with Onlife Health.']"/>
+  </PageNode>
+
+  <PageNode name="CommonTracker">
+    <Object locatorname="trackerheader" locatortype="xpath" locatorvalue="//span[@id='trackerHeader']"/>
+    <Object locatorname="updatebtn" locatortype="id" locatorvalue="track"/>
+    <Object locatorname="historybtn" locatortype="id" locatorvalue="trackerHistoryText"/>
+    <Object locatorname="latestvalheadertext" locatortype="xpath" locatorvalue="(//h2[@class='tracker-heading'])[2]"/>
+    <Object locatorname="historyheadertext" locatortype="xpath" locatorvalue="//div[@id='trackerHistoryContainer']//h2[@class='tracker-heading']"/>
+    
+    <Object locatorname="datehistorycolumnheader" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[1]"/>
+    <!--<Object locatorname="datehistorycolumnvalue" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-date'])[1]"/>-->
+    <!--<Object locatorname="datehistorycolumnvalue2" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-date'])[2]"/>-->
+    <Object locatorname="chartcontainer" locatortype="classname" locatorvalue="highcharts-container"/>
+    <Object locatorname="chart1monthlink" locatortype="id" locatorvalue="filterOneMonth"/>
+    <Object locatorname="chart3monthslink" locatortype="id" locatorvalue="filterThreeMonths"/>
+    <Object locatorname="chart6monthslink" locatortype="id" locatorvalue="filterSixMonths"/>
+    <Object locatorname="chartyeartodatelink" locatortype="id" locatorvalue="filterYear"/>
+    <Object locatorname="chartmorelink" locatortype="id" locatorvalue="filterMore"/>
+    <Object locatorname="latestvaluesheader" locatortype="xpath" locatorvalue="//div[@id='tracker-last-entered']/h2[@class='tracker-heading']"/>
+    <Object locatorname="latestvaluesrow1" locatortype="xpath" locatorvalue="//div[@class='i-block-zero-one'][1]/div[$varinput1]"/>
+    <Object locatorname="latestvaluesrow2" locatortype="xpath" locatorvalue="//div[@class='i-block-zero-one'][1]/div[$varinput1]"/>
+    <Object locatorname="latestvaluesrow3" locatortype="xpath" locatorvalue="//div[@class='i-block-zero-one'][1]/div[$varinput1]"/>
+    <Object locatorname="latestvaluesrow4" locatortype="xpath" locatorvalue="//div[@class='i-block-zero-one'][1]/div[$varinput1]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_WeightTracker">
+    <Object locatorname="weighttracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']//..//a[contains(text(),'Weight')]"/>
+    <Object locatorname="weighttrackerheader" locatortype="xpath" locatorvalue="//span[@id='trackerHeader']"/>
+    <Object locatorname="weighttb" locatortype="css" locatorvalue="[type='number']"/>
+    <Object locatorname="weighthistorycolumnheader" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <Object locatorname="sourcehistorycolumnheader" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[3]"/>
+    <!--<Object locatorname="weighthistorycolumnvalue" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>-->
+    <!--<Object locatorname="sourcehistorycolumnvalue" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[2]"/>-->
+    <Object locatorname="historytableblendeddata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[contains(.,'$varinput2')]/../following-sibling::div//div[@class='tracker-history-description' and contains(.,'$varinput3')]"/>
+    <Object locatorname="historytablenonblendeddata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[@class='tracker-history-description' and contains(.,'$varinput2')]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_BPTracker">
+    <Object locatorname="bptracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']//..//a[contains(text(),'Blood Pressure')]"/>
+    <Object locatorname="systolictb" locatortype="id" locatorvalue="trackerInput-12"/>
+    <Object locatorname="diastolictb" locatortype="id" locatorvalue="trackerInput-13"/>
+    <Object locatorname="sysdiaheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <Object locatorname="sourceheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[3]"/>
+    <Object locatorname="sysdiacolumnvalue" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>
+    <!--<Object locatorname="sysdiacolumnvalue2" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[3]"/>-->
+    <Object locatorname="sourcehistorycolumnvalue" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[2]"/>
+    <Object locatorname="historytabledata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[@class='tracker-history-description' and contains(.,'$varinput2')]"/>
+
+  </PageNode>
+  <PageNode name="Page_StressTracker">
+     <Object locatorname="stresstracker" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']/li[5]/ul[@role='menu']//a[@title='Link to Stress']"/>
+    <Object locatorname="menu_stresstracker" locatortype="xpath" locatorvalue="//div[@class='icon icon-onlife-trackers']/../..//a[contains(text(),'Stress')]"/>
+    <Object locatorname="stressinputslider" locatortype="xpath" locatorvalue="//div[@class='slider-track-high']"/>
+
+    <Object locatorname="stresshistorycolumnheader" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <!--<Object locatorname="stresshistorycolumnvalue" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>-->
+    <Object locatorname="historytabledata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[@class='tracker-history-description' and contains(.,'$varinput2')]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_TobaccoTracker">
+    <Object locatorname="tobaccofreedd" locatortype="id" locatorvalue="isTobaccoFree"/>
+    <Object locatorname="tobtracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']//..//a[contains(text(),'Tobacco')]"/>
+    <Object locatorname="cigtb" locatortype="id" locatorvalue="trackerInput-26"/>
+    <Object locatorname="cigartb" locatortype="id" locatorvalue="trackerInput-27"/>
+    <Object locatorname="chewstb" locatortype="id" locatorvalue="trackerInput-28"/>
+    <Object locatorname="dipstb" locatortype="id" locatorvalue="trackerInput-29"/>
+    <Object locatorname="pipestb" locatortype="id" locatorvalue="trackerInput-30"/>
+    <Object locatorname="cigheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <Object locatorname="cigarheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[3]"/>
+    <Object locatorname="chewsheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[4]"/>
+    <Object locatorname="dipsheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[5]"/>
+    <Object locatorname="pipesheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[6]"/>
+    <!--<Object locatorname="cigcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>-->
+    <!--<Object locatorname="cigarcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[2]"/>-->
+    <!--<Object locatorname="chewscolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[3]"/>-->
+    <!--<Object locatorname="dipscolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[4]"/>-->
+    <!--<Object locatorname="pipescolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[5]"/>-->
+    <Object locatorname="historytabledata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[contains(.,'$varinput2')]/../following-sibling::div/div[contains(.,'$varinput3')]/../following-sibling::div/div[contains(.,'$varinput4')]/../following-sibling::div/div[contains(.,'$varinput5')]/../following-sibling::div/div[@class='tracker-history-description' and contains(.,'$varinput6')]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_CholesterolTracker">
+    <Object locatorname="choltracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']//..//a[contains(text(),'Cholesterol')]"/>
+    <Object locatorname="trygtb" locatortype="id" locatorvalue="trackerInput-15"/>
+    <Object locatorname="hdltb" locatortype="id" locatorvalue="trackerInput-16"/>
+    <Object locatorname="ldltb" locatortype="id" locatorvalue="trackerInput-17"/>
+    <Object locatorname="totcholtb" locatortype="id" locatorvalue="trackerInput-18"/>
+    <Object locatorname="totcholheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <Object locatorname="ldlheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[3]"/>
+    <Object locatorname="hdlheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[4]"/>
+    <Object locatorname="trygheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[5]"/>
+    <Object locatorname="totcholcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>
+    <!--<Object locatorname="totcholcolval1" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[5]"/>-->
+    <Object locatorname="ldlcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[2]"/>
+    <!--<Object locatorname="ldlcolval1" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[6]"/>-->
+    <Object locatorname="hdlcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[3]"/>
+    <!--<Object locatorname="hdlcolval1" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[7]"/>-->
+    <Object locatorname="trygcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[4]"/>
+    <!--<Object locatorname="trygcolval1" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[8]"/>-->
+    <Object locatorname="historytabledata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[contains(.,'$varinput2')]/../following-sibling::div/div[contains(.,'$varinput3')]/../following-sibling::div/div[contains(.,'$varinput4')]/../following-sibling::div//div[@class='tracker-history-description' and contains(.,'$varinput5')]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_PhysActivityTracker">
+    <Object locatorname="patracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']//..//a[contains(text(),'Physical Activity')]"/>
+    <Object locatorname="cardiotb" locatortype="id" locatorvalue="trackerInput-38"/>
+    <Object locatorname="strentrtb" locatortype="id" locatorvalue="trackerInput-39"/>
+    <Object locatorname="stretchtb" locatortype="id" locatorvalue="trackerInput-40"/>
+    <Object locatorname="cardioheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <Object locatorname="strentrheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[3]"/>
+    <Object locatorname="stretchheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[4]"/>
+    <!--<Object locatorname="cardiocolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>-->
+    <!--<Object locatorname="strentrcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[2]"/>-->
+    <!--<Object locatorname="stretchcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[3]"/>-->
+    <Object locatorname="historytabledata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[contains(.,'$varinput2')]/../following-sibling::div/div[contains(.,'$varinput3')]/../following-sibling::div//div[@class='tracker-history-description' and contains(.,'$varinput4')]"/>
+
+  </PageNode>
+  <PageNode name="Page_WaterTracker">
+    <Object locatorname="watertracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']//..//a[contains(text(),'Water')]"/>
+    <Object locatorname="watertb" locatortype="id" locatorvalue="trackerInput-31"/>
+    <Object locatorname="waterheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <!--<Object locatorname="watercolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>-->
+    <Object locatorname="historytabledata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[@class='tracker-history-description' and contains(.,'$varinput2')]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_SleepTracker">
+    <Object locatorname="sltracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']//..//a[contains(text(),'Sleep')]"/>
+    <Object locatorname="sleeptb" locatortype="id" locatorvalue="trackerInput-69"/>
+    <Object locatorname="sleepheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <!--<Object locatorname="sleepcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>-->
+    <Object locatorname="historytabledata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[@class='tracker-history-description' and contains(.,'$varinput2')]"/>
+
+    
+  </PageNode>
+
+  <PageNode name="Page_OralHealthTracker">
+    <Object locatorname="oralhlthtracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']//..//a[contains(text(),'Oral Health')]"/>
+    <Object locatorname="brushtb" locatortype="id" locatorvalue="trackerInput-72"/>
+    <Object locatorname="flosstb" locatortype="id" locatorvalue="trackerInput-73"/>
+    <Object locatorname="brushingheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <Object locatorname="flossingheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[3]"/>
+    <!--<Object locatorname="brushcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>-->
+    <!--<Object locatorname="flosscolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[2]"/>-->
+    <Object locatorname="historytabledata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[contains(.,'$varinput2')]/../following-sibling::div//div[@class='tracker-history-description' and contains(.,'$varinput3')]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_NutritionTracker">
+    <Object locatorname="nutracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']//..//a[contains(text(),'Nutrition')]"/>
+    <Object locatorname="dairytb" locatortype="xpath" locatorvalue="//input[@data-label='Tracker_Dairy']"/>
+    <Object locatorname="fruitstb" locatortype="xpath" locatorvalue="//input[@data-label='Tracker_Fruits']"/>
+    <Object locatorname="vegtb" locatortype="xpath" locatorvalue="//input[@data-label='Tracker_Vegetables']"/>
+    <Object locatorname="grainstb" locatortype="xpath" locatorvalue="//input[@data-label='Tracker_WholeGrains']"/>
+    <Object locatorname="proteintb" locatortype="xpath" locatorvalue="//input[@data-label='Tracker_ProteinFoods']"/>
+    <Object locatorname="fruitsheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[2]"/>
+    <Object locatorname="vegheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[3]"/>
+    <Object locatorname="dairyheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[4]"/>
+    <Object locatorname="grainsheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[5]"/>
+    <Object locatorname="protheadertxt" locatortype="xpath" locatorvalue="(//h3[@class='tracker-history-heading'])[6]"/>
+    <!--<Object locatorname="vegcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[1]"/>-->
+    <!--<Object locatorname="vegcolval1" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[6]"/>-->
+    <!--<Object locatorname="fruitscolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[2]"/>-->
+    <!--<Object locatorname="fruitscolval1" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[7]"/>-->
+    <!--<Object locatorname="dairycolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[3]"/>-->
+    <!--<Object locatorname="dairycolval1" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[8]"/>-->
+    <!--<Object locatorname="grainscolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[4]"/>-->
+    <!--<Object locatorname="grainscolval1" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[9]"/>-->
+    <!--<Object locatorname="protcolval" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[5]"/>-->
+    <!--<Object locatorname="protcolval1" locatortype="xpath" locatorvalue="(//div[@class='tracker-history-description'])[10]"/>-->
+    <Object locatorname="historytabledata" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/../following-sibling::div//div[contains(.,'$varinput2')]/../following-sibling::div/div[contains(.,'$varinput3')]/../following-sibling::div/div[contains(.,'$varinput4')]/../following-sibling::div/div[contains(.,'$varinput5')]/../following-sibling::div/div[@class='tracker-history-description' and contains(.,'$varinput6')]"/>
+
+  </PageNode>
+
+
+  <PageNode name="Page_WeightProgressCheckIn">
+    <Object locatorname="menuweightmanagementlnk" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Progress Check-in']//..//a[contains(text(),'Weight')]"/>
+    <Object locatorname="height_errormessage" locatortype="xpath" locatorvalue="//ul[@id='ulMessageList']/li[contains(text(),'Feet and Inches')]"/>
+    <Object locatorname="eating_habits_errormessage" locatortype="xpath" locatorvalue="//ul[@id='ulMessageList']/li[contains(text(),'eating habits')]"/>
+    <Object locatorname="moderate_activity_errormessage" locatortype="xpath" locatorvalue=" //ul[@id='ulMessageList']/li[contains(text(),'Moderate Activity you get')]"/>
+    <Object locatorname="vigorous_activity_errormessage" locatortype="xpath" locatorvalue=" //ul[@id='ulMessageList']/li[contains(text(),'Vigorous Activity you get')]"/>
+    <Object locatorname="current_weight_errormessage" locatortype="xpath" locatorvalue="//ul[@id='ulMessageList']/li[contains(text(),'your current weight')]"/>
+    <Object locatorname="manage_weight_errormessage" locatortype="xpath" locatorvalue="//ul[@id='ulMessageList']/li[contains(text(),'managing your weight more effectively')]"/>
+
+    <Object locatorname="heightfeettxt" locatortype="name" locatorvalue="Feet"/>
+    <Object locatorname="heightinchestxt" locatortype="name" locatorvalue="Inches"/>
+    <Object locatorname="weightpoundstxt" locatortype="name" locatorvalue="Weight"/>
+    <Object locatorname="waistinchestxt" locatortype="name" locatorvalue="WaistInches"/>
+    <Object locatorname="dietarylotsofimprovementradio" locatortype="xpath" locatorvalue=".//input[@name='EatingHabits' and @value='3']"/>
+    <Object locatorname="moderatehourstxt" locatortype="name" locatorvalue="ExerModH"/>
+    <Object locatorname="moderateminstxt" locatortype="name" locatorvalue="ExerModM"/>
+    <Object locatorname="vigoroushourstxt" locatortype="name" locatorvalue="ExerVigH"/>
+    <Object locatorname="vigorousmintxt" locatortype="name" locatorvalue="ExerVigM"/>
+    <Object locatorname="currentloseweightradio" locatortype="xpath" locatorvalue=".//*[@name='BWFeel3' and @value='2']"/>
+    <Object locatorname="manageweightyesradio" locatortype="xpath" locatorvalue=".//*[@name='SOCWeightA' and @value='1']"/>
+    <Object locatorname="beginrightnowradio" locatortype="xpath" locatorvalue=".//*[@name='SOCWeightB' and @value='1']"/>
+    <Object locatorname="confidentyesradio" locatortype="xpath" locatorvalue=".//*[@name='SEWeightHi' and @value='1']"/>
+    <Object locatorname="dietschallengecheckbx" locatortype="name" locatorvalue="BarOWtDiet"/>
+
+  </PageNode>
+  <PageNode name="CommonCourses">
+    <Object locatorname="courseheader" locatortype="xpath" locatorvalue="//span[@id='coursesHeader']"/>
+    <Object locatorname="startlessonbtn" locatortype="id" locatorvalue="FirstLesson"/>
+    <Object locatorname="nextlessonbtn" locatortype="id" locatorvalue="next-lesson"/>
+    <Object locatorname="finishlessonbtn" locatortype="id" locatorvalue="finish-lesson"/>
+    <Object locatorname="lesson1link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']"/>
+    <Object locatorname="startlesson_btn" locatortype="id" locatorvalue="FirstLesson"/>
+    <Object locatorname="clickherelink" locatortype="linktext" locatorvalue="Click here"/>
+    <Object locatorname="course_confirm_popup_text" locatortype="xpath" locatorvalue="//div[@class='modal-body']/p[contains(text(),'You can re-take a course anytime by accessing it')]"/>
+    <Object locatorname="course_confirm_nothankyou_btn" locatortype="xpath" locatorvalue="//button[text()='No Thank You']"/>
+    <Object locatorname="course_confirm_yesiamsure_btn" locatortype="id" locatorvalue="complete-course"/>
+  </PageNode>
+
+  <PageNode name="Page_WeightManagementCourse">
+    <Object locatorname="menuweightmanagementlnk" locatortype="xpath" locatorvalue="//div[@class='icon icon-onlife-courses']/../..//a[contains(text(),'Weight Management')]"/>
+
+    
+    <!--<Object locatorname="menuweightmanagementlnk" locatortype="xpath" locatorvalue=".//*[@id='MenuBox_menuDashboard2']//div[contains(@class,'icon icon-onlife-courses')]/../..//a[contains(text(),'Weight Management')]"/>-->
+    <Object locatorname="weightcourseheader" locatortype="id" locatorvalue="coursesHeader"/>
+    <Object locatorname="weightcourse_overviewheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3)[1]"/>
+
+    <Object locatorname="weightcourse_startlesson_btn" locatortype="id" locatorvalue="FirstLesson"/>
+    <Object locatorname="courseoverviewheader" locatortype="xpath" locatorvalue="//div[@id='course-overview-content']/h2"/>
+
+    <Object locatorname="weightcourse_nextlesson_btn" locatortype="id" locatorvalue="next-lesson"/>
+    <Object locatorname="weightcourse_finishlesson_btn" locatortype="id" locatorvalue="finish-lesson"/>
+    <Object locatorname="weightcourse_pagesheader" locatortype="xpath" locatorvalue="(//div[contains(@class,'olh-content-section')]//h3[contains(@class,'constant-text-blue')])[1]"/>
+
+    <Object locatorname="lesson1link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']"/>
+    <Object locatorname="lesson2link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']"/>
+    <Object locatorname="lesson3link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']"/>
+    <Object locatorname="lesson4link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']"/>
+    <Object locatorname="lesson5link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']"/>
+    <Object locatorname="lesson6link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']"/>
+    <Object locatorname="lesson7link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']"/>
+    <Object locatorname="lesson8link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']"/>
+    <Object locatorname="lesson9link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']"/>
+    <Object locatorname="lesson10link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']"/>
+    <Object locatorname="lesson11link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']"/>
+    <Object locatorname="lesson12link" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']"/>
+
+    <Object locatorname="firstlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='1']/..//div[2]"/>
+    <Object locatorname="secondlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='2']/..//div[2]"/>
+    <Object locatorname="thirdlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='3']/..//div[2]"/>
+    <Object locatorname="fourthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='4']/..//div[2]"/>
+    <Object locatorname="fifthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='5']/..//div[2]"/>
+    <Object locatorname="sixthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='6']/..//div[2]"/>
+    <Object locatorname="seventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='7']/..//div[2]"/>
+    <Object locatorname="eighthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='8']/..//div[2]"/>
+    <Object locatorname="ninthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='9']/..//div[2]"/>
+    <Object locatorname="tenthlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='10']/..//div[2]"/>
+    <Object locatorname="eleventhlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='11']/..//div[2]"/>
+    <Object locatorname="twelvethlessontext" locatortype="xpath" locatorvalue="//div[contains(@class,'lesson-count') and text()='12']/..//div[2]"/>
+
+    <Object locatorname="course_confirm_popup_text" locatortype="xpath" locatorvalue="//div[@class='modal-body']/p[contains(text(),'You can re-take a course anytime by accessing it')]"/>
+    <Object locatorname="course_confirm_nothankyou_btn" locatortype="xpath" locatorvalue="//button[text()='No Thank You']"/>
+    <Object locatorname="course_confirm_yesiamsure_btn" locatortype="id" locatorvalue="complete-course"/>
+
+
+  </PageNode>
+  <PageNode name="Page_HealthContent">
+    <Object locatorname="leftmenu_resources_healthcontent_lnk" locatortype="xpath" locatorvalue="//ul[@role='menu']//a[@title='Link to Health Information']"/>
+    <Object locatorname="healthcontent_header" locatortype="xpath" locatorvalue="//div[@id='article-header']/h1[contains(text(),'Health Content')]"/>
+    <Object locatorname="healthcontent_tab" locatortype="xpath" locatorvalue="//ul[@id='myTab']//a[@href='#browse-articles']"/>
+    <Object locatorname="healthcontent_page_text" locatortype="xpath" locatorvalue="/html//h1[@id='HwContentTitle']"/>
+  </PageNode>
+
+  <PageNode name="Page_SymptomChecker">
+    <Object locatorname="leftmenu_resources_symptomchecker_lnk" locatortype="xpath" locatorvalue="//a[@title='Link to Symptom Checker']"/>
+    <Object locatorname="symptomchecker_tab" locatortype="xpath" locatorvalue="//ul[@id='myTab']//a[@href='#symptom-checker']"/>
+    <Object locatorname="symptomcheckert_page_text" locatortype="xpath" locatorvalue="/html//h2[@id='PageOneLead']"/>
+
+  </PageNode>
+  <PageNode name="Page_WellBeingContent">
+    <Object locatorname="wellbeingcontent_tab" locatortype="xpath" locatorvalue="//ul[@id='myTab']//a[@href='#wb-content']"/>
+    <Object locatorname="leftmenu_resources_wellbeingcontent_lnk" locatortype="xpath" locatorvalue="//a[@title='Link to Well-being Content']"/>
+    <Object locatorname="wellbeing_page_text" locatortype="xpath" locatorvalue="//div[@id='wb-content']//h2[@class='category-title']"/>
+  </PageNode>
+
+  <PageNode name="Page_FamilyContent">
+    <Object locatorname="familycontent_tab" locatortype="xpath" locatorvalue="//ul[@id='myTab']//a[@href='#family-content']"/>
+    <Object locatorname="leftmenu_resources_FamilyContent_lnk" locatortype="xpath" locatorvalue="//a[@title='Link to Family Content']"/>
+    <Object locatorname="family_page_text" locatortype="xpath" locatorvalue="//div[@id='family-content']//h2[@class='category-title']"/>
+  </PageNode>
+  <PageNode name="Page_Assessments">
+    <Object locatorname="leftmenu_resources_assessments_lnk" locatortype="xpath" locatorvalue="//a[@title='Link to Recommended Content']"/>
+    <Object locatorname="family_page_text" locatortype="xpath" locatorvalue="//div[@id='family-content']//h2[@class='category-title']"/>
+  </PageNode>
+
+  <PageNode name="Page_Reports">
+    <Object locatorname="leftmenu_resources_reports_lnk" locatortype="xpath" locatorvalue="//a[@title='Link to My Reports']"/>
+    <Object locatorname="reportpage_header" locatortype="xpath" locatorvalue="//h1[.='Your Reports']"/>
+
+  </PageNode>
+  <PageNode name="Page_PHR">
+    <Object locatorname="leftmenu_resources_phr_lnk" locatortype="xpath" locatorvalue="//a[@title='Link to Your Personal Health Record (PHR)']"/>
+    <Object locatorname="phr_page_text" locatortype="xpath" locatorvalue="//div[@id='family-content']//h2[@class='category-title']"/>
+    <Object locatorname="phr_page_header" locatortype="xpath" locatorvalue="//h1[.='Personal Health Record']"/>
+    <Object locatorname="phr_headlink_MedicalInformation" locatortype="xpath" locatorvalue="//a[@id='MedicalInformation']/span"/>
+    <Object locatorname="phr_controldiv_MedicalInformation" locatortype="xpath" locatorvalue="//div[@id='PHR_ControlDIV']/h2[.='Medical Information']"/>
+  </PageNode>
+
+
+  <PageNode name="Common">
+    <Object locatorname="viewall" locatortype="css" locatorvalue="[href='/Notification']"/>
+    <Object locatorname="bellicon" locatortype="xpath" locatorvalue="//a[@id='notifications']/i[@class='icon icon-onlife-message']"/>
+    <Object locatorname="finwellbeignmenuitem" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Financial Well-being']"/>
+    <Object locatorname="pointslbl" locatortype="css" locatorvalue=".olh-actionbar-amount.cursor-pointer"/>
+    <Object locatorname="menu_challenges_lnk" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to My Challenges']"/>
+    <Object locatorname="learnmore_lnktext" locatortype="linktext" locatorvalue="Learn More"/>
+    <Object locatorname="connectionlnk" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Connections']"/>
+    <Object locatorname="reports/assessments_page_text" locatortype="xpath" locatorvalue="//div[@class='olh-content']//strong"/>
+    <Object locatorname="hemmenu" locatortype="id" locatorvalue="showLeftMenu"/>
+    <Object locatorname="closehammenu" locatortype="id" locatorvalue="hideLeftMenu"/>
+    <Object locatorname="closeleftmenu" locatortype="xpath" locatorvalue="//div[@id='hideLeftMenu']"/>
+    <Object locatorname="devicesandappslbl" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to ']"/>
+    <Object locatorname="addremovedevicelbl" locatortype="css" locatorvalue=".olh-actionbar-add-remove"/>
+
+    <Object locatorname="tracker" locatortype="xpath" locatorvalue="//a[@title='Link to Tracker']"/>
+    <Object locatorname="menugoallnk" locatortype="css" locatorvalue="[title='Link to Goals']"/>
+    <Object locatorname="menuprogresscheckinlnk" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Progress Check-in']"/>
+    <!--<Object locatorname="menucourselnk" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Courses']"/>-->
+    <Object locatorname="menucourselnk" locatortype="xpath" locatorvalue="//div[@class='icon icon-onlife-courses']/.."/>
+    <Object locatorname="menu_resources_lnk" locatortype="xpath" locatorvalue="//ul[@id='olhSlideInMenu']//a[@title='Link to Health Resources']"/>
+    <Object locatorname="avataricon" locatortype="xpath" locatorvalue=".//a[@id='userActions']/img"/>
+    <Object locatorname="myjourneylnk" locatortype="xpath" locatorvalue="//a[@href='/Profile/MyJourney']"/>
+    <Object locatorname="logoutlnk" locatortype="xpath" locatorvalue="//a[@href='/Logout.aspx']"/>
+    <Object locatorname="settingslink" locatortype="xpath" locatorvalue="//a[@href='/Profile/MySettings']"/>
+    <Object locatorname="myprofilelink" locatortype="xpath" locatorvalue="//a[@href='/Profile/MyProfile']"/>
+    
+    <Object locatorname="greytilesection" locatortype="xpath" locatorvalue="//div[3]/div[@class='row']"/>
+    <Object locatorname="greytilesectiondg" locatortype="css" locatorvalue=".olh-actionbar-block"/>
+
+    <Object locatorname="hatile" locatortype="xpath" locatorvalue="//div[3]/div[@class='row']/div[1]"/>
+    <Object locatorname="hatitle" locatortype="xpath" locatorvalue="//h3[text()='HEALTH ASSESSMENT']"/>
+    <!--<Object locatorname="hapercent" locatortype="xpath" locatorvalue="(//div[@class='olh-actionbar-content'])[1]"/>-->
+    <Object locatorname="hapercent" locatortype="css" locatorvalue="[class='col-sm-4 olh-actionbar-border']:nth-of-type(1) .olh-actionbar-amount"/>
+    <Object locatorname="startlink" locatortype="xpath" locatorvalue="//a[@data-navigate='StartHA']"/>
+    <Object locatorname="devicetile" locatortype="xpath" locatorvalue="//div[3]/div[@class='row']/div[2]"/>
+    <Object locatorname="devicetitle" locatortype="xpath" locatorvalue="(//h3[@class='olh-actionbar-heading'])[2]"/>
+    <!--<Object locatorname="devicecount" locatortype="xpath" locatorvalue="(//div[@class='olh-actionbar-content'])[2]"/>-->
+    <Object locatorname="devicecount" locatortype="xpath" locatorvalue="//div[@class='layer olh-actionbar-block']//span[@data-navigate='ConnectedDeviceAndApps' and contains(text(),$varinput1)]"/>
+    <Object locatorname="addremlnk" locatortype="css" locatorvalue=".olh-actionbar-add-remove"/>
+    <Object locatorname="viewactlnk" locatortype="xpath" locatorvalue="//a[@data-navigate='FitnessActivity']"/>
+    <Object locatorname="viewnutrlnk" locatortype="xpath" locatorvalue="//a[@data-navigate='NutritionActivity']"/>
+    <Object locatorname="pointstile" locatortype="xpath" locatorvalue="//div[3]/div[@class='row']/div[3]"/>
+    <Object locatorname="incentivetype" locatortype="xpath" locatorvalue="(//h3[@class='olh-actionbar-heading'])[3]"/>
+    <Object locatorname="incentivevalue" locatortype="css" locatorvalue=".olh-actionbar-amount.cursor-pointer"/>
+    <Object locatorname="historylink" locatortype="xpath" locatorvalue="//a[contains(text(),'History')]"/>
+    <Object locatorname="earnlink" locatortype="xpath" locatorvalue="//a[@data-navigate='PointsEarn']"/>
+    <Object locatorname="mypointslink" locatortype="xpath" locatorvalue="//a[contains(text(),'My Points')]"/>
+    <Object locatorname="incentivehistorylink" locatortype="xpath" locatorvalue="//a[contains(text(),'Incentive History')]"/>
+    <Object locatorname="eligibleactivitylink" locatortype="xpath" locatorvalue="//a[contains(text(),'Eligible Activities')]"/>
+    <Object locatorname="redeemlink" locatortype="xpath" locatorvalue="//a[contains(text(),'Redeem')]"/>
+    <Object locatorname="myincentivestile" locatortype="xpath" locatorvalue="//h3[contains(text(),'MY INCENTIVES')]"/>
+    <Object locatorname="mydoctortile" locatortype="xpath" locatorvalue="//h3[contains(text(),'MY DOCTOR')]"/>
+    <Object locatorname="mydoctoravltxt" locatortype="css" locatorvalue="[class='col-sm-4 olh-actionbar-border full-width']:nth-of-type(2) .olh-actionbar-content"/>
+    <Object locatorname="weheretile" locatortype="xpath" locatorvalue="//h3[contains(text(),'RIGHT HERE')]"/>
+    <Object locatorname="weheremobno" locatortype="css" locatorvalue="[class='col-sm-4 olh-actionbar-border full-width']:nth-of-type(3) .olh-actionbar-content"/>
+    <Object locatorname="weherefeedback" locatortype="css" locatorvalue="[data-navigate='Feedback']"/>
+    
+    <Object locatorname="coachicon" locatortype="xpath" locatorvalue="//a[@href='/MessageCenter']"/>
+    <Object locatorname="notificationicon" locatortype="id" locatorvalue="notifications"/>
+    <Object locatorname="contactussection" locatortype="xpath" locatorvalue="//div[@class='col-sm-3 to-help']"/>
+    <Object locatorname="heretohelp" locatortype="xpath" locatorvalue="(//h3[@class='heading-help'])[1]"/>
+    <Object locatorname="contactuslink" locatortype="classname" locatorvalue="contact-us"/>
+    <Object locatorname="contactnum" locatortype="xpath" locatorvalue="(//h3[@class='heading-help'])[2]"/>
+    <Object locatorname="fdashboardlnk" locatortype="xpath" locatorvalue="//a[text()='Dashboard']"/>
+    <Object locatorname="fclintlnk" locatortype="xpath" locatorvalue="//a[text()='$varinput1']"/>
+    <Object locatorname="ftrackerlnk" locatortype="xpath" locatorvalue="//a[text()='Trackers']"/>
+    <Object locatorname="fmyhealthlnk" locatortype="xpath" locatorvalue="//a[text()='My Health']"/>
+    <Object locatorname="fmycompanylnk" locatortype="xpath" locatorvalue="//a[text()='HealthTrust']"/>
+    <Object locatorname="fhiparightslnk" locatortype="xpath" locatorvalue="//a[text()='HIPAA Member Rights']"/>
+    <Object locatorname="fprivacypollnk" locatortype="xpath" locatorvalue="//a[text()='Privacy Policy']"/>
+    <Object locatorname="ftoslnk" locatortype="xpath" locatorvalue="//a[text()='Terms of Service']"/>
+    <Object locatorname="ffeedbacklnk" locatortype="xpath" locatorvalue="//a[text()='Feedback']"/>
+    <Object locatorname="fcertificatelnk" locatortype="xpath" locatorvalue="//a[text()='Certificates']"/>
+    <Object locatorname="trackerlmheader" locatortype="xpath" locatorvalue="//div[@class='olh-heading']"/>
+    <Object locatorname="trackerlmheader" locatortype="xpath" locatorvalue="//div[@class='olh-heading']"/>
+    <Object locatorname="calenderdatepicker" locatortype="id" locatorvalue="DataPointDate"/>
+  
+    <Object locatorname="marketingtilenext_btn" locatortype="xpath" locatorvalue="//a[@class='jcarousel-control-next']"/>
+    <Object locatorname="downloadapp_btn" locatortype="xpath" locatorvalue="//a[@href='/MobileRegistration/UserLog']"/>
+    <Object locatorname="tosagree_btn" locatortype="xpath" locatorvalue="//button[@class='btn btn-primary agree-btn']"/>
+
+    <Object locatorname="sharingmenu" locatortype="xpath" locatorvalue="//div/a/span[text()='$varinput1']/../div/div[@class='connection-nav-icon']"/>
+    <Object locatorname="concircleoptn" locatortype="xpath" locatorvalue="//div/a/span[text()='$varinput1']/../div/div[@class='connection-nav-icon']/../ul/li/span[contains(@id,'$varinput2')]"/>
+
+  </PageNode>
+
+  <PageNode name="Page_Certificates">
+    <Object locatorname="certificates_header" locatortype="xpath" locatorvalue="//h1[.='Your Activities']"/>
+    <Object locatorname="certificates_txt" locatortype="xpath" locatorvalue="//p[contains(text(),'completion certificates')]"/>
+  </PageNode>
+    
+  <PageNode name="CommonProgressCheckIn">
+    <Object locatorname="frametitle" locatortype="xpath" locatorvalue=".//*[@id='modalPopup']//h3"/>
+    <Object locatorname="progresscheckinframeclosebtn" locatortype="xpath" locatorvalue="//div[@id='modalPopup']//button[@type='button']"/>
+    <Object locatorname="framecancelbtn" locatortype="xpath" locatorvalue=".//*[@id='OnlifeCompleteHRAButton']/span"/>
+    <Object locatorname="framecontinuebtn" locatortype="xpath" locatorvalue=".//*[@id='OnlifenextPageButton']/span[.='Continue']"/>
+    <Object locatorname="ReportHeadertext" locatortype="xpath" locatorvalue="//div[@class='heading-blue']//h2"/>
+    <Object locatorname="ReportIconProgressCheckInName" locatortype="css" locatorvalue=".color-background .text-center"/>
+    <Object locatorname="ReportCoachingProgramLink" locatortype="xpath" locatorvalue="//span[@class='box-links']/a[text()='Coaching Program']"/>
+    <Object locatorname="ReportTrackProgressLink" locatortype="xpath" locatorvalue="//span[@class='box-links']/a[text()='Track']"/>
+    <Object locatorname="ReportCourseLink" locatortype="xpath" locatorvalue="//span[@class='box-links']/a[text()='Course']"/>
+    <Object locatorname="ReportHealthInformationLink" locatortype="xpath" locatorvalue="//span[@class='box-links']/a[text()='Health Information']"/>
+    <Object locatorname="ReportReturnToDashboardLink" locatortype="xpath" locatorvalue="//div[@class='form-group']/a[text()='RETURN TO DASHBOARD']"/>
+  </PageNode>
+
+  <PageNode name="Page_Incentive">
+    <Object locatorname="incentiveheader" locatortype="xpath" locatorvalue="//span[@id='incentiveHeader']"/>
+    <Object locatorname="pointsmessagepara" locatortype="xpath" locatorvalue="//div[@id='incentiveManagement']//p/b"/>
+    <Object locatorname="incometaxmessagepara" locatortype="xpath" locatorvalue="//div[@id='incentiveManagement']//p/i"/>
+    <Object locatorname="programcycledurationtxt" locatortype="xpath" locatorvalue="(//h4[@class='incentives-heading'])[1]"/>
+    <Object locatorname="programcyclevalue" locatortype="xpath" locatorvalue="(//h4[@class='incentives-heading'])[1]/../p"/>
+    <Object locatorname="reportingperiodtxt" locatortype="xpath" locatorvalue="(//h4[@class='incentives-heading'])[2]"/>
+    <Object locatorname="reportingperiodvalue" locatortype="xpath" locatorvalue="(//h4[@class='incentives-heading'])[2]/../p"/>
+    <Object locatorname="historymonthlytabbtn" locatortype="xpath" locatorvalue="//a[@id='btnViewMonth']"/>
+    <Object locatorname="historyquaterlytabbtn" locatortype="xpath" locatorvalue="//a[@id='btnViewQuater']"/>
+    <Object locatorname="historyyearlytabbtn" locatortype="xpath" locatorvalue="//a[@id='btnViewYear']"/>
+    <Object locatorname="historycustomtabbtn" locatortype="xpath" locatorvalue="//a[@id='btnViewCustom']"/>
+    <Object locatorname="historyexporttabbtn" locatortype="xpath" locatorvalue="//li[@id='export']/a"/>
+
+    <Object locatorname="historyyeartxt" locatortype="xpath" locatorvalue="//div[@class='history-year']"/>
+    <Object locatorname="historymonthtxt" locatortype="xpath" locatorvalue="//div[@class='history-month']"/>
+    <Object locatorname="historydaytxt" locatortype="xpath" locatorvalue="//div[@class='history-day']"/>
+    <Object locatorname="historyitem" locatortype="xpath" locatorvalue="(//div[contains(text(),'$varinput1')]/../..//span[text()='$varinput2']/..//span[text()='$varinput3'])[$varinput4]"/>
+    <Object locatorname="historybacktotoplink" locatortype="xpath" locatorvalue="//a[@id='bt']"/>
+
+    <Object locatorname="eligibleactivities_notcompletedwithactivitybtn" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/ancestor::div[contains(@class,'panel-default activity')]//div[text()='$varinput2']/following::div[text()='$varinput3']/ancestor::div[@class='activity-details']//a[contains(text(),'$varinput4')]/preceding::p[contains(text(),'$varinput5')]"/>
+    <Object locatorname="eligibleactivities_notcompletedwithoutactivitybtn" locatortype="xpath" locatorvalue="//div[contains(text(),'$varinput1')]/ancestor::div[contains(@class,'panel-default activity')]//div[text()='$varinput2']/following::div[text()='$varinput3']/ancestor::div[@class='activity-details']//p[contains(text(),'$varinput4')]"/>
+    <Object locatorname="eligibleactivities_completedwithactivitybtn" locatortype="xpath" locatorvalue="//div[text()='$varinput1']/ancestor::div[contains(@class,'panel-default activity')]//div[text()='$varinput2']/following::div[contains(@class,'incentives-icon')]/ancestor::div[@class='activity-details']//h3[contains(text(),'$varinput3')]/following::a[contains(text(),'$varinput4')]/preceding::p[contains(text(),'$varinput5')]"/>
+    <Object locatorname="eligibleactivities_completedwithoutactivitybtn" locatortype="xpath" locatorvalue="//div[contains(text()='$varinput1')]/ancestor::div[contains(@class,'panel-default activity')]//div[text()='$varinput2']/following::div[contains(@class,'incentives-icon')]/ancestor::div[@class='activity-details']//h3[contains(text(),'$varinput3')]/following::p[contains(text(),'$varinput4')]"/>
+
+  </PageNode>
+
+</ObjectRepository>

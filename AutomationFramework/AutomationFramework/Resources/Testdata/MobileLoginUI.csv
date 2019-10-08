@@ -1,0 +1,12 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText
+Page_SkipIntro,elements,Skip Intro button,skipintrolnk,
+Page_SkipIntro,elements,Hello text label,hellotxt,
+Page_SkipIntro,elements,Hola text label,holatxt,
+Page_SkipIntro,elements,Welcome Button,welcomebtn,
+
+Page_MLogin,elements,Username TextBox,usernametxt,
+Page_MLogin,elements,Password TextBox,passwordtxt,
+Page_MLogin,elements,Login Button,loginbtn,
+Page_MLogin,elements,Forgot Username Link,frgtunlnk,
+Page_MLogin,elements,Forgot Password Link,frgtpwdlnk,
+Page_MLogin,elements,New User Registration Button,registrationbtn,

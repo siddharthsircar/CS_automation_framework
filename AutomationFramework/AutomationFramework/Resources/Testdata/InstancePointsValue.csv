@@ -1,0 +1,56 @@
+ClientName,ClassName,Category,InstancePointsValue
+health trust,Common,Tracker,2
+health trust,Common,ProgressCheckIn,5
+health trust,Common,Course,15
+health trust,Common,ContactHealthCoach,15
+health trust,Common,ConnectDevice,5
+health trust,Common,HA,0
+health trust,Common,JoinChallenge,5
+
+meabt,Common,Tracker,2
+meabt,Common,ProgressCheckIn,5
+meabt,Common,Course,15
+meabt,Common,ContactHealthCoach,0
+meabt,Common,Device,0
+meabt,Common,HA,25
+meabt,Common,JoinChallenge,0
+
+;dollar general,Common,Tracker,2
+;dollar general,Common,ProgressCheckIn,0
+;dollar general,Common,Course,50
+;dollar general,Common,ContactHealthCoach,0
+;dollar general,Common,Device,0
+;dollar general,Common,HA,0
+;dollar general,Common,JoinChallenge,0
+
+onlife health,Common,Tracker,5
+onlife health,Common,ProgressCheckIn,0
+onlife health,Common,Course,25
+onlife health,Common,ContactHealthCoach,0
+onlife health,Common,Device,0
+onlife health,Common,HA,0
+onlife health,Common,JoinChallenge,0
+
+group 44,Common,Tracker,5
+group 44,Common,ProgressCheckIn,0
+group 44,Common,Course,25
+group 44,Common,ContactHealthCoach,0
+group 44,Common,Device,0
+group 44,Common,HA,0
+group 44,Common,JoinChallenge,0
+
+arc,Common,Tracker,10
+arc,Common,ProgressCheckIn,25
+arc,Common,Course,25
+arc,Common,ContactHealthCoach,0
+arc,Common,Device,25
+arc,Common,HA,50
+arc,Common,JoinChallenge,0
+
+nucor,Common,Tracker,5
+nucor,Common,ProgressCheckIn,25
+nucor,Common,Course,100
+nucor,Common,ContactHealthCoach,100
+nucor,Common,Device,0
+nucor,Common,HA,0
+nucor,Common,JoinChallenge,0

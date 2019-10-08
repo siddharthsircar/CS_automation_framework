@@ -1,0 +1,97 @@
+ClassName,Category,ElementName,LocatorName,InpuData
+Registration,userdata,First Name Field,fntxtbx,Cornell
+Registration,userdata,Last Name Field,lntxtbx,Rojas
+Registration,userdata,DOB Field,dobcalendar,6/3/1989
+Registration,userdata,Zip Field,ziptxtbx,02491
+Registration,userdata,NTID Field,ntidtxtbx,
+Registration,userdata,SSN Field,ssntxtbx,
+
+Registration,invaliduserdata,First Name Field,fntxtbx,John
+Registration,invaliduserdata,Last Name Field,lntxtbx,Doe
+Registration,invaliduserdata,DOB Field,dobcalendar,1/2/1999
+Registration,invaliduserdata,Zip Field,ziptxtbx,12345
+
+MobileWeightTracker,weightdata,Weight Text Box,weight_inputbx,200
+
+MobileBPTracker,bpdata,Systolic Text Box,sys_inputbx,120
+MobileBPTracker,bpdata,diastolic Text box,dia_inputbx,80
+
+Page_StressTracker,stressdata,Quite a bit Stress,stressinputslider,Quite a bit
+Page_StressTracker,stressdata,A little bit Stress,stressinputslider,A little bit
+Page_StressTracker,stressdata,A lot Stress,stressinputslider,A lot
+
+Page_TobaccoTracker,tobdata,Cigarettes Textbox,cigtb,10
+Page_TobaccoTracker,tobdata,Cigars Textbox,cigartb,5
+Page_TobaccoTracker,tobdata,Chews Textbox,chewstb,1
+Page_TobaccoTracker,tobdata,Dips Textbox,dipstb,2
+Page_TobaccoTracker,tobdata,Pipes Textbox,pipestb,3
+
+Page_CholesterolTracker,choldata,Total Cholesterol Textbox,totcholtb,100
+Page_CholesterolTracker,choldata,LDL Textbox,ldltb,25
+Page_CholesterolTracker,choldata,HDL Textbox,hdltb,75
+Page_CholesterolTracker,choldata,Tryglycerides Textbox,trygtb,100
+
+Page_PhysActivityTracker,padata,Cardio Textbox,cardiotb,25
+Page_PhysActivityTracker,padata,Strength Training Textbox,strentrtb,30
+Page_PhysActivityTracker,padata,Stretching Textbox,stretchtb,15
+
+Page_WaterTracker,waterdata,Water Textbox,watertb,20
+
+Page_SleepTracker,sleepdata,Sleep Textbox,sleeptb,6
+
+Page_OralHealthTracker,oraldata,Brushing Textbox,brushtb,1
+Page_OralHealthTracker,oraldata,Flossing Textbox,flosstb,2
+
+Page_NutritionTracker,nutdata,Fruits Textbox,fruitstb,5
+Page_NutritionTracker,nutdata,Vegetable Textbox,vegtb,6
+Page_NutritionTracker,nutdata,Dairy Textbox,dairytb,7
+Page_NutritionTracker,nutdata,Whole Grains Textbox,grainstb,8
+Page_NutritionTracker,nutdata,Protein Textbox,proteintb,9
+
+Page_MaintainWeightGoal,weightgoaldata,Weight Data,weighttb,180
+
+Page_MaintainTobaccoFreeStatusGoal,tobaccofreedata,Days Data,daysquittb,60
+
+Page_ImproveFitnessLevelGoal,currentstatus,CurrentCardioValue,currentcardiostatus,150
+Page_ImproveFitnessLevelGoal,currentstatus,CurrentStrengthValue,currentstrengthstatus,3
+Page_ImproveFitnessLevelGoal,currentstatus,CurrentStretchingValue,currentstretchingstatus,5
+Page_ImproveFitnessLevelGoal,setgoalstatus,SetCardioValue,setcardiostatus,350
+Page_ImproveFitnessLevelGoal,setgoalstatus,SetStrengthValue,setstrengthstatus,5
+Page_ImproveFitnessLevelGoal,setgoalstatus,SetStretchingValue,setstretchingstatus,7
+
+Page_ImproveDietaryHabitsGoal,currentstatus,CurrentVegetablesValue,currentvegetablesstatus,5
+Page_ImproveDietaryHabitsGoal,currentstatus,CurrentFruitsValue,currentfruitsstatus,6
+Page_ImproveDietaryHabitsGoal,currentstatus,CurrentDiaryValue,currentdiarystatus,7
+Page_ImproveDietaryHabitsGoal,currentstatus,CurrentWholeGrainsValue,currentwholegrainsstatus,8
+Page_ImproveDietaryHabitsGoal,currentstatus,CurrentProteinFoodsValue,currentproteinfoodsstatus,9
+Page_ImproveDietaryHabitsGoal,setgoalstatus,SetVegetablesValue,setvegetablesstatus,10
+Page_ImproveDietaryHabitsGoal,setgoalstatus,SetFruitsValue,setfruitsstatus,11
+Page_ImproveDietaryHabitsGoal,setgoalstatus,SetDiaryValue,setdiarystatus,12
+Page_ImproveDietaryHabitsGoal,setgoalstatus,SetWholeGrainsValue,setwholegrainsstatus,13
+Page_ImproveDietaryHabitsGoal,setgoalstatus,SetProteinFoodsValue,setproteinfoodsstatus,14
+
+Page_FillHA,yourinfosecondsection,ModerateHours,yourinfo_moderatehours,5
+Page_FillHA,yourinfosecondsection,ModerateMin,yourinfo_moderatemins,15
+Page_FillHA,yourinfosecondsection,VigorousHours,yourinfo_vigoroushours,3
+Page_FillHA,yourinfosecondsection,VigorousMin,yourinfo_vigorousmins,15
+Page_FillHA,yourinfosecondsection,HeightFeet,yourinfo_heightfeet,5
+Page_FillHA,yourinfosecondsection,HeightInch,yourinfo_heightinch,10
+Page_FillHA,yourinfosecondsection,Weight,yourinfo_weightpound,160
+Page_FillHA,yourinfosecondsection,SystolicBP,yourinfo_systolic_bp,120
+Page_FillHA,yourinfosecondsection,DiastolicBP,yourinfo_diastolic_bp,100
+Page_FillHA,yourinfosecondsection,TotalCholesterol,yourinfo_totalcholesterol,100
+Page_FillHA,yourinfosecondsection,HDL,yourinfo_hdl,75
+Page_FillHA,yourinfosecondsection,LDL,yourinfo_ldl,100
+
+Page_FillHA,highrisk_yourinfosecondsection,ModerateHours,yourinfo_moderatehours,0
+Page_FillHA,highrisk_yourinfosecondsection,ModerateMin,yourinfo_moderatemins,0
+Page_FillHA,highrisk_yourinfosecondsection,VigorousHours,yourinfo_vigoroushours,0
+Page_FillHA,highrisk_yourinfosecondsection,VigorousMin,yourinfo_vigorousmins,0
+Page_FillHA,highrisk_yourinfosecondsection,HeightFeet,yourinfo_heightfeet,4
+Page_FillHA,highrisk_yourinfosecondsection,HeightInch,yourinfo_heightinch,10
+Page_FillHA,highrisk_yourinfosecondsection,Weight,yourinfo_weightpound,380
+Page_FillHA,highrisk_yourinfosecondsection,SystolicBP,yourinfo_systolic_bp,180
+Page_FillHA,highrisk_yourinfosecondsection,DiastolicBP,yourinfo_diastolic_bp,120
+Page_FillHA,highrisk_yourinfosecondsection,TotalCholesterol,yourinfo_totalcholesterol,225
+Page_FillHA,highrisk_yourinfosecondsection,HDL,yourinfo_hdl,25
+Page_FillHA,highrisk_yourinfosecondsection,LDL,yourinfo_ldl,180

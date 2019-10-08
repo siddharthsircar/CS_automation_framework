@@ -1,0 +1,13 @@
+ClientName,ClassName,Category,ElementName,LocatorName,ExpectedPresence,VarInputValue1,VarInputValue2,VarInputValue3,varInputValue4
+health trust,Page_Incentive,incentivehistoryitems,Incentive history track activity,historyitem,true,I Tracked My Maintain Weight,$,1,1
+health trust,Page_Incentive,incentivehistoryitems,Incentive history track activity,historyitem,true,I Tracked My Maintain Weight,$,1,2
+health trust,Page_Incentive,incentivehistoryitems,Incentive history course activity,historyitem,true,I Completed The Weight Course,$,15,1
+health trust,Page_Incentive,incentivehistoryitems,Incentive history connect device activity,historyitem,true,I Connected My Device/App,$,5,1
+health trust,Page_Incentive,incentivehistoryitems,Incentive history contact healthcoach activity,historyitem,true,I Contacted My Health Coach,$,15,1
+health trust,Page_Incentive,incentivehistoryitems,Incentive history weight progresscheck-in activity,historyitem,true,I Completed The Weight Progress Check-In,$,5,1
+
+meabt,Page_Incentive,incentivehistoryitems,Incentive history track activity,historyitem,true,I Tracked My Maintain Weight,pts,1,1
+meabt,Page_Incentive,incentivehistoryitems,Incentive history track activity,historyitem,true,I Tracked My Maintain Weight,pts,1,2
+meabt,Page_Incentive,incentivehistoryitems,Incentive history course activity,historyitem,true,I Completed The Weight Course,pts,15,1
+meabt,Page_Incentive,incentivehistoryitems,Incentive history weight progresscheck-in activity,historyitem,true,I Completed The Weight Progress Check-In,pts,5,1
+meabt,Page_Incentive,incentivehistoryitems,Incentive history HA,historyitem,true,I Completed My Health Assessment,pts,25,1

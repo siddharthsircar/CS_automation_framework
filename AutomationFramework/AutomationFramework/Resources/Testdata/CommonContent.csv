@@ -1,0 +1,551 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText
+Page_QuitTobaccoGoal,actions,FirstTile,startusingtobaccotrackertile,Start using the Tobacco Tracker
+Page_QuitTobaccoGoal,actions,SecondTile,learnaboutalternatetherapytile,Learn about alternative therapies
+Page_QuitTobaccoGoal,actions,ThirdTile,learnaboutnikotenetile,Learn about nicotine replacement therapy
+Page_QuitTobaccoGoal,actions,FourthTile,listalternativesmoketile,List alternatives to smoke breaks
+Page_QuitTobaccoGoal,actions,Question1,question1,Ask someone close to me for support
+Page_QuitTobaccoGoal,actions,Question2,question2,Identify tobacco triggers
+
+Page_QuitTobaccoGoal,actionitems,action1,actionitem1,Start using the Tobacco Tracker
+Page_QuitTobaccoGoal,actionitems,action2,actionitem2,Learn about nicotine replacement therapy
+Page_QuitTobaccoGoal,actionitems,action3,actionitem3,Learn about alternative therapies
+Page_QuitTobaccoGoal,actionitems,errormessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_QuitTobaccoGoal,setup,firsttiletext,setupitem1,Ask someone close to me for support
+Page_QuitTobaccoGoal,setup,secondtiletext,setupitem2,Identify tobacco triggers
+Page_QuitTobaccoGoal,setup,thirdtiletext,setupitem3,Start using the Tobacco Tracker
+Page_QuitTobaccoGoal,setup,fourthtiletext,setupitem4,Learn about nicotine replacement therapy
+Page_QuitTobaccoGoal,setup,fifthtiletext,setupitem5,Learn about alternative therapies
+Page_QuitTobaccoGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_QuitTobaccoGoal,completesetup,firsttiletext,completegoaltile1,Ask someone close to me for support
+Page_QuitTobaccoGoal,completesetup,secondtiletext,completegoaltile2,Identify tobacco triggers
+Page_QuitTobaccoGoal,completesetup,thirdtiletext,completegoaltile3,Learn about alternative therapies
+Page_QuitTobaccoGoal,completesetup,fourthtiletext,completegoaltile4,Learn about nicotine replacement therapy
+Page_QuitTobaccoGoal,completesetup,fifthtiletext,completegoaltile5,Start using the Tobacco Tracker
+Page_QuitTobaccoGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_QuitTobaccoGoal,completesetup,daysremaining,noofdays,20
+Page_QuitTobaccoGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_QuitTobaccoGoal,completesetup,trackbuttontext,trackbtn,Track
+
+Page_DecreaseWeightGoal,actions,FirstTile,eatmorefoodforcalciumtile,Eat more food sources of calcium
+Page_DecreaseWeightGoal,actions,SecondTile,cutdailycalorietile,Cut daily calories by 500-1000 calories
+Page_DecreaseWeightGoal,actions,ThirdTile,reducemyfatintaketile,Reduce my fat intake
+Page_DecreaseWeightGoal,actions,FourthTile,fibreintakeinputtile,Eat 25-30 grams of fiber daily
+Page_DecreaseWeightGoal,actions,Question1,question1,Consume the suggested number of calories
+Page_DecreaseWeightGoal,actions,Question2,question2,Do 30 minutes of cardio exercise 5x/week
+
+Page_DecreaseWeightGoal,actionitems,action1,actionitem1,Eat more food sources of calcium
+Page_DecreaseWeightGoal,actionitems,action2,actionitem2,Reduce my fat intake
+Page_DecreaseWeightGoal,actionitems,action3,actionitem3,Cut daily calories by 500-1000 calories
+Page_DecreaseWeightGoal,actionitems,errormessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_DecreaseWeightGoal,setup,firsttiletext,setupitem1,Consume the suggested number of calories
+Page_DecreaseWeightGoal,setup,secondtiletext,setupitem2,Do 30 minutes of cardio exercise 5x/week
+Page_DecreaseWeightGoal,setup,thirdtiletext,setupitem3,Eat more food sources of calcium
+Page_DecreaseWeightGoal,setup,fourthtiletext,setupitem4,Reduce my fat intake
+Page_DecreaseWeightGoal,setup,fifthtiletext,setupitem5,Cut daily calories by 500-1000 calories
+Page_DecreaseWeightGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_DecreaseWeightGoal,completesetup,firsttiletext,completegoaltile1,Consume the suggested number of calories
+Page_DecreaseWeightGoal,completesetup,secondtiletext,completegoaltile2,Cut daily calories by 500-1000 calories
+Page_DecreaseWeightGoal,completesetup,thirdtiletext,completegoaltile3,Do 30 minutes of cardio exercise 5x/week
+Page_DecreaseWeightGoal,completesetup,fourthtiletext,completegoaltile4,Eat more food sources of calcium
+Page_DecreaseWeightGoal,completesetup,fifthtiletext,completegoaltile5,Reduce my fat intake
+Page_DecreaseWeightGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_DecreaseWeightGoal,completesetup,daysremaining,noofdays,20
+Page_DecreaseWeightGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_DecreaseWeightGoal,completesetup,trackbuttontext,trackbtn,Track
+
+Page_DecreaseWeightGoal,goalsetupcancel,ModalWindowCancelButton,modalwindowcancelbtn,Cancel
+Page_DecreaseWeightGoal,goalsetupcancel,ModalWindowOkButton,modalwindowokbtn,Ok
+Page_DecreaseWeightGoal,goalsetupcancel,ModalWindowHeader,modalwindowheader,Cancel Goal Setup
+
+Page_ImproveBloodPressureGoal,actions,FirstTile,anticipateandresolvetile,Anticipate and resolve challenges to my goal
+Page_ImproveBloodPressureGoal,actions,secondtile,beacommunityadvocatetile,Be a community advocate for healthy lifestyles
+Page_ImproveBloodPressureGoal,actions,thirdtile,breakdownmygoalinsmallerstepstile,Break down my goal into smaller steps
+Page_ImproveBloodPressureGoal,actions,fourthtile,captalizeonmystrengthtoreachgoaltile,capitalize on my strengths to reach my goal
+Page_ImproveBloodPressureGoal,actions,question1,question1,Adopt the DASH Eating Plan
+Page_ImproveBloodPressureGoal,actions,question2,question2,Meet the Physical Activity Guidelines
+
+Page_ImproveBloodPressureGoal,actionitems,action1,actionitem1,Anticipate and resolve challenges to my goal
+Page_ImproveBloodPressureGoal,actionitems,action2,actionitem2,Break down my goal into smaller steps
+Page_ImproveBloodPressureGoal,actionitems,action3,actionitem3,Be a community advocate for healthy lifestyles
+Page_ImproveBloodPressureGoal,actionitems,errormessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_ImproveBloodPressureGoal,setup,firsttiletext,setupitem1,Adopt the DASH Eating Plan
+Page_ImproveBloodPressureGoal,setup,secondtiletext,setupitem2,Meet the Physical Activity Guidelines
+Page_ImproveBloodPressureGoal,setup,thirdtiletext,setupitem3,Anticipate and resolve challenges to my goal
+Page_ImproveBloodPressureGoal,setup,fourthtiletext,setupitem4,Break down my goal into smaller steps
+Page_ImproveBloodPressureGoal,setup,fifthtiletext,setupitem5,Be a community advocate for healthy lifestyles
+Page_ImproveBloodPressureGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_ImproveBloodPressureGoal,completesetup,firsttiletext,completegoaltile1,Adopt the DASH Eating Plan
+Page_ImproveBloodPressureGoal,completesetup,secondtiletext,completegoaltile2,Anticipate and resolve challenges to my goal
+Page_ImproveBloodPressureGoal,completesetup,thirdtiletext,completegoaltile3,Be a community advocate for healthy lifestyles
+Page_ImproveBloodPressureGoal,completesetup,fourthtiletext,completegoaltile4,Break down my goal into smaller steps
+Page_ImproveBloodPressureGoal,completesetup,fifthtiletext,completegoaltile5,Meet the Physical Activity Guidelines
+Page_ImproveBloodPressureGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_ImproveBloodPressureGoal,completesetup,daysremaining,noofdays,20
+Page_ImproveBloodPressureGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_ImproveBloodPressureGoal,completesetup,trackbuttontext,trackbtn,Track
+
+
+Page_ImproveFitnessLevelGoal,actions,ActionPlan1,actionplan1_keepanexercisejournal,Keep an exercise journal
+Page_ImproveFitnessLevelGoal,actions,ActionPlan2,actionplan2_learnaboutstretching,Learn about stretching and flexibility
+Page_ImproveFitnessLevelGoal,actions,ActionPlan3,actionplan3_learnmoreaboutcardiovascular,Learn more about cardiovascular exercise
+Page_ImproveFitnessLevelGoal,actions,ActionPlan4,actionplan4_learnmoreaboutstrength,Learn more about strength training
+Page_ImproveFitnessLevelGoal,actions,ExistingActionPlan1,existingactionplan1,Do 2 days a week of strength training
+Page_ImproveFitnessLevelGoal,actions,ExistingActionPlan2,existingactionplan2,Do 30 minutes of cardio exercise 5x/week
+
+Page_ImproveFitnessLevelGoal,actionitems,NewAddedActionPlan1,actionitem1,Keep an exercise journal
+Page_ImproveFitnessLevelGoal,actionitems,NewAddedActionPlan2,actionitem2,Learn more about cardiovascular exercise
+Page_ImproveFitnessLevelGoal,actionitems,NewAddedActionPlan3,actionitem3,Learn about stretching and flexibility
+Page_ImproveFitnessLevelGoal,actionitems,ErrorMessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_ImproveFitnessLevelGoal,setup,Plan1,setupitem1,Do 2 days a week of strength training
+Page_ImproveFitnessLevelGoal,setup,Plan2,setupitem2,Do 30 minutes of cardio exercise 5x/week
+Page_ImproveFitnessLevelGoal,setup,Plan3,setupitem3,Keep an exercise journal
+Page_ImproveFitnessLevelGoal,setup,Plan4,setupitem4,Learn more about cardiovascular exercise
+Page_ImproveFitnessLevelGoal,setup,Plan5,setupitem5,Learn about stretching and flexibility
+Page_ImproveFitnessLevelGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_ImproveFitnessLevelGoal,completesetup,Plan1,completegoaltile1,Do 2 days a week of strength training
+Page_ImproveFitnessLevelGoal,completesetup,Plan2,completegoaltile2,Do 30 minutes of cardio exercise 5x/week
+Page_ImproveFitnessLevelGoal,completesetup,Plan3,completegoaltile3,Keep an exercise journal
+Page_ImproveFitnessLevelGoal,completesetup,Plan4,completegoaltile4,Learn more about cardiovascular exercise
+Page_ImproveFitnessLevelGoal,completesetup,Plan5,completegoaltile5,Learn about stretching and flexibility
+Page_ImproveFitnessLevelGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_ImproveFitnessLevelGoal,completesetup,daysremaining,noofdays,20
+Page_ImproveFitnessLevelGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_ImproveFitnessLevelGoal,completesetup,trackbuttontext,trackbtn,Track
+
+Page_Notifications,msg,CongratulationMessage,congratsmsg,Congratulations on completing your health assessment!
+Page_Notifications,msg,ThanksCompletionHAMessage,thanksforhacompletion,Thanks for completing your Health Assessment!
+Page_Notifications,msg,ThanksForRegistering,thanksforregistering,Thank you for registering
+
+Page_Connections,spdata,SpanConnectionHeader,hippaheader,de HIPAA para Conexiones
+Page_Connections,spdata,SpAcceptBtn,acceptbtn,Aceptar
+Page_Connections,spdata,SpDismissBtn,dismissbtn,Rechazar
+Page_Connections,spdata,SpHippaText,hippstext,de la HIPAA.
+
+Page_Connections,data,ConnectionHeader,hippaheader,HIPAA Authorization for Connections
+Page_Connections,data,AcceptBtn,acceptbtn,Accept
+Page_Connections,data,DismissBtn,dismissbtn,Decline
+Page_Connections,data,HippaText,hippstext,HIPAA Authorization.
+
+Page_Connections,pendingdata,ResendButton,resendbtn,Resend
+Page_Connections,pendingdata,CancelButton,cancelbtn,Cancel
+
+Page_Connections,modaldata,ModalHeader,modalheader,Are you sure you want to disconnect?
+Page_Connections,modaldata,ModalYesButton,modalyesbtn,Yes
+Page_Connections,modaldata,ModalNoButton,modalnobtn,No
+
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,YOUR INFO: Let's get started
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,Your Snapshot Report
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,ABOUT YOU: It's all about you
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,YOUR VITALS: Know your numbers
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,DIET: You are what you eat
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,TOBACCO: Tobacco and you
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,HISTORY: Your health history
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,ACTIVITY: Get your move on
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,EMOTIONAL HEALTH: How you feel
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,AT WORK: Your health at work
+Page_FillHA,hamoduletitle,HAFrameTitle,haframetitle,MY HEALTH ASSESSMENT : Completed
+Page_FillHA,hasnapshotreport,HASnapshotDietLabel,snapshot_diet_graphlabel,DIET
+Page_FillHA,hasnapshotreport,HASnapshotTobaccoUseLabel,snapshot_tobaccouse_graphlabel,TOBACCO USE
+Page_FillHA,hasnapshotreport,HASnapshotPhysicalActivityLabel,snapshot_physicalactivity_graphlabel,PHYSICAL ACTIVITY
+Page_FillHA,hasnapshotreport,HASnapshotStressLabel,snapshot_stress_graphlabel,STRESS
+Page_FillHA,hasnapshotreport,HASnapshotWeightBmiLabel,snapshot_weightbmi_graphlabel,WEIGHT-BMI
+Page_FillHA,hasnapshotreport,HASnapshotBPLabel,snapshot_bloodpressure_graphlabel,BLOOD PRESSURE
+Page_FillHA,hasnapshotreport,HASnapshotLdlLabel,snapshot_ldl_graphlabel,LDL
+Page_FillHA,hasnapshotreport,HASnapshotHdlLabel,snapshot_hdl_graphlabel,HDL
+
+Page_FillHA,hareports,Snapshot Report,reports_snapshot_reportlink,Snapshot Report
+Page_FillHA,hareports,Healthcare Provider Report,reports_healthcareprovider_reportlink,Healthcare Provider Report
+Page_FillHA,hareports,Personal Wellness Report,reports_personalwellness_reportlink,Personal Wellness Report
+
+Page_DevicesAndApps,popuptxt,disconnectopouptxt,device_disconnect_popupmsg,Are you sure you want to disconnect Fitbit?
+
+CommonGoals,removepopup,GoalRemoveHeader,goalremoveheader,Goal Removal Confirmation
+CommonGoals,removepopup,GoalRemoveTitle,removegoaltitle,You have opted to remove your goal
+CommonGoals,removepopup,GoalRemoveNoBtn,nobtn,No Thank You
+CommonGoals,removepopup,GoalRemoveYesBtn,yesbtn,Yes I'm Sure
+
+Page_MaintainTobaccoFreeStatusGoal,actions,WeeklySavingAfterQuit,calculateweeklysavingafterquit,Calculate weekly savings from quitting
+Page_MaintainTobaccoFreeStatusGoal,actions,LearnAboutTreatmentForQuiting,learnabouttreatmentforquiting,Learn about treatments for quitting
+Page_MaintainTobaccoFreeStatusGoal,actions,ListAlternateSmokeBreak,listalternatesmokebreak,List alternatives to smoke breaks
+Page_MaintainTobaccoFreeStatusGoal,actions,PracticeStressManagementTechnique,practicestressmanagementtechnique,Practice stress management techniques
+Page_MaintainTobaccoFreeStatusGoal,actions,UseDistractionToCopeUpStress,usedistractiontocopeupstress,Use distractions to cope with cravings
+Page_MaintainTobaccoFreeStatusGoal,actions,Question1,question1,Ask someone close to me for support
+Page_MaintainTobaccoFreeStatusGoal,actions,Question2,question2,Identify obstacles to stay tobacco-free
+
+Page_MaintainTobaccoFreeStatusGoal,actionitems,Action1,action1,Start using the Tobacco Tracker
+Page_MaintainTobaccoFreeStatusGoal,actionitems,Action2,action2,Calculate weekly savings from quitting
+Page_MaintainTobaccoFreeStatusGoal,actionitems,Action3,action3,Learn about treatments for quitting
+Page_MaintainTobaccoFreeStatusGoal,actionitems,ErrorMsg,errormsg,A maximum of 5 actions can be assigned.
+
+Page_MaintainTobaccoFreeStatusGoal,setup,CloseOrQuitSupport,closeorsupporttile,Ask someone close to me for support
+Page_MaintainTobaccoFreeStatusGoal,setup,ObstactleToStayTobaccoFree,obstacletostaytobaccofree,Identify obstacles to stay tobacco-free 
+Page_MaintainTobaccoFreeStatusGoal,setup,StartUsingTobaccoTracker,startusingtobaccotracker,Start using the Tobacco Tracker
+Page_MaintainTobaccoFreeStatusGoal,setup,CalculateWeeklySaving,calculateweeklysaving,learn about treatments for quitting
+Page_MaintainTobaccoFreeStatusGoal,setup,LearnAboutTreatment,learnabouttreatment,Calculate weekly savings from quitting
+
+Page_MaintainTobaccoFreeStatusGoal,completesetup,MyProgressLbl,myprogresslbl,My Progress
+Page_MaintainTobaccoFreeStatusGoal,completesetup,CloseOrSupportTitle,closeorsupporttitle,Ask someone close to me for support
+Page_MaintainTobaccoFreeStatusGoal,completesetup,WeeklySavingTitle,weeklysavingtitle,Calculate weekly savings from quitting
+Page_MaintainTobaccoFreeStatusGoal,completesetup,StartTobaccoTracker,starttobaccotracker,Start using the Tobacco Tracker
+Page_MaintainTobaccoFreeStatusGoal,completesetup,StayTobaccoFree,staytobaccofree,Identify obstacles to stay tobacco-free
+Page_MaintainTobaccoFreeStatusGoal,completesetup,TreatmentForQuiting,treatmentforquiting,Learn about treatments for quitting
+
+Page_MaintainWeightGoal,controls,AddAGoalTitle,addagoalheader,Add a Goal
+Page_MaintainWeightGoal,controls,MaintainWeightLbl,maintainweightlbl,Maintain Weight
+Page_MaintainWeightGoal,controls,GoalSpecifiesLbl,goalspecifieslbl,Goal Specifics
+Page_MaintainWeightGoal,controls,CurrentStatusLbl,currentstatuslbl,Let us capture your current status
+Page_MaintainWeightGoal,controls,WeightLbl,weightlbl,Weight
+Page_MaintainWeightGoal,controls,RecommendationLbl,recommendationlbl,Recommendations
+Page_MaintainWeightGoal,controls,StepsLbl,steps,Steps
+Page_MaintainWeightGoal,controls,Step1Lbl,step1,1
+Page_MaintainWeightGoal,controls,Step2Lbl,step2,2
+Page_MaintainWeightGoal,controls,Step3Lbl,step3,3
+Page_MaintainWeightGoal,controls,YourGoalLbl,yourgoallbl,Your goal
+Page_MaintainWeightGoal,controls,MaintainCurrentStatusLbl,maintaincurrentstatuslbl,Maintain Current Weight
+
+Page_MaintainWeightGoal,removescreen,GoalRemoveHeader,goalremoveheader,Goal Removal Confirmation
+Page_MaintainWeightGoal,removescreen,ConfirmationText,confirmationtext,You have opted to remove your goal 
+Page_MaintainWeightGoal,removescreen,NoBtn,nobtn,No Thank You 
+Page_MaintainWeightGoal,removescreen,YesBtn,yesbtn,Yes I'm Sure
+
+Page_MaintainWeightGoal,actions,CreatePlanLbl,createplanlbl,Create a Plan
+Page_MaintainWeightGoal,actions,SrcOfCal,srcofcal,Eat more food sources of calcium
+Page_MaintainWeightGoal,actions,LmtFatIntake,lmtfatintake,Limit my fat intake
+Page_MaintainWeightGoal,actions,DailyFibreLmt,dailyfibrelmt,Eat 25-30 grams of fiber daily
+Page_MaintainWeightGoal,actions,FruitVegieLmt,fruitvegielmt,Eat 5-10 servings of fruits and veggies
+Page_MaintainWeightGoal,actions,EatMoreFibre,eatmorefibre,Eat more fiber
+Page_MaintainWeightGoal,actions,ChooseWholeGrains,choosewholegrains,Choose whole grains
+Page_MaintainWeightGoal,actions,YourPlan,yourplan,Your Plan
+Page_MaintainWeightGoal,actions,Question1,question1,Consume the suggested number of calories
+Page_MaintainWeightGoal,actions,Question2,question2,Do 30 minutes of cardio exercise 5x/week
+
+Page_MaintainWeightGoal,actionitems,ErrorMsg,errormsg,A maximum of 5 actions can be assigned.
+Page_MaintainWeightGoal,actionitems,Action1,action1,Eat more food sources of calcium
+Page_MaintainWeightGoal,actionitems,Action2,action2,Limit my fat intake
+Page_MaintainWeightGoal,actionitems,Action3,action3,Eat 25-30 grams of fiber daily
+
+
+Page_MaintainWeightGoal,setup,CongratsMsg,congratsmsg,Congratulations! Your Goal Setup is Almost Complete!
+Page_MaintainWeightGoal,setup,Tile1,tile1,Consume the suggested number of calories
+Page_MaintainWeightGoal,setup,Tile2,tile2,Do 30 minutes of cardio exercise 5x/week
+Page_MaintainWeightGoal,setup,Tile3,tile3,Eat more food sources of calcium
+Page_MaintainWeightGoal,setup,Tile4,tile4,Eat 25-30 grams of fiber daily
+Page_MaintainWeightGoal,setup,Tile5,tile5,Limit my fat intake
+Page_MaintainWeightGoal,setup,Weight,weight,Maintain Weight: 180 lbs
+
+Page_MaintainWeightGoal,plan,MyProgressLbl,myprogresslbl,My Progress
+Page_MaintainWeightGoal,plan,NoOfDays,noofdays,91
+Page_MaintainWeightGoal,plan,DaysRemainingLbl,daysremaininglbl,Days Remaining
+Page_MaintainWeightGoal,plan,TrackBtn,trackbtn,Track
+Page_MaintainWeightGoal,plan,EditBtn,editbtn,Edit
+Page_MaintainWeightGoal,plan,PlanLbl,planlbl,Plan
+Page_MaintainWeightGoal,plan,PlanTile1,plantile1,Consume the suggested number of calories
+Page_MaintainWeightGoal,plan,PlanTile2,plantile2,Do 30 minutes of cardio exercise 5x/week
+Page_MaintainWeightGoal,plan,PlanTile3,plantile3,Eat 25-30 grams of fiber daily
+Page_MaintainWeightGoal,plan,PlanTile4,plantile4,Eat more food sources of calcium
+Page_MaintainWeightGoal,plan,PlanTile5,plantile5,Limit my fat intake
+Page_MaintainWeightGoal,plan,Plantile6,plantile6,Edit Plan
+
+;Page_Settings,mperrormsg,OnlineDisplayName,oldisperrormsg,Please Enter Display Name.
+Page_Settings,mperrormsg,EmailId,eiderrormsg,Please Enter E-mail.
+
+Page_Settings,errormsg,FirstName,firstnameerrormsg,Please Enter First Name
+Page_Settings,errormsg,Primary Phone No.,primaryphnoerrormsg,Please Enter The Primary Phone Number
+Page_Settings,errormsg,Secondary Phone No.,secondaryphnoerrormsg,Please Enter The Secondary Phone Number
+
+Page_Settings,pdata,OnlineDisplayName,oldispname,Automation
+Page_Settings,pdata,EmailId,eid,testautomation@onlifehealth.com
+
+Page_Settings,data,FirstName,firstname,Autobots
+Page_Settings,data,PrimaryPhoneNo,primaryno,(999)-999-9999
+Page_Settings,data,SecondaryPhoneNo,secondaryno,(999)-999-9999
+
+Page_Settings,spdata,SpMyProfile,spmyprofile,Mi cuenta
+Page_Settings,spdata,SpProfilePic,spprofilepic,Foto del Perfil
+Page_Settings,spdata,SpUserName,spusername, Nombre de usuario
+Page_Settings,spdata,SpOlDispName,spoldispname, Nombre de despliegue
+Page_Settings,spdata,SpMailPref,spmailpref,Preferencia de Correo
+Page_Settings,spdata,SpMyInfo,spmyinfo,Mi informaci
+Page_Settings,spdata,SpMyFirstName,spfirstname,Nombre
+Page_Settings,spdata,SpMiddleName,spmiddlename,Nombre Medio
+Page_Settings,spdata,SpLastName,splastname,Apellido
+Page_Settings,spdata,SpDob,spdob,Fecha de nacimiento
+Page_Settings,spdata,SpPrimPhNo,spprimphno,fono primario
+Page_Settings,spdata,SpSecPhNo,spsecphno,fono secundario
+Page_Settings,spdata,SpMyPref,spmypref,Mejor hora para llamar
+Page_Settings,spdata,SpLang,splang,Idioma
+Page_Settings,spdata,SpTZone,sptzone,Zona horaria
+Page_Settings,spdata,SpStreet,spstreet,Direcci
+Page_Settings,spdata,SpAddress,spaddress,Direcci
+Page_Settings,spdata,SpCity,spcity,Ciudad
+Page_Settings,spdata,SpState,spstate,Estado
+Page_Settings,spdata,SpZip,spzip,postal
+Page_Settings,spdata,SpProgAlert,spprogalert,Alertas de texto del programa
+Page_Settings,spdata,SpManPhoneNo,spmanphoneno,mero de 
+Page_Settings,spdata,SpPhoneNo,spphoneno,Nombre Tel
+Page_Settings,spdata,SpDevTZone,spdevtzone,Dispositivo de Zona Horaria
+
+Page_Settings,property,City,city,readonly
+Page_Settings,property,State,state,disabled
+Page_Settings,property,Zip,zip,readonly
+
+Page_Login,elementuitxt,logintitle,logintitle,Log In
+Page_Login,elementuitxt,Login,loginsubmitbtn,Log In
+Page_Login,elementuitxt,Forgotusernampassword,forgotunamepasslnk,FORGOT USERNAME OR PASSWORD
+Page_Login,elementuitxt,Newusertitle,newusertitle,New To Onlife?
+Page_Login,elementuitxt,Getstart,getstartedbtn,Get Started
+
+Page_MessageToCoach,elementuitxt,YourMessageTitle,yourmessageh,Your Messages
+Page_MessageToCoach,elementuitxt,ShowMessage:,showmessagelb,SHOW MESSAGES:
+Page_MessageToCoach,elementuitxt,Message Filter Droupdown,messagesfilterbtn,Active
+Page_MessageToCoach,elementuitxt,Send Button Text,sendmsgtocoachbt,Send
+Page_MessageToCoach,elementuitxt,Characters Remaining,messageremainingcharitem,Characters Remaining: 1500
+
+Dashboard,headerelements,Menu Icon,hemmenu,
+Dashboard,headerelements,Avatar Icon,avataricon,
+Dashboard,headerelements,Coach Message Icon,coachicon,
+Dashboard,headerelements,Notification Icon,notificationicon,
+
+Common,pageheading,wellbeingcontent_page_text,Categories
+
+Dashboard,contactus,Contact Us Title,heretohelp,We're Here to Help
+Dashboard,contactus,Contact Us Link Text,contactuslink,Contact Us
+Dashboard,contactus,Contact Us Number,contactnum,866-564-5237
+
+Dashboard,footerlink,Dashboard Footer Link,fdashboardlnk,Dashboard
+Dashboard,footerlink,Tracker Footer Link,ftrackerlnk,Trackers
+Dashboard,footerlink,My Health Footer Link,fmyhealthlnk,My Health
+Dashboard,footerlink,My Company Footer Link,fmycompanylnk,HealthTrust
+Dashboard,footerlink,HIPAA Rights Footer Link,fhiparightslnk,HIPAA Member Rights
+Dashboard,footerlink,Privacy Policy Footer Link,fprivacypollnk,Privacy Policy
+Dashboard,footerlink,TOS Footer Link,ftoslnk,Terms of Service
+Dashboard,footerlink,Feedback Footer Link,ffeedbacklnk,Feedback
+
+
+Page_TrackerLearnMore,learnmore,Tracker Learn More page header,pageheader,Trackers
+Page_TrackerLearnMore,learnmore,Tracker Learn More page sub header,pagesubheader,Choose a tracker to begin
+Page_TrackerLearnMore,learnmore,Stress Tracker Tile,stresstile,Stress
+Page_TrackerLearnMore,learnmore,Weight Tracker Tile,weighttile,Weight
+Page_TrackerLearnMore,learnmore,Quit Tobacco Tracker Tile,tobaccotile,Quit Tobacco
+Page_TrackerLearnMore,learnmore,Sleep Tracker Tile,sleeptile,Sleep
+Page_TrackerLearnMore,learnmore,Nutrition Tracker Tile,nutritiontile,Nutrition
+Page_TrackerLearnMore,learnmore,Cholesterol Tracker Tile,cholesteroltile,Cholesterol
+Page_TrackerLearnMore,learnmore,Blood Pressure Tracker Tile,bptile,Blood Pressure
+Page_TrackerLearnMore,learnmore,Physical Activity Tracker Tile,physacttile,Physical Activity
+Page_TrackerLearnMore,learnmore,Water Tracker Tile,watertile,Water
+Page_TrackerLearnMore,learnmore,Oral Health Tracker Tile,oralhealthtile,Oral Health
+
+Page_MyHealth,headers,My Health page header,pageheader,Biometrics
+Page_MyHealth,headers,My Health page sub header,pagesubheader,RECOMMENDATIONS            
+Page_MyHealth,tileheader,Weight Tile,weightheader,
+Page_MyHealth,tileheader,Cholesterol Tile,cholheader,
+Page_MyHealth,tileheader,BMI Tile,bmiheader,
+Page_MyHealth,tileheader,HDL Tile,hdlheader,
+Page_MyHealth,tileheader,Waist Tile,waistheader,
+Page_MyHealth,tileheader,LDL Tile,ldlheader,
+Page_MyHealth,tileheader,Blood Pressure Tile,bpheader,
+Page_MyHealth,tileheader,Tryglycerides Tile,trygheader,
+Page_MyHealth,tileheader,Pulse Tile,pulseheader,
+Page_MyHealth,tileheader,Glucose Tile,glucoseheader,
+
+Page_HIPAA,header,Page Header,pageheader,Participant Rights And Responsibilites
+
+Page_PrivacyPolicy,headers,Privacy Policy Header,pageheader,Onlife Health Privacy Policy
+Page_PrivacyPolicy,headers,Registered Users Subheader,registereduserheader,Registered Users
+Page_PrivacyPolicy,headers,E-Mail Subheader,emailheader,E-Mail
+Page_PrivacyPolicy,headers,Information Collected Subheader,infodurregheader,Information Collected During Registration
+Page_PrivacyPolicy,headers,Statistical Data Subheader,statdatheader,Statistical Data on Website Usage
+Page_PrivacyPolicy,headers,Nonpublic Personal Information Subheader,discinfoheader,Disclosure of Nonpublic Personal Information
+Page_PrivacyPolicy,headers,Disclosures to Participants Subheader,participantheader,Disclosures to Participants
+Page_PrivacyPolicy,headers,Disclosure to Employers Subheader,employerheader,Disclosure to Employers
+Page_PrivacyPolicy,headers,Health Benefit Plans Subheader,healthbenheader,Disclosure to Health Benefit Plans
+Page_PrivacyPolicy,headers,Third Parties Subheader,thirdpartyheader,Disclosure to Third Parties
+Page_PrivacyPolicy,headers,Third Parties for TPO Subheader,tpoheader,Disclosure to Third Parties for TPO
+Page_PrivacyPolicy,headers,Aggregate Information Subheader,agginfoheader,Disclosure of Aggregate Information
+Page_PrivacyPolicy,headers,Information Collected Subheader,infocollecheader,Retention of Information Collected
+Page_PrivacyPolicy,headers,Cookies Subheader,cookiesheader,Use of Cookies
+Page_PrivacyPolicy,headers,Direct Access Subheader,accesstositeheader,Direct Access to Other Sites
+Page_PrivacyPolicy,headers,Security Subheader,securityheader,Security
+Page_PrivacyPolicy,headers,Opt Out Subheader,optoutheader,Opt Out of Registration
+Page_PrivacyPolicy,headers,Right to Modify Subheader,righttomodheader,ONLIFE Reserves the Right to Modify its Privacy Policy
+
+Page_TermsOfService,headers,TOS Header,tosheader,Terms of Service
+;Page_TermsOfService,headers,HealthTrust TOS SubHeader,hthatossubheader,HealthTrust Health Assessment Terms of Service
+Page_TermsOfService,headers,OLH TOS SubHeader,olhtossubheader,Agreement with Onlife Health.
+
+Page_Feedback,headers,Feedback Form Header,header,SITE FEEDBACK
+Page_Feedback,headers,Feedback Form Sub Header,subheader,TELL US WHAT YOU THINK
+Page_Feedback,labels,Content Label,contentlabel,
+Page_Feedback,labels,Design Label,designlabel,
+Page_Feedback,labels,Usability Label,usablabel,
+Page_Feedback,labels,Overall Label,overallabel,
+Page_Feedback,labels,Comment Label,commentlabel,
+
+CommonTracker,trackerchartfilters,One Month Filter,chart1monthlink,1 Month
+CommonTracker,trackerchartfilters,Three Months Filter,chart3monthslink,3 Months
+CommonTracker,trackerchartfilters,Six Months Filter,chart6monthslink,6 Months
+CommonTracker,trackerchartfilters,Year To Date Filter,chartyeartodatelink,Year to Date
+CommonTracker,trackerchartfilters,More Filter,chartmorelink,More
+
+Page_WeightTracker,blendedtrackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_WeightTracker,blendedtrackerhistoryheader,Weight History Header,historyheadertext,Weight History
+Page_WeightTracker,blendedtrackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_WeightTracker,blendedtrackerhistoryheader,Weight History Column Header,weighthistorycolumnheader,Weight
+Page_WeightTracker,blendedtrackerhistoryheader,Source History Column Header,sourcehistorycolumnheader,Source
+
+Page_WeightTracker,nonblendedtrackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_WeightTracker,nonblendedtrackerhistoryheader,Weight History Header,historyheadertext,Weight History
+Page_WeightTracker,nonblendedtrackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_WeightTracker,nonblendedtrackerhistoryheader,Weight History Column Header,weighthistorycolumnheader,Weight
+
+Page_WeightTracker,blendedtrackerhistoryvalue,Date History Table Data,historytableblendeddata,will be provided in class
+Page_WeightTracker,nonblendedtrackerhistoryvalue,Date History Table Data,historytablenonblendeddata,will be provided in class
+
+Page_BPTracker,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_BPTracker,trackerhistoryheader,BP History Header,historyheadertext,Blood Pressure History
+Page_BPTracker,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_BPTracker,trackerhistoryheader,Systolic-Diastolic History Column Header,sysdiaheadertxt,Systolic / Diastolic
+
+Page_BPTracker,trackerhistoryvalue,Date History Table Data,historytabledata,will be provided in class
+
+Page_StressTracker,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_StressTracker,trackerhistoryheader,Stress History Header,historyheadertext,Stress History
+Page_StressTracker,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_StressTracker,trackerhistoryheader,Stress History Column Header,stresshistorycolumnheader,Stress
+
+Page_StressTracker,trackerhistoryvalue,Date History Table Data,historytabledata,will be provided in class
+
+Page_TobaccoTracker,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_TobaccoTracker,trackerhistoryheader,Tobacco History Header,historyheadertext,Quit Tobacco History
+Page_TobaccoTracker,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_TobaccoTracker,trackerhistoryheader,Cigarette History Column Header,cigheadertxt,Cigarettes
+Page_TobaccoTracker,trackerhistoryheader,Cigars History Column Header,cigarheadertxt,Cigars
+Page_TobaccoTracker,trackerhistoryheader,Chews History Column Header,chewsheadertxt,Chews
+Page_TobaccoTracker,trackerhistoryheader,Dips History Column Header,dipsheadertxt,Dips
+Page_TobaccoTracker,trackerhistoryheader,Pipes History Column Header,pipesheadertxt,Pipes
+
+Page_TobaccoTracker,trackerhistoryvalue,Date History Table Data,historytabledata,will be provided in class
+
+Page_CholesterolTracker,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_CholesterolTracker,trackerhistoryheader,Cholesterol History Header,historyheadertext,Cholesterol History
+Page_CholesterolTracker,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_CholesterolTracker,trackerhistoryheader,Total Cholesterol History Column Header,totcholheadertxt,Total Cholesterol 
+Page_CholesterolTracker,trackerhistoryheader,LDL History Column Header,ldlheadertxt,LDL
+Page_CholesterolTracker,trackerhistoryheader,HDL History Column Header,hdlheadertxt,HDL
+Page_CholesterolTracker,trackerhistoryheader,Triglycerides History Column Header,trygheadertxt,Triglycerides
+
+
+Page_CholesterolTracker,trackerhistoryvalue,Tracker History Table Data,historytabledata,will be provided in class
+
+Page_PhysActivityTracker,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_PhysActivityTracker,trackerhistoryheader,Physical Activity History Header,historyheadertext,Physical Activity History
+Page_PhysActivityTracker,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_PhysActivityTracker,trackerhistoryheader,Cardio History Column Header,cardioheadertxt,Cardio 
+Page_PhysActivityTracker,trackerhistoryheader,Strength Training History Column Header,strentrheadertxt,Strength Training
+Page_PhysActivityTracker,trackerhistoryheader,Stretching History Column Header,stretchheadertxt,Stretching
+
+Page_PhysActivityTracker,trackerhistoryvalue,Date History Table Data,historytabledata,will be provided in class
+
+Page_WaterTracker,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_WaterTracker,trackerhistoryheader,Water History Header,historyheadertext,Water History
+Page_WaterTracker,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_WaterTracker,trackerhistoryheader,Water History Column Header,waterheadertxt,Water
+
+Page_WaterTracker,trackerhistoryvalue,Date History Table Data,historytabledata,will be provided in class
+
+Page_SleepTracker,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_SleepTracker,trackerhistoryheader,Sleep History Header,historyheadertext,Sleep History
+Page_SleepTracker,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_SleepTracker,trackerhistoryheader,Sleep History Column Header,sleepheadertxt,Sleep
+
+Page_SleepTracker,trackerhistoryvalue,Date History Table Data,historytabledata,will be provided in class
+
+
+Page_OralHealthTracker,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_OralHealthTracker,trackerhistoryheader,Oral Health History Header,historyheadertext,Oral Health History
+Page_OralHealthTracker,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_OralHealthTracker,trackerhistoryheader,Brushing History Column Header,brushingheadertxt,Brushing
+Page_OralHealthTracker,trackerhistoryheader,Flossing History Column Header,flossingheadertxt,Flossing
+
+Page_OralHealthTracker,trackerhistoryvalue,Date History Table Data,historytabledata,will be provided in class
+
+Page_NutritionTracker,trackerhistoryheader,Collapse Link,historybtn,COLLAPSE
+Page_NutritionTracker,trackerhistoryheader,Nutrition History Header,historyheadertext,Nutrition History
+Page_NutritionTracker,trackerhistoryheader,Date History Column Header,datehistorycolumnheader,Date
+Page_NutritionTracker,trackerhistoryheader,Fruits History Column Header,fruitsheadertxt,Fruits
+Page_NutritionTracker,trackerhistoryheader,Vegetables History Column Header,vegheadertxt,Vegetables
+Page_NutritionTracker,trackerhistoryheader,Dairy History Column Header,dairyheadertxt,Dairy
+Page_NutritionTracker,trackerhistoryheader,Whole Grains History Column Header,grainsheadertxt,Whole Grains
+Page_NutritionTracker,trackerhistoryheader,Protein Foods History Column Header,protheadertxt,Protein Foods
+
+Page_NutritionTracker,trackerhistoryvalue,Date History Table Data,historytabledata,will be provided in class
+
+Page_Incentive,incentivehistoryuidata,Incentive history header,incentiveheader,Incentive History
+Page_Incentive,incentivehistoryuidata,Incentive history Points Message,pointsmessagepara,Remember that you must earn $40 - $75 in a quarter
+Page_Incentive,incentivehistoryuidata,Incentive history IncomeTax Message,incometaxmessagepara,The amount of any cash and the value of any other wellness incentive rewards received from HealthTrust are taxable
+Page_Incentive,incentivehistoryuidata,Incentive history header,programcycledurationtxt,Program Cycle Duration:
+Page_Incentive,incentivehistoryuidata,Incentive history header,programcyclevalue,01/01/2018 - 12/31/2018
+Page_Incentive,incentivehistoryuidata,Incentive history header,reportingperiodtxt,Reporting Period:
+Page_Incentive,incentivehistoryuidata,Incentive history header,reportingperiodvalue,07/01/2018 - 09/30/2018
+Page_Incentive,incentivehistoryuidata,Incentive history 30Days Tab,historymonthlytabbtn,30 days
+Page_Incentive,incentivehistoryuidata,Incentive history 90Days Tab,historyquaterlytabbtn,90 days
+Page_Incentive,incentivehistoryuidata,Incentive history ProgramYTD Tab,historyyearlytabbtn,Program YTD
+Page_Incentive,incentivehistoryuidata,Incentive history Custom Tab,historycustomtabbtn,Custom
+Page_Incentive,incentivehistoryuidata,Incentive history Export Tab,historyexporttabbtn,Export
+Page_Incentive,incentivehistoryuidata,Incentive history BackToTop Link,historybacktotoplink,Back to top
+Page_Incentive,incentivehistorydate,Incentive history Current Year,historyyeartxt,will be provided in class
+Page_Incentive,incentivehistorydate,Incentive history Current Month,historymonthtxt,will be provided in class
+Page_Incentive,incentivehistorydate,Incentive history Current Day,historydaytxt,will be provided in class
+
+Page_ImproveCholesterolGoal,actions,FirstTile,anticipateandresolvetile,Anticipate and resolve challenges to my goal
+Page_ImproveCholesterolGoal,actions,secondtile,beacommunityadvocatetile,Be a community advocate for healthy lifestyles
+Page_ImproveCholesterolGoal,actions,thirdtile,breakdownmygoalinsmallerstepstile,Break down my goal into smaller steps
+Page_ImproveCholesterolGoal,actions,fourthtile,captalizeonmystrengthtoreachgoaltile,Capitalize on my strengths to reach my goal
+Page_ImproveCholesterolGoal,actions,question1,question1,Adopt a heart healthy eating pattern
+Page_ImproveCholesterolGoal,actions,question2,question2,Meet the Physical Activity Guidelines
+
+Page_ImproveCholesterolGoal,actionitems,action1,actionitem1,Anticipate and resolve challenges to my goal
+Page_ImproveCholesterolGoal,actionitems,action2,actionitem2,Break down my goal into smaller steps
+Page_ImproveCholesterolGoal,actionitems,action3,actionitem3,Be a community advocate for healthy lifestyles
+Page_ImproveCholesterolGoal,actionitems,errormessage,goalalert,A maximum of 5 actions can be assigned
+
+Page_ImproveCholesterolGoal,setup,firsttiletext,setupitem1,Adopt a heart healthy eating pattern
+Page_ImproveCholesterolGoal,setup,secondtiletext,setupitem2,Meet the Physical Activity Guidelines
+Page_ImproveCholesterolGoal,setup,thirdtiletext,setupitem3,Anticipate and resolve challenges to my goal
+Page_ImproveCholesterolGoal,setup,fourthtiletext,setupitem4,Break down my goal into smaller steps
+Page_ImproveCholesterolGoal,setup,fifthtiletext,setupitem5,Be a community advocate for healthy lifestyles
+Page_ImproveCholesterolGoal,setup,expecteddatelbl,expecteddate,will be provided in page class
+
+Page_ImproveCholesterolGoal,completesetup,firsttiletext,completegoaltile1,Adopt a heart healthy eating pattern
+Page_ImproveCholesterolGoal,completesetup,secondtiletext,completegoaltile2,Anticipate and resolve challenges to my goal
+Page_ImproveCholesterolGoal,completesetup,thirdtiletext,completegoaltile3,Be a community advocate for healthy lifestyles
+Page_ImproveCholesterolGoal,completesetup,fourthtiletext,completegoaltile4,Break down my goal into smaller steps
+Page_ImproveCholesterolGoal,completesetup,fifthtiletext,completegoaltile5,Meet the Physical Activity Guidelines
+Page_ImproveCholesterolGoal,completesetup,progresslabel,myprogresslbl,My Progress
+Page_ImproveCholesterolGoal,completesetup,daysremaining,noofdays,20
+Page_ImproveCholesterolGoal,completesetup,daysremaininglabel,daysremaininglbl,Days Remaining
+Page_ImproveCholesterolGoal,completesetup,trackbuttontext,trackbtn,Track
+
+Page_ManageStressGoal,currentstatus,CurrentStressValue,currentstressstatus,A little bit
+
+
+
+Page_TrackerLearnMore,recomandationtile,recommandationafterha,tracker_recommended,Stress
+Page_TrackerLearnMore,recomandationtile,recommandationafterha,tracker_recommended,Quit Tobacco
+Page_TrackerLearnMore,recomandationtile,recommandationafterha,tracker_recommended,Weight
+Page_TrackerLearnMore,recomandationtile,recommandationafterha,tracker_recommended,Blood Pressure
+Page_TrackerLearnMore,recomandationtile,recommandationafterha,tracker_recommended,Cholesterol
+Page_TrackerLearnMore,recomandationtile,recommandationafterha,tracker_recommended,Nutrition
+Page_TrackerLearnMore,recomandationtile,recommandationafterha,tracker_recommended,Physical Activity
+
+Page_TrackerLearnMore,notrecomandationtile,recommandationafterha,tracker_recommended,Sleep
+Page_TrackerLearnMore,notrecomandationtile,recommandationafterha,tracker_recommended,Oral Health
+Page_TrackerLearnMore,notrecomandationtile,recommandationafterha,tracker_recommended,Water

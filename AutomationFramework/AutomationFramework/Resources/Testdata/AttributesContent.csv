@@ -1,0 +1,5 @@
+ClassName,Category,ElementName,LocatorName,ExpectedTextOrInputValue,attributename
+Page_Login,elementuiattr,Username,usernametxt,User Name,placeholder
+Page_Login,elementuiattr,Password,passwordtxt,Password,placeholder
+Page_MessageToCoach,elementuiattr,Message Conversation Text Area,messageconvtextarea,Type a message to your coach here...,placeholder
+

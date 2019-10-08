@@ -1,0 +1,83 @@
+[debug (5/8/18 4:33:50 PM)] Debug: setLogFile: E:\OnLife\SeleniumFramework\Sikuli\SikuliX-1.1.2-SetupLog.txt
+[debug (5/8/18 4:33:50 PM)] RunSetup: ... starting with no args given
+[debug (5/8/18 4:33:50 PM)] RunSetup: Setup: 1.1.2 2018-03-08_08:37 in folder:
+E:\OnLife\SeleniumFramework\Sikuli
+[debug (5/8/18 4:33:51 PM)] RunSetup: RunningSystem: Windows 10.0
+[debug (5/8/18 4:33:51 PM)] RunSetup: parent of jar/classes: E:\OnLife\SeleniumFramework\Sikuli
+[debug (5/8/18 4:33:51 PM)] RunSetup: RunningJava: Java 8 (x86) 1.8.0_172-b11
+[debug (5/8/18 4:33:51 PM)] init user preferences
+[debug (5/8/18 4:34:00 PM)] RunSetup: 
+popAsk: --------------------
+The following file(s) will be downloaded to
+E:\OnLife\SeleniumFramework\Sikuli
+--- Native support libraries for Windows (sikulixlibs...)
+--- Package 1 ---
+sikulixsetupIDE-1.1.2-20180308.083933-100-forsetup.jar (IDE/Scripting)
+sikulixsetupAPI-1.1.2-20180308.083909-100-forsetup.jar (Java API)
+ - with Jython
+--- Package 2 ---
+sikulixsetupAPI-1.1.2-20180308.083909-100-forsetup.jar (done in package 1)
+Only click NO, if you want to terminate setup now!
+Click YES even if you want to use local copies in Downloads!
+--------------------
+[debug (5/8/18 4:34:04 PM)] FileManager: Downloading sikulixlibswin-1.1.1.jar having 10577 KB
+[debug (5/8/18 4:35:49 PM)] FileManager: downloaded 10577 KB to:
+C:\Users\Sid\AppData\Roaming\Sikulix\SikulixDownloads\sikulixlibswin-1.1.1.jar
+[debug (5/8/18 4:35:50 PM)] FileManager: download time: 104
+[debug (5/8/18 4:35:53 PM)] RunSetup: Copied from Downloads: sikulixlibswin
+[debug (5/8/18 4:35:53 PM)] FileManager: resetFolder:
+E:\OnLife\SeleniumFramework\Sikuli\SetupStuff\sikulixlibs\windows
+jar:file:/E:/OnLife/SeleniumFramework/Sikuli/sikulixlibswin.jar
+[debug (5/8/18 4:35:53 PM)] FileManager: download to string from:
+https://oss.sonatype.org/content/groups/public/com/sikulix/sikulixsetupAPI/1.1.2-SNAPSHOT/maven-metadata.xml,
+[debug (5/8/18 4:35:55 PM)] RunSetup: getMavenJar: sikulixsetupAPI-1.1.2-20180308.083909-100-forsetup.jar
+[debug (5/8/18 4:35:55 PM)] FileManager: Downloading sikulixsetupAPI-1.1.2-20180308.083909-100-forsetup.jar having 19104 KB
+[debug (5/8/18 4:39:36 PM)] FileManager: downloaded 19104 KB to:
+C:\Users\Sid\AppData\Roaming\Sikulix\SikulixDownloads_201803080837\sikulixsetupAPI-1.1.2-20180308.083909-100-forsetup.jar
+[debug (5/8/18 4:39:36 PM)] FileManager: download time: 220
+[debug (5/8/18 4:39:39 PM)] RunSetup: Copied from Downloads: sikulixapi
+[debug (5/8/18 4:39:39 PM)] FileManager: download to string from:
+https://oss.sonatype.org/content/groups/public/com/sikulix/sikulixsetupIDE/1.1.2-SNAPSHOT/maven-metadata.xml,
+[debug (5/8/18 4:39:42 PM)] RunSetup: getMavenJar: sikulixsetupIDE-1.1.2-20180308.083933-100-forsetup.jar
+[debug (5/8/18 4:39:45 PM)] FileManager: Downloading sikulixsetupIDE-1.1.2-20180308.083933-100-forsetup.jar having 23015 KB
+[error (5/8/18 4:43:00 PM)] FileManager: problems while downloading
+java.net.SocketException: Software caused connection abort: recv failed
+[debug (5/8/18 4:43:03 PM)] RunSetup: 
+popAsk: --------------------
+If you click YES, you will get Jython version 2.7.0 (recommended)
+... but in rare cases there might be issues with UTF-8/Unicode
+that usually appear on startup when UTF-8 characters
+are present somewhere in the system environment
+If you encounter such problems with Jython 2.7.0
+run setup again and
+click NO to get Jython a 2.5.4 version
+--------------------
+[debug (5/8/18 7:08:20 PM)] FileManager: Downloading jython-standalone-2.5.4-rc1.jar having 10052 KB
+[error (5/9/18 10:50:30 AM)] FileManager: problems while downloading
+java.net.SocketException: Software caused connection abort: recv failed
+[debug (5/9/18 10:50:35 AM)] RunSetup: Download ended
+[debug (5/9/18 10:50:35 AM)] RunSetup: Downloads for selected options:
+sikulixlibswin-1.1.1.jar sikulixsetupIDE-1.1.2-20180308.083933-100-forsetup.jar sikulixsetupAPI-1.1.2-20180308.083909-100-forsetup.jar jython-standalone-2.5.4-rc1.jar 
+[debug (5/9/18 10:50:35 AM)] RunSetup: 
+popError: --------------------
+Some of the downloads did not complete successfully.
+Check the logfile for possible error causes.
+If you think, setup's inline download is blocked somehow on
+your system, you might download the appropriate raw packages manually
+into the folder Downloads in the setup folder and run setup again.
+files to download (information is in the setup log file too)
+sikulixlibswin-1.1.1.jar
+sikulixsetupIDE-1.1.2-20180308.083933-100-forsetup.jar
+sikulixsetupAPI-1.1.2-20180308.083909-100-forsetup.jar
+jython-standalone-2.5.4-rc1.jar
+Be aware: The raw packages are not useable without being processed by setup!
+For other reasons, you might simply try to run setup again.
+--------------------
+[error (5/9/18 10:51:34 AM)] RunSetup: download not completed successfully
+[error (5/9/18 10:51:34 AM)] RunSetup: ... terminated abnormally :-(
+[debug (5/9/18 10:51:34 AM)] RunSetup: 
+popError: --------------------
+Something serious happened! Sikuli not useable!
+Check the error log at E:\OnLife\SeleniumFramework\Sikuli\SikuliX-1.1.2-SetupLog.txt
+--------------------
+[debug (5/9/18 10:51:57 AM)] RunTimeSETUP: final cleanup

@@ -1,0 +1,42 @@
+ClassName,Category,ElementName,LocatorName,ExpectedText
+DevicesAndApps,nutritiondevicename,Fitness Device Name,devices_name,Fitbit
+DevicesAndApps,nutritiondevicename,Fitness Device Name,devices_name,MyFitnessPal
+
+DevicesAndApps,weightdevicename,Fitness Device Name,devices_name,Fitbit
+DevicesAndApps,weightdevicename,Fitness Device Name,devices_name,Garmin Connect
+DevicesAndApps,weightdevicename,Fitness Device Name,devices_name,iHealth
+DevicesAndApps,weightdevicename,Fitness Device Name,devices_name,Nokia
+
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Apple Health Partners
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Samsung Health
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Fitbit
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Garmin Connect
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,iHealth
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Life Fitness
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,MapMyFitness
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Microsoft
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Misfit Wearables
+;DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Moves App
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,MyFitnessPal
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Nokia
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Runkeeper
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Strava
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Suunto
+DevicesAndApps,fitnessdevicename,Fitness Device Name,devices_name,Under Armour Record
+
+;DevicesAndApps,devicename,Apple Health,devices_name,No Title
+;DevicesAndApps,devicename,Samsung Health,devices_name,No Title
+DevicesAndApps,devicename,Fitbit,devices_name,Fitbit
+DevicesAndApps,devicename,Garmin Connect,devices_name,Garmin Connect
+DevicesAndApps,devicename,iHealth,devices_name,iHealth
+DevicesAndApps,devicename,LFconnect,devices_name,Life Fitness
+DevicesAndApps,devicename,Map your routes,devices_name,MapMyFitness
+DevicesAndApps,devicename,Microsoft,devices_name,Microsoft
+DevicesAndApps,devicename,Misfit Authentication,devices_name,Misfit Wearables
+;DevicesAndApps,devicename,Moves,devices_name,Moves App
+DevicesAndApps,devicename,MyFitnessPal,devices_name,MyFitnessPal
+DevicesAndApps,devicename,My account,devices_name,Nokia
+DevicesAndApps,devicename,Runkeeper,devices_name,Runkeeper
+DevicesAndApps,devicename,Strava,devices_name,Strava
+DevicesAndApps,devicename,Suunto,devices_name,Suunto
+DevicesAndApps,devicename,Map your routes,devices_name,Under Armour Record
